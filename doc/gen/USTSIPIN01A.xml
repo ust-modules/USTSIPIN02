@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN01A.kicad_sch</source>
-    <date>Mon May  2 13:51:37 2022</date>
+    <date>Mon May  2 14:47:27 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -389,7 +389,7 @@
       <tstamps>00000000-0000-0000-0000-00005c71374d</tstamps>
     </comp>
     <comp ref="Q1">
-      <value>BF862</value>
+      <value>2SK2394-6</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <libsource lib="MLAB_T" part="Q_NJFET_SDG" description="N-JFET transistor, source/drain/gate"/>
       <property name="Sheetname" value=""/>

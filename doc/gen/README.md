@@ -48,8 +48,8 @@ Eurocircuits class: 4C
 
 Components count: (SMD/THT)
 
-- Top: 39/7 (SMD + THT)
-- Bottom: 70/6 (SMD + THT)
+- Top: 3/5 (SMD + THT)
+- Bottom: 106/5 (SMD + THT)
 
 Defined tracks:
 
@@ -63,11 +63,11 @@ Defined tracks:
 
 Used tracks:
 
-- 0.25 mm (10 mils) (88) defined: yes
+- 0.25 mm (10 mils) (87) defined: yes
 - 0.3 mm (12 mils) (3) defined: yes
-- 0.4 mm (16 mils) (328) defined: yes
-- 0.6 mm (24 mils) (93) defined: yes
-- 0.8 mm (31 mils) (60) defined: yes
+- 0.4 mm (16 mils) (315) defined: yes
+- 0.6 mm (24 mils) (62) defined: yes
+- 0.8 mm (31 mils) (54) defined: yes
 
 Defined vias:
 
@@ -75,7 +75,7 @@ Defined vias:
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 223, Aspect: 2.0 A) defined: yes
+- 0.8/0.4 mm (31/16 mils) (Count: 216, Aspect: 2.0 A) defined: yes
 
 Holes (excluding vias):
 
