@@ -29,7 +29,7 @@ Track width: 0.25 mm (10 mils)
 Drill: 0.4 mm (16 mils)
 
 - Vias: 0.4 mm (16 mils) [Design: 0.3 mm (12 mils)]
-- Pads: 0.76 mm (30 mils)
+- Pads: 0.6 mm (24 mils)
 
 Via: 0.8/0.4 mm (31/16 mils)
 
@@ -48,8 +48,8 @@ Eurocircuits class: 4C
 
 Components count: (SMD/THT)
 
-- Top: 31/34 (SMD + THT)
-- Bottom: 87/8 (SMD + THT)
+- Top: 39/7 (SMD + THT)
+- Bottom: 70/6 (SMD + THT)
 
 Defined tracks:
 
@@ -79,11 +79,9 @@ Used vias:
 
 Holes (excluding vias):
 
+- 0.65 mm (26 mils) (2)
 - 0.76 mm (30 mils) (2)
 - 0.8 mm (31 mils) (2)
-- 0.89 mm (35 mils) (38)
-- 0.92 mm (36 mils) (4)
-- 2.33 mm (92 mils) (2)
 - 2.7 mm (106 mils) (2)
 - 3.0 mm (118 mils) (4)
 
