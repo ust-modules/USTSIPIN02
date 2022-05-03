@@ -1696,13 +1696,8 @@
     (pin "1" (uuid 835cd6a9-3d99-4bbb-bb10-32e305673c83))
     (pin "2" (uuid 6666ebb8-7f0d-4dd3-9714-6dbf3da29945))
     (pin "3" (uuid 8152b822-a5a4-4d89-b807-deab2912fbc1))
-    (pin "4" (uuid 5eaa4fd0-9002-480e-8212-527684d8ef98))
-    (pin "8" (uuid a3f4994e-3185-4a1d-a9a7-1c924898f3f7))
-    (pin "4" (uuid 5eaa4fd0-9002-480e-8212-527684d8ef98))
-    (pin "5" (uuid 6dd24007-4e31-4437-a050-fa6e699c9468))
-    (pin "6" (uuid 2efaba24-aee5-4bea-ae84-dbce9fb4b72e))
-    (pin "7" (uuid edff7200-18c6-4e0c-99f9-a118fc24b63a))
-    (pin "8" (uuid a3f4994e-3185-4a1d-a9a7-1c924898f3f7))
+    (pin "4" (uuid 5eaa4fd0-9002-480e-8212-527684d8ef99))
+    (pin "8" (uuid a3f4994e-3185-4a1d-a9a7-1c924898f3f8))
   )
 
   (symbol (lib_id "MLAB_IO:AD8692") (at 156.21 128.27 0) (mirror x) (unit 1)
@@ -1726,13 +1721,8 @@
     (pin "1" (uuid fdd72ddf-b8f8-450d-8109-47eb95fd1d5d))
     (pin "2" (uuid eb71c812-2a0d-46c4-a081-9baaa81920f6))
     (pin "3" (uuid 0904c24e-7e1e-4b63-afc9-ded1028e8adb))
-    (pin "4" (uuid cb5223de-14b4-4304-a9fd-399710a2269d))
-    (pin "8" (uuid 62d20cde-95a1-4330-8026-688b0a84cea3))
-    (pin "4" (uuid cb5223de-14b4-4304-a9fd-399710a2269d))
-    (pin "5" (uuid c6572db3-53c6-44c0-87ba-0d5a5981aa0d))
-    (pin "6" (uuid b9c3387d-aead-45c5-a28c-bc48d72a0777))
-    (pin "7" (uuid 56a51644-b55f-492b-aa38-d2c3e210984a))
-    (pin "8" (uuid 62d20cde-95a1-4330-8026-688b0a84cea3))
+    (pin "4" (uuid cb5223de-14b4-4304-a9fd-399710a2269e))
+    (pin "8" (uuid 62d20cde-95a1-4330-8026-688b0a84cea4))
   )
 
   (symbol (lib_id "MLAB_IO:AD8692") (at 107.95 125.73 0) (unit 2)
@@ -1753,16 +1743,11 @@
     (property "UST_ID" "" (id 4) (at 107.95 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 815e38da-4e8a-4d91-9c77-2aa0746d5639))
-    (pin "2" (uuid 6fa8342e-2989-40ca-b0ae-b207f17ca831))
-    (pin "3" (uuid c9293921-3f4d-4839-bf8f-cb50bb7c5431))
-    (pin "4" (uuid 6d0b65b2-9bca-4cac-b3fc-a24d33604035))
-    (pin "8" (uuid 02a32bb2-339a-4a27-bcec-2fa0709e79d3))
-    (pin "4" (uuid 6d0b65b2-9bca-4cac-b3fc-a24d33604035))
+    (pin "4" (uuid 6d0b65b2-9bca-4cac-b3fc-a24d33604036))
     (pin "5" (uuid 21124a55-dd44-4501-8d24-cd1fbe734971))
     (pin "6" (uuid 216cbbe1-d578-4508-bcdd-2ddbeebb269e))
     (pin "7" (uuid 4d42d519-bfd8-44d9-912b-6580af16afdf))
-    (pin "8" (uuid 02a32bb2-339a-4a27-bcec-2fa0709e79d3))
+    (pin "8" (uuid 02a32bb2-339a-4a27-bcec-2fa0709e79d4))
   )
 
   (symbol (lib_id "MLAB_IO:AD8692") (at 229.87 96.52 0) (unit 2)
@@ -1783,16 +1768,11 @@
     (property "UST_ID" "" (id 4) (at 229.87 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3510a739-668e-4f11-83a1-6481b757b3f0))
-    (pin "2" (uuid 9c3da690-2fa9-46db-8a28-a3110e00961e))
-    (pin "3" (uuid 4e8df529-8d47-4e77-865b-b182783e5fc5))
-    (pin "4" (uuid a8d60ebf-82db-44d5-8636-bba7d23b3d4a))
-    (pin "8" (uuid 6dfae60b-e221-4133-9821-c7c0fc59c01d))
-    (pin "4" (uuid a8d60ebf-82db-44d5-8636-bba7d23b3d4a))
+    (pin "4" (uuid a8d60ebf-82db-44d5-8636-bba7d23b3d4b))
     (pin "5" (uuid b60a662c-9b7e-47dd-8993-bf0e9c6d54e4))
     (pin "6" (uuid e808684d-a8db-4ece-a1e7-84a501436fa1))
     (pin "7" (uuid e3ebfcf1-00fa-44c1-8b46-7982032b6f28))
-    (pin "8" (uuid 6dfae60b-e221-4133-9821-c7c0fc59c01d))
+    (pin "8" (uuid 6dfae60b-e221-4133-9821-c7c0fc59c01e))
   )
 
   (symbol (lib_id "Device:C") (at 44.45 132.08 0) (unit 1)
@@ -3307,7 +3287,7 @@
     (property "Reference" "Q1" (id 0) (at 27.94 90.1698 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 27.94 92.7098 0)
+    (property "Value" "2SK2394-6" (id 1) (at 27.94 92.7098 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 27.94 88.9 0)
@@ -3503,12 +3483,6 @@
     (path "/00000000-0000-0000-0000-00005c69bcb4/9cac0d14-0713-4a9b-b912-3ae7be0759dc"
       (reference "#PWR044") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005c69bcb4/93528073-c0cb-4183-a6d8-18d260ff8463"
-      (reference "#PWR046") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c69bcb4/91d14c97-5067-46dc-833d-758c3007da2a"
-      (reference "#PWR047") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005b3dc120"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -3652,6 +3626,12 @@
     )
     (path "/00000000-0000-0000-0000-00005c69bcb4/00000000-0000-0000-0000-00005c6d0f0f"
       (reference "#PWR0171") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005c69bcb4/adb76a2a-bf68-4549-b705-c85f6ebc67ff"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005c69bcb4/bbe736ba-72b3-4b0f-8f28-b8b9a7812b71"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005b46ae4b"
       (reference "C1") (unit 1) (value "47uF/6V3") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -3976,6 +3956,12 @@
     )
     (path "/00000000-0000-0000-0000-00005c69bcb4/cebf034e-02ff-4461-87be-b9b33628bc2c"
       (reference "R31") (unit 1) (value "5k1") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-00005c4aedd8/3e2cc6d6-d223-4ebd-82bf-5723d1fd76b8"
+      (reference "R?") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-00005c4aedd8/a8b4ea89-6f58-45df-bee1-0c71b5c38ff1"
+      (reference "R?") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005b39c1e6"
       (reference "U1") (unit 1) (value "OPA2314") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
