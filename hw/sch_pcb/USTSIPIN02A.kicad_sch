@@ -1939,7 +1939,7 @@
     (property "Reference" "C3" (id 0) (at 47.371 130.9116 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4u7" (id 1) (at 47.371 133.223 0)
+    (property "Value" "1uF" (id 1) (at 47.371 133.223 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 45.4152 135.89 0)
@@ -2455,7 +2455,7 @@
     (property "Reference" "C17" (id 0) (at 145.161 134.7216 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4u7" (id 1) (at 145.161 137.033 0)
+    (property "Value" "1uF" (id 1) (at 145.161 137.033 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 143.2052 139.7 0)
@@ -4102,6 +4102,9 @@
     (path "/00000000-0000-0000-0000-00005c4aedd8/4c4bbfe9-4c36-431b-9da3-1acea2cee4c2"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00005c4aedd8/69adadb9-ff3c-4ce2-814d-b306f29ff7c0"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005c4aedd8/dc503e7a-3881-44c7-9dce-fab3105d1bb4"
       (reference "BT?") (unit 1) (value "KEYS2998") (footprint "")
     )
@@ -4112,7 +4115,7 @@
       (reference "C2") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005b39c727"
-      (reference "C3") (unit 1) (value "4u7") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C3") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005b46aed9"
       (reference "C4") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -4154,7 +4157,7 @@
       (reference "C16") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005b3e1723"
-      (reference "C17") (unit 1) (value "4u7") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C17") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005b3e8e3e"
       (reference "C18") (unit 1) (value "2n2") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -4281,6 +4284,9 @@
     )
     (path "/1625979d-7f10-4300-bc33-bc42ae4410e0"
       (reference "C59") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-00005c4aedd8/5c120615-7b34-4376-98c4-994ae5b3b131"
+      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005c69bcb4/b879c0f5-5e6c-4b4f-bb4c-6b0f2760c9ee"
       (reference "D1") (unit 1) (value "BZX585-B5V6.115") (footprint "Diode_SMD:D_SOD-523")
