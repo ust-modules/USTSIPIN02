@@ -3,10 +3,10 @@
 Board size: 90.93x50.29 mm (3.58x1.98 inches)
 
 - This is the size of the rectangle that contains the board
-- Thickness: 1.6 mm (63 mils)
+- Thickness: 4.69 mm (185 mils)
 - Material: FR4
-- Finish: HAL
-- Layers: 2
+- Finish: None
+- Layers: 4
 - Copper thickness: 35 µm
 
 Solder mask: TOP / BOTTOM
@@ -17,6 +17,23 @@ Silk screen: TOP / BOTTOM
 
 - Color: White
 
+
+Stackup:
+
+| Name                 | Type                 | Color    | Thickness | Material        | Epsilon_r | Loss tangent |
+|----------------------|----------------------|----------|-----------|-----------------|-----------|--------------|
+| F.SilkS              | Top Silk Screen      |          |           |                 |           |              |
+| F.Mask               | Top Solder Mask      |          |        10 |                 |           |              |
+| F.Cu                 | copper               |          |        35 |                 |           |              |
+| dielectric 1         | core                 |          |      1510 | FR4             |       4.5 |         0.02 |
+| In1.Cu               | copper               |          |        35 |                 |           |              |
+| dielectric 2         | prepreg              |          |      1510 | FR4             |       4.5 |         0.02 |
+| In2.Cu               | copper               |          |        35 |                 |           |              |
+| dielectric 3         | core                 |          |      1510 | FR4             |       4.5 |         0.02 |
+| B.Cu                 | copper               |          |        35 |                 |           |              |
+| B.Mask               | Bottom Solder Mask   |          |        10 |                 |           |              |
+| B.Paste              | Bottom Solder Paste  |          |           |                 |           |              |
+| B.SilkS              | Bottom Silk Screen   |          |           |                 |           |              |
 
 # Important sizes
 
@@ -48,8 +65,8 @@ Eurocircuits class: 4C
 
 Components count: (SMD/THT)
 
-- Top: 3/5 (SMD + THT)
-- Bottom: 106/5 (SMD + THT)
+- Top: 14/10 (SMD + THT)
+- Bottom: 115/5 (SMD + THT)
 
 Defined tracks:
 
@@ -63,26 +80,26 @@ Defined tracks:
 
 Used tracks:
 
-- 0.25 mm (10 mils) (87) defined: yes
+- 0.25 mm (10 mils) (79) defined: yes
 - 0.3 mm (12 mils) (3) defined: yes
-- 0.4 mm (16 mils) (315) defined: yes
-- 0.6 mm (24 mils) (62) defined: yes
-- 0.8 mm (31 mils) (54) defined: yes
+- 0.4 mm (16 mils) (319) defined: yes
+- 0.6 mm (24 mils) (57) defined: yes
+- 0.8 mm (31 mils) (34) defined: yes
 
 Defined vias:
 
-- 0.8/0.4 mm (31/16 mils)
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 216, Aspect: 2.0 A) defined: yes
+- 0.8/0.4 mm (31/16 mils) (Count: 122, Aspect: 5.9 B) defined: no
 
 Holes (excluding vias):
 
 - 0.65 mm (26 mils) (2)
 - 0.76 mm (30 mils) (2)
 - 0.8 mm (31 mils) (2)
-- 2.7 mm (106 mils) (2)
+- 0.89 mm (35 mils) (2)
+- 2.7 mm (106 mils) (6)
 - 3.0 mm (118 mils) (4)
 
 
