@@ -73,7 +73,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "L1","10uH - LQH32CN100K23L","L_1210_3225Metric_Pad1.42x2.65mm_HandSolder",76.0730,32.8930,180.0000,bottom
 "L2","100uH","L_0805_2012Metric_Pad1.15x1.40mm_HandSolder",136.7785,-45.5900,180.0000,bottom
 "L3","DFE252012P-4R7M","L_0805_2012Metric_Pad1.15x1.40mm_HandSolder",61.7220,20.0660,180.0000,bottom
-"M8","BMI-S-204-F","Laird_Technologies_BMI-S-204-F_32.00x32.00mm",18.2720,25.4000,0.0000,top
+"M8","BMI-S-204-F","Laird_Technologies_BMI-S-204-F_32.00x32.00mm",18.2720,25.4000,0.0000,bottom
 "Q1","2SK2394-6","SOT-23",8.6868,37.6428,-90.0000,bottom
 "R1","10R","R_0603_1608Metric",29.0576,15.7480,90.0000,bottom
 "R2","470R","R_0603_1608Metric",18.2880,23.2156,-90.0000,bottom
