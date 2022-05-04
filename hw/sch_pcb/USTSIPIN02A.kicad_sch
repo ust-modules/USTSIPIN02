@@ -3952,9 +3952,6 @@
     (path "/00000000-0000-0000-0000-00005c69bcb4/97d4f41c-8ba1-4007-baf4-451a23fc585c"
       (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005c4aedd8/00000000-0000-0000-0000-00005c634bea"
-      (reference "#PWR0108") (unit 1) (value "+3.3V") (footprint "")
-    )
     (path "/32e6c31f-0d5f-4ca9-8e6d-c46f460acded"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
@@ -4101,6 +4098,12 @@
     )
     (path "/00000000-0000-0000-0000-00005c69bcb4/00000000-0000-0000-0000-00005c6d0f0f"
       (reference "#PWR0171") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005c4aedd8/4c4bbfe9-4c36-431b-9da3-1acea2cee4c2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005c4aedd8/dc503e7a-3881-44c7-9dce-fab3105d1bb4"
+      (reference "BT?") (unit 1) (value "KEYS2998") (footprint "")
     )
     (path "/a8410693-dff5-42df-a4b3-a9aad46f9e0b"
       (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
