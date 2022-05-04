@@ -13,7 +13,7 @@
         (company "Mlab www.mlab.cz") 
         (rev REV) 
         (date %F) 
-        (source USTSIPIN01A.sch) 
+        (source USTSIPIN02A.sch) 
         (comment 
           (number 1) 
           (value VERSION)) 
