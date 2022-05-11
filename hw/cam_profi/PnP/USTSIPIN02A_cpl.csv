@@ -1,7 +1,7 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C1","10uF","C_0603_1608Metric",17.4244,18.3388,0.0000,bottom
 "C2","100nF","C_0603_1608Metric",23.0124,34.4932,-90.0000,bottom
-"C3","4u7","C_0603_1608Metric",5.2400,29.9025,90.0000,bottom
+"C3","1uF","C_0603_1608Metric",5.2400,29.9025,90.0000,bottom
 "C4","10uF","C_0603_1608Metric",17.4244,20.2184,0.0000,bottom
 "C5","1pFNP0 251R15S1R0AV4E","C_0805_2012Metric",6.8275,23.8700,180.0000,bottom
 "C6","10uF","C_0603_1608Metric",14.6812,23.3172,-90.0000,bottom
@@ -15,7 +15,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C14","100nF","C_0603_1608Metric",21.2852,15.9004,0.0000,bottom
 "C15","3n3","C_0603_1608Metric",16.7640,27.6860,90.0000,bottom
 "C16","100nF","C_0603_1608Metric",18.5420,27.6860,-90.0000,bottom
-"C17","4u7","C_0603_1608Metric",22.9616,28.2956,180.0000,bottom
+"C17","1uF","C_0603_1608Metric",22.9616,28.2956,180.0000,bottom
 "C18","2n2","C_0603_1608Metric",23.7744,25.5394,90.0000,bottom
 "C19","1nF/NP0","C_0805_2012Metric",31.1912,31.3944,90.0000,bottom
 "C20","100nF","C_0603_1608Metric",9.1440,16.9672,-90.0000,bottom
