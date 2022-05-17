@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Wed May 11 12:14:14 2022</date>
+    <date>Tue May 17 20:47:56 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -405,36 +405,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005b3d3f18</tstamps>
     </comp>
-    <comp ref="M5">
-      <value>BMI-S-210-F</value>
-      <footprint>Mlab_Mechanical:BMI-S-210-F</footprint>
-      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
-      <property name="UST_ID" value=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c7015d6</tstamps>
-    </comp>
-    <comp ref="M6">
-      <value>BMI-S-210-F</value>
-      <footprint>Mlab_Mechanical:BMI-S-210-F</footprint>
-      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
-      <property name="UST_ID" value=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b47dba2</tstamps>
-    </comp>
-    <comp ref="M7">
-      <value>BMI-S-210-F</value>
-      <footprint>Mlab_Mechanical:BMI-S-210-F</footprint>
-      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
-      <property name="UST_ID" value=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c564e7a</tstamps>
-    </comp>
     <comp ref="M8">
       <value>BMI-S-204-F</value>
       <footprint>RF_Shielding:Laird_Technologies_BMI-S-204-F_32.00x32.00mm</footprint>
@@ -717,6 +687,7 @@
     </comp>
     <comp ref="BT1">
       <value>KEYS2998</value>
+      <footprint>Battery:BatteryHolder_Keystone_2998_1x6.8mm</footprint>
       <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
@@ -895,7 +866,7 @@
     </comp>
     <comp ref="D7">
       <value>GREEN</value>
-      <footprint>Mlab_D:LED_1206</footprint>
+      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f8895</field>
       </fields>
@@ -908,7 +879,7 @@
     </comp>
     <comp ref="D8">
       <value>GREEN</value>
-      <footprint>Mlab_D:LED_1206</footprint>
+      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f8895</field>
       </fields>
@@ -921,7 +892,7 @@
     </comp>
     <comp ref="D9">
       <value>GREEN</value>
-      <footprint>Mlab_D:LED_1206</footprint>
+      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f8895</field>
       </fields>
@@ -1437,7 +1408,7 @@
     </comp>
     <comp ref="D3">
       <value>RED</value>
-      <footprint>Mlab_D:LED_1206</footprint>
+      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -1446,7 +1417,7 @@
     </comp>
     <comp ref="D4">
       <value>GREEN</value>
-      <footprint>Mlab_D:LED_1206</footprint>
+      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -1477,7 +1448,7 @@
     </comp>
     <comp ref="D10">
       <value>GREEN</value>
-      <footprint>Mlab_D:LED_1206</footprint>
+      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
@@ -2616,9 +2587,6 @@
       <node ref="M2" pin="1" pintype="input"/>
       <node ref="M3" pin="1" pintype="input"/>
       <node ref="M4" pin="1" pintype="input"/>
-      <node ref="M5" pin="1" pintype="input"/>
-      <node ref="M6" pin="1" pintype="input"/>
-      <node ref="M7" pin="1" pintype="input"/>
       <node ref="M8" pin="1" pintype="input"/>
       <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
       <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
