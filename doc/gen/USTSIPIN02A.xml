@@ -2,19 +2,19 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Sat May 21 21:40:56 2022</date>
+    <date>Sat May 21 22:42:47 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>NAME</title>
-        <company>Mlab www.mlab.cz</company>
-        <rev>REV</rev>
-        <date>%F</date>
+        <title>USTSIPIN02A</title>
+        <company>UST.cz</company>
+        <rev/>
+        <date>2022-05-22</date>
         <source>USTSIPIN02A.kicad_sch</source>
-        <comment number="1" value="VERSION"/>
-        <comment number="2" value="Short description \nTwo lines are maximum"/>
-        <comment number="3" value="nickname &lt;email@example.com&gt;"/>
-        <comment number="4" value="BSD"/>
+        <comment number="1" value=""/>
+        <comment number="2" value="USTSIPIN, Silicon PIN dosimeter"/>
+        <comment number="3" value="info@ust.cz"/>
+        <comment number="4" value=""/>
         <comment number="5" value=""/>
         <comment number="6" value=""/>
         <comment number="7" value=""/>
@@ -27,7 +27,7 @@
         <title/>
         <company/>
         <rev/>
-        <date/>
+        <date>2022-05-22</date>
         <source>cpu.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -45,7 +45,7 @@
         <title/>
         <company/>
         <rev/>
-        <date/>
+        <date>2022-05-22</date>
         <source>power.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
