@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -32,7 +32,7 @@
       2,
       3,
       4,
-      6,
+      5,
       8,
       9,
       10,
@@ -42,6 +42,8 @@
       14,
       15,
       16,
+      17,
+      18,
       19,
       20,
       21,
@@ -49,16 +51,19 @@
       23,
       24,
       25,
+      26,
+      27,
+      28,
+      29,
+      30,
       32,
       33,
       34,
       35,
-      36,
-      37,
-      38
+      36
     ],
-    "visible_layers": "003f0f4_80000007",
-    "zone_display_mode": 1
+    "visible_layers": "fffffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "USTSIPIN02A.kicad_prl",
