@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Sat May 21 18:43:49 2022</date>
+    <date>Sat May 21 20:20:52 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2500,11 +2500,11 @@
       <node ref="U9" pin="8" pinfunction="USBDP" pintype="bidirectional"/>
     </net>
     <net code="34" name="/power/RXLED{slash}CBUS1">
-      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
       <node ref="U9" pin="14" pinfunction="CBUS1" pintype="bidirectional"/>
     </net>
     <net code="35" name="/power/TXLED{slash}CBUS2">
-      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
       <node ref="U9" pin="7" pinfunction="CBUS2" pintype="bidirectional"/>
     </net>
     <net code="36" name="/power/VBUS">
