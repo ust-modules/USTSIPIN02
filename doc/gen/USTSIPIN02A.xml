@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Sat May 21 22:42:47 2022</date>
+    <date>Sun May 22 11:51:57 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1455,6 +1455,17 @@
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>8b633b1f-aecc-4019-952a-16045bf42da6</tstamps>
     </comp>
+    <comp ref="D11">
+      <value>BZX585-B5V6.115</value>
+      <footprint>Diode_SMD:D_SOD-523</footprint>
+      <libsource lib="MLAB_D" part="D_ZENER" description=""/>
+      <property name="UST_id" value=""/>
+      <property name="UST_ID" value=""/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>b90d91e0-16ba-477a-ba58-bc2978e60290</tstamps>
+    </comp>
     <comp ref="F2">
       <value>SR010-15 100mA </value>
       <footprint>Fuse:Fuse_0805_2012Metric</footprint>
@@ -1474,6 +1485,15 @@
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>ba19ed87-6acf-49a5-9def-fa3621e94dfd</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>SM03B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</footprint>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM03B-GHS-TB" description=""/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>d46c2d73-379f-42b5-81a1-576937a46f8f</tstamps>
     </comp>
     <comp ref="L3">
       <value>DFE252012P-4R7M</value>
@@ -1873,6 +1893,19 @@
         <pin num="G2" name="SHIELD" type="passive"/>
         <pin num="G3" name="SHIELD" type="passive"/>
         <pin num="G4" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_CONNECTORS_JST" part="SM03B-GHS-TB">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SM03B-GHS-TB</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="MP" name="" type="input"/>
       </pins>
     </libpart>
     <libpart lib="MLAB_CONNECTORS_JST" part="SM06B-GHS-TB">
@@ -2322,9 +2355,12 @@
       <node ref="C49" pin="1" pintype="passive"/>
       <node ref="C51" pin="1" pintype="passive"/>
       <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="J22" pin="2" pintype="input"/>
+      <node ref="J7" pin="2" pintype="input"/>
       <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R20" pin="2" pintype="passive"/>
       <node ref="R21" pin="2" pintype="passive"/>
@@ -2569,6 +2605,7 @@
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="J1" pin="8" pintype="input"/>
       <node ref="J1" pin="MP" pintype="input"/>
       <node ref="J2" pin="12" pinfunction="SHELL1" pintype="input"/>
@@ -2583,6 +2620,9 @@
       <node ref="J4" pin="G2" pinfunction="SHIELD" pintype="passive"/>
       <node ref="J4" pin="G3" pinfunction="SHIELD" pintype="passive"/>
       <node ref="J4" pin="G4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J7" pin="1" pintype="input"/>
+      <node ref="J7" pin="3" pintype="input"/>
+      <node ref="J7" pin="MP" pintype="input"/>
       <node ref="M1" pin="1" pintype="input"/>
       <node ref="M2" pin="1" pintype="input"/>
       <node ref="M3" pin="1" pintype="input"/>
@@ -2894,7 +2934,7 @@
     <net code="93" name="RST#">
       <node ref="C43" pin="2" pintype="passive"/>
       <node ref="R32" pin="1" pintype="passive"/>
-      <node ref="U9" pin="19" pinfunction="~{RTS}" pintype="output"/>
+      <node ref="U9" pin="18" pinfunction="~{DTR}" pintype="output"/>
     </net>
     <net code="94" name="RX0">
       <node ref="R33" pin="1" pintype="passive"/>
@@ -2915,7 +2955,6 @@
       <node ref="C41" pin="1" pintype="passive"/>
       <node ref="C46" pin="1" pintype="passive"/>
       <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U12" pin="1" pinfunction="VIN" pintype="power_in"/>
       <node ref="U12" pin="3" pinfunction="EN" pintype="input"/>
@@ -2936,25 +2975,25 @@
       <node ref="J4" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
     <net code="103" name="unconnected-(U9-Pad2)">
-      <node ref="U9" pin="2" pinfunction="~{RI}" pintype="input"/>
+      <node ref="U9" pin="2" pinfunction="~{RI}" pintype="input+no_connect"/>
     </net>
     <net code="104" name="unconnected-(U9-Pad4)">
-      <node ref="U9" pin="4" pinfunction="~{DSR}" pintype="input"/>
+      <node ref="U9" pin="4" pinfunction="~{DSR}" pintype="input+no_connect"/>
     </net>
     <net code="105" name="unconnected-(U9-Pad5)">
-      <node ref="U9" pin="5" pinfunction="~{DCD}" pintype="input"/>
+      <node ref="U9" pin="5" pinfunction="~{DCD}" pintype="input+no_connect"/>
     </net>
     <net code="106" name="unconnected-(U9-Pad6)">
-      <node ref="U9" pin="6" pinfunction="~{CTS}" pintype="input"/>
+      <node ref="U9" pin="6" pinfunction="~{CTS}" pintype="input+no_connect"/>
     </net>
     <net code="107" name="unconnected-(U9-Pad15)">
-      <node ref="U9" pin="15" pinfunction="CBUS0" pintype="bidirectional"/>
+      <node ref="U9" pin="15" pinfunction="CBUS0" pintype="bidirectional+no_connect"/>
     </net>
     <net code="108" name="unconnected-(U9-Pad16)">
-      <node ref="U9" pin="16" pinfunction="CBUS3" pintype="bidirectional"/>
+      <node ref="U9" pin="16" pinfunction="CBUS3" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="109" name="unconnected-(U9-Pad18)">
-      <node ref="U9" pin="18" pinfunction="~{DTR}" pintype="output"/>
+    <net code="109" name="unconnected-(U9-Pad19)">
+      <node ref="U9" pin="19" pinfunction="~{RTS}" pintype="output+no_connect"/>
     </net>
     <net code="110" name="unconnected-(U10-Pad21)">
       <node ref="U10" pin="21" pinfunction="(PCINT18/TCK)PC2" pintype="bidirectional+no_connect"/>
