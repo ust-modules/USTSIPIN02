@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Sun May 22 13:18:07 2022</date>
+    <date>Mon May 23 14:27:39 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -688,7 +688,11 @@
     <comp ref="BT1">
       <value>KEYS2998</value>
       <footprint>Battery:BatteryHolder_Keystone_2998_1x6.8mm</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f87ea</field>
+      </fields>
       <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="UST_ID" value="5c70984412875079b91f87ea"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -865,13 +869,13 @@
       <tstamps>5c120615-7b34-4376-98c4-994ae5b3b131</tstamps>
     </comp>
     <comp ref="D7">
-      <value>GREEN</value>
+      <value>RED</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984412875079b91f8895</field>
+        <field name="UST_ID">60d581db1287500165f859a2</field>
       </fields>
       <libsource lib="GPS02A-rescue" part="LED-Device" description=""/>
-      <property name="UST_ID" value="5c70984412875079b91f8895"/>
+      <property name="UST_ID" value="60d581db1287500165f859a2"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -881,23 +885,23 @@
       <value>GREEN</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984412875079b91f8895</field>
+        <field name="UST_ID">60d582331287500165f859d0</field>
       </fields>
       <libsource lib="GPS02A-rescue" part="LED-Device" description=""/>
-      <property name="UST_ID" value="5c70984412875079b91f8895"/>
+      <property name="UST_ID" value="60d582331287500165f859d0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>12e97984-6b6d-466f-8802-7b3f5d206135</tstamps>
     </comp>
     <comp ref="D9">
-      <value>GREEN</value>
+      <value>BLUE</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984412875079b91f8895</field>
+        <field name="UST_ID">60d582f21287500165f85a23</field>
       </fields>
       <libsource lib="GPS02A-rescue" part="LED-Device" description=""/>
-      <property name="UST_ID" value="5c70984412875079b91f8895"/>
+      <property name="UST_ID" value="60d582f21287500165f85a23"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -992,11 +996,8 @@
     <comp ref="Q2">
       <value>BC817-25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <fields>
-        <field name="UST_ID">5c70984712875079b91f8aea</field>
-      </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
-      <property name="UST_ID" value="5c70984712875079b91f8aea"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1005,11 +1006,8 @@
     <comp ref="Q3">
       <value>BC817-25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <fields>
-        <field name="UST_ID">5c70984712875079b91f8aea</field>
-      </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
-      <property name="UST_ID" value="5c70984712875079b91f8aea"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1018,11 +1016,8 @@
     <comp ref="Q4">
       <value>BC817-25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <fields>
-        <field name="UST_ID">5c70984712875079b91f8aea</field>
-      </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
-      <property name="UST_ID" value="5c70984712875079b91f8aea"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1129,78 +1124,69 @@
       <tstamps>3e2cc6d6-d223-4ebd-82bf-5723d1fd76b8</tstamps>
     </comp>
     <comp ref="R35">
-      <value>220R</value>
+      <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f897f</field>
-      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f897f"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>0f61b633-6749-447a-8162-37bccdf66fbe</tstamps>
     </comp>
     <comp ref="R36">
-      <value>220R</value>
+      <value>82R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f897f</field>
+        <field name="UST_ID">5c70984512875079b91f8955</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f897f"/>
+      <property name="UST_ID" value="5c70984512875079b91f8955"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>ce7b0aea-0b34-49a1-b2fd-1fdd31930573</tstamps>
     </comp>
     <comp ref="R37">
-      <value>220R</value>
+      <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f897f</field>
-      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f897f"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>fd3e0823-a4a6-42b2-9a29-2670362732e8</tstamps>
     </comp>
     <comp ref="R42">
-      <value>220R</value>
+      <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f897f</field>
-      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f897f"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>9f86b7c3-5d85-41db-9ffa-cffe7c7d4bb1</tstamps>
     </comp>
     <comp ref="R43">
-      <value>220R</value>
+      <value>18R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f897f</field>
+        <field name="UST_ID">5c70984512875079b91f8951</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f897f"/>
+      <property name="UST_ID" value="5c70984512875079b91f8951"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>bd8fa4eb-cc3b-4d25-9f80-6c475fc6f724</tstamps>
     </comp>
     <comp ref="R44">
-      <value>220R</value>
+      <value>51R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f897f</field>
+        <field name="UST_ID">5c70984512875079b91f8953</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f897f"/>
+      <property name="UST_ID" value="5c70984512875079b91f8953"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1407,18 +1393,26 @@
       <tstamps>b879c0f5-5e6c-4b4f-bb4c-6b0f2760c9ee</tstamps>
     </comp>
     <comp ref="D3">
-      <value>RED</value>
+      <value>YELLOW</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
+      <fields>
+        <field name="UST_ID">60d582a31287500165f859f8</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="UST_ID" value="60d582a31287500165f859f8"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>03606b54-e4e0-4321-83d9-55ea0b67bc0e</tstamps>
     </comp>
     <comp ref="D4">
-      <value>GREEN</value>
+      <value>YELLOW</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
+      <fields>
+        <field name="UST_ID">60d582a31287500165f859f8</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="UST_ID" value="60d582a31287500165f859f8"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1447,9 +1441,13 @@
       <tstamps>32786df7-3b7f-4686-9166-738f3a9f5473</tstamps>
     </comp>
     <comp ref="D10">
-      <value>GREEN</value>
+      <value>RED</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
+      <fields>
+        <field name="UST_ID">60d581db1287500165f859a2</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="UST_ID" value="60d581db1287500165f859a2"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1564,6 +1562,7 @@
     <comp ref="R38">
       <value>180R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>5c70984512875079b91f8951</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
