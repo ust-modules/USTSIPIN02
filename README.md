@@ -22,10 +22,10 @@ It is intended for masurement of cosmic radiation and dosimetry by using Silicon
 
 ### Programming interface
 
-:Pin name: Function: Description :
-:---:---:----:
-: PB5  : MOSI : :
-: PB6  : MISO : :
-: PB7  : CLK  : :
-: #RST : RST# : :
-: GND  : GND : : 
+|Pin name | Function | Description |
+|---|---|----|
+| PB5  | MOSI | | 
+| PB6  | MISO | |
+| PB7  | CLK  | |
+| #RST | RST# | |
+| GND  | GND  | |
