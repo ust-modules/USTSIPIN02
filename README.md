@@ -16,3 +16,16 @@ It is intended for masurement of cosmic radiation and dosimetry by using Silicon
 * Integration time 15 s
 * Interface - RS232 TTL
 * H x W  x  L - 15mm x 51mm x 91mm
+
+
+
+
+### Programming interface
+
+:Pin name: Function: Description :
+:---:---:----:
+: PB5  : MOSI : :
+: PB6  : MISO : :
+: PB7  : CLK  : :
+: #RST : RST# : :
+: GND  : GND : : 
