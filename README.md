@@ -1,4 +1,4 @@
-# USTSIPIN01C
+# USTSIPIN02A
 
 It is intended for masurement of cosmic radiation and dosimetry by using Silicon PIN diode sensor.  
 
