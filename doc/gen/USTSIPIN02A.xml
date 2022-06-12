@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Tue May 24 17:31:50 2022</date>
+    <date>Sun Jun 12 17:29:04 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -12,7 +12,7 @@
         <date>2022-05-22</date>
         <source>USTSIPIN02A.kicad_sch</source>
         <comment number="1" value=""/>
-        <comment number="2" value="USTSIPIN, Silicon PIN dosimeter"/>
+        <comment number="2" value="Silicon PIN diode based\ndosimeter"/>
         <comment number="3" value="info@ust.cz"/>
         <comment number="4" value=""/>
         <comment number="5" value=""/>
@@ -24,14 +24,14 @@
     </sheet>
     <sheet number="2" name="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/">
       <title_block>
-        <title/>
-        <company/>
+        <title>USTSIPIN02A</title>
+        <company>UST.cz</company>
         <rev/>
         <date>2022-05-22</date>
         <source>cpu.kicad_sch</source>
         <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="2" value="Silicon PIN diode based\ndosimeter"/>
+        <comment number="3" value="info@ust.cz"/>
         <comment number="4" value=""/>
         <comment number="5" value=""/>
         <comment number="6" value=""/>
@@ -42,14 +42,14 @@
     </sheet>
     <sheet number="3" name="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/">
       <title_block>
-        <title/>
-        <company/>
+        <title>USTSIPIN02A</title>
+        <company>UST.cz</company>
         <rev/>
         <date>2022-05-22</date>
         <source>power.kicad_sch</source>
         <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="2" value="Silicon PIN diode based\ndosimeter"/>
+        <comment number="3" value="info@ust.cz"/>
         <comment number="4" value=""/>
         <comment number="5" value=""/>
         <comment number="6" value=""/>
