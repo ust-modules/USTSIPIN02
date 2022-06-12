@@ -14,7 +14,7 @@ It is intended for masurement of cosmic radiation and dosimetry by using Silicon
 * Energy measurement resolution better than 50 keV/channel but exact value depends on firmware and analog front-end setup. 
 * Power supply 3.3 V / 3 mA
 * Integration time 15 s
-* Interface - RS232 TTL or USB-C
+* Interface - RS232 TTL on JST-GH connector or USB-C device
 * H x W  x  L - 15mm x 51mm x 91mm
 
 ### Programming interface
