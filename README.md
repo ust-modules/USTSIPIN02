@@ -13,7 +13,7 @@ It is intended for masurement of cosmic radiation and dosimetry by using Silicon
 * Deposited energy range from 200 keV to 12 MeV, the measurement range could be adjusted by altering values in analog front end
 * Energy measurement resolution better than 50 keV/channel but exact value depends on firmware and analog front-end setup. 
 * Power supply 3.3 V / 3 mA
-* Integration time 15 s
+* Integration time depends on specific firmware setup
 * Interface - RS232 TTL on JST-GH connector or USB-C device
 * H x W  x  L - 15mm x 51mm x 91mm
 
