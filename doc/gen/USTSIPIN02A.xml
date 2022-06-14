@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Sun Jun 12 17:29:04 2022</date>
+    <date>Tue Jun 14 09:48:27 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -3381,10 +3381,10 @@
       <node ref="U12" pin="3" pinfunction="EN" pintype="input"/>
     </net>
     <net code="98" name="unconnected-(J2-Pad8)">
-      <node ref="J2" pin="8" pinfunction="DAT1" pintype="input"/>
+      <node ref="J2" pin="8" pinfunction="DAT1" pintype="input+no_connect"/>
     </net>
     <net code="99" name="unconnected-(J2-Pad9)">
-      <node ref="J2" pin="9" pinfunction="DAT2" pintype="input"/>
+      <node ref="J2" pin="9" pinfunction="DAT2" pintype="input+no_connect"/>
     </net>
     <net code="100" name="unconnected-(J3-Pad4)">
       <node ref="J3" pin="4" pintype="input+no_connect"/>
