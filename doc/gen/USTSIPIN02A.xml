@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Tue Jun 14 09:48:27 2022</date>
+    <date>Mon Jul 18 18:06:27 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -552,13 +552,13 @@
       <tstamps>00000000-0000-0000-0000-00005b46aaec</tstamps>
     </comp>
     <comp ref="R3">
-      <value>470R</value>
+      <value>10R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8959</field>
+        <field name="UST_ID">5c70984512875079b91f894f</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8959"/>
+      <property name="UST_ID" value="5c70984512875079b91f894f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1487,13 +1487,13 @@
       <tstamps>be8cb987-cb4a-4d27-ae49-4a5a17dabced</tstamps>
     </comp>
     <comp ref="R45">
-      <value>100R</value>
+      <value>10R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8956</field>
+        <field name="UST_ID">5c70984512875079b91f894f</field>
       </fields>
       <libsource lib="SPACEDOS02A_PCB01A-rescue" part="R-device-DATALOGGER01A-rescue-CCP2019V01A-rescue-SPACEDOS01A_PCB01A-rescue-SPACEDOS01B_PCB01A-rescue" description=""/>
-      <property name="UST_ID" value="5c70984512875079b91f8956"/>
+      <property name="UST_ID" value="5c70984512875079b91f894f"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
