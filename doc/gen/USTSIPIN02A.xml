@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Mon Jul 18 18:06:27 2022</date>
+    <date>Thu Aug 11 07:45:05 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -298,10 +298,10 @@
       <value>1nF/NP0</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">628d107bdc56076e9a2235a1</field>
+        <field name="UST_ID">5c70984812875079b91f8ba6</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="628d107bdc56076e9a2235a1"/>
+      <property name="UST_ID" value="5c70984812875079b91f8ba6"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1103,10 +1103,10 @@
       <value>RED</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="UST_ID">60d581db1287500165f859a2</field>
+        <field name="UST_ID">5c70984412875079b91f8896</field>
       </fields>
       <libsource lib="GPS02A-rescue" part="LED-Device" description=""/>
-      <property name="UST_ID" value="60d581db1287500165f859a2"/>
+      <property name="UST_ID" value="5c70984412875079b91f8896"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1116,10 +1116,10 @@
       <value>GREEN</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="UST_ID">60d582331287500165f859d0</field>
+        <field name="UST_ID">5c70984412875079b91f8895</field>
       </fields>
       <libsource lib="GPS02A-rescue" part="LED-Device" description=""/>
-      <property name="UST_ID" value="60d582331287500165f859d0"/>
+      <property name="UST_ID" value="5c70984412875079b91f8895"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1129,10 +1129,10 @@
       <value>BLUE</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="UST_ID">60d582f21287500165f85a23</field>
+        <field name="UST_ID">5c70984512875079b91f8898</field>
       </fields>
       <libsource lib="GPS02A-rescue" part="LED-Device" description=""/>
-      <property name="UST_ID" value="60d582f21287500165f85a23"/>
+      <property name="UST_ID" value="5c70984512875079b91f8898"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1755,10 +1755,10 @@
       <value>YELLOW</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="UST_ID">60d582a31287500165f859f8</field>
+        <field name="UST_ID">5c70984412875079b91f8897</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="UST_ID" value="60d582a31287500165f859f8"/>
+      <property name="UST_ID" value="5c70984412875079b91f8897"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1768,10 +1768,10 @@
       <value>YELLOW</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="UST_ID">60d582a31287500165f859f8</field>
+        <field name="UST_ID">5c70984412875079b91f8897</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="UST_ID" value="60d582a31287500165f859f8"/>
+      <property name="UST_ID" value="5c70984412875079b91f8897"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1809,10 +1809,10 @@
       <value>RED</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="UST_ID">60d581db1287500165f859a2</field>
+        <field name="UST_ID">5c70984412875079b91f8896</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="UST_ID" value="60d581db1287500165f859a2"/>
+      <property name="UST_ID" value="5c70984412875079b91f8896"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
