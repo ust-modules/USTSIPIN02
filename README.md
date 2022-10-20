@@ -31,8 +31,8 @@ It is intended for masurement of cosmic radiation and dosimetry by using [c-Si](
 |Signal| Pixhawk Color | ThunderFly color |
 |--------|------------------|---------------------|
 | +5V  |     Red  |  ![red](https://user-images.githubusercontent.com/5196729/102204855-ab1c3300-3eca-11eb-8083-646d633e3aef.png) Red   |
-| TX  |     Black  |  ![white](https://user-images.githubusercontent.com/5196729/102204632-5e385c80-3eca-11eb-985d-a881acfae26a.png)  White  | 
-| RX |      Black  | ![green](https://user-images.githubusercontent.com/5196729/102205114-04846200-3ecb-11eb-8eb8-251c7e564707.png) Green  | 
+| RX  |     Black  |  ![white](https://user-images.githubusercontent.com/5196729/102204632-5e385c80-3eca-11eb-985d-a881acfae26a.png)  White  | 
+| TX |      Black  | ![green](https://user-images.githubusercontent.com/5196729/102205114-04846200-3ecb-11eb-8eb8-251c7e564707.png) Green  | 
 | CTS |    Black  |   ![blue](https://user-images.githubusercontent.com/5196729/102205102-ffbfae00-3eca-11eb-9372-8406f7a4aa9d.png) Blue |
 | RTS |    Black  |  ![yellow](https://user-images.githubusercontent.com/5196729/102204908-bc653f80-3eca-11eb-9a1d-a02ea5481c03.png) Yellow |
 | GND |   Black  |   ![black](https://user-images.githubusercontent.com/5196729/102205213-28e03e80-3ecb-11eb-95bb-7ba207360541.png) Black |
