@@ -16,6 +16,12 @@ It is intended for masurement of cosmic radiation and dosimetry by using [c-Si](
 * Interface - RS232 TTL on JST-GH connector or USB-C device
 * H x W  x  L - 15mm x 51mm x 91mm
 
+### Use cases
+
+  * [LABDOS01](https://github.com/UniversalScientificTechnologies/LABDOS01)- open-source laboratory dosimeter and spectrometer
+  * [SPACEDOS03](https://github.com/UniversalScientificTechnologies/SPACEDOS03) - experimental spacecraft dosimeter and spectrometer
+  * UAV ionizing radiation sensor for [TF-ATMON system](https://www.thunderfly.cz/tf-atmon.html).  
+
 ### Programming interface
 
 |Pin name | Function | Description |
