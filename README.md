@@ -14,7 +14,8 @@ It is intended for masurement of cosmic radiation and dosimetry by using [c-Si](
 * Power supply 3.3 V / 3 mA
 * Integration time depends on specific firmware setup
 * Interface - RS232 TTL on JST-GH connector or USB-C device
-* H x W  x  L - 15mm x 51mm x 91mm
+* Dimensions - 91mm x 51mm x 12mm
+* Weight
 
 ### Use cases
 
