@@ -1,4 +1,4 @@
-20600812876421942
+20606087044988115
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57393,19 +57393,26 @@ SAW DBP.1575.W.A.30
 4
 3
 Mlab_Batery
-2LION
-
-
-0
-4
-4
-Mlab_Batery
 4XLTO1865V01A
 
 
 0
 24
 5
+Mlab_Batery
+BAT_BK-18650-PC4
+
+
+0
+4
+4
+Mlab_Batery
+BAT_BK-18650-PC6
+
+
+0
+6
+6
 Mlab_Batery
 BH23APC
 23A
@@ -57814,6 +57821,13 @@ LED_0805
 2
 Mlab_D
 LED_1206
+Diode Mini-MELF Standard
+Diode Mini-MELF Standard
+0
+2
+2
+Mlab_D
+LED_1206_2
 Diode Mini-MELF Standard
 Diode Mini-MELF Standard
 0
@@ -58236,6 +58250,13 @@ Mlab_L
 DE1205-10
 L DE1207
 
+0
+2
+2
+Mlab_L
+DE1207
+L DE1207
+DE1207 12x12x8mm
 0
 2
 2

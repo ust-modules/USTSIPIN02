@@ -431,7 +431,7 @@
       "idf": "",
       "netlist": "SPACEDOS01A_PCB01A.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "USTSIPIN02A.step",
       "vrml": ""
     },
     "page_layout_descr_file": "./../../doc/assets/templates/KiCAD/page_layout.kicad_wks"
