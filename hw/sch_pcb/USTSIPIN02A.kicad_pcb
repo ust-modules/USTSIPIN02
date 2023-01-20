@@ -6769,7 +6769,7 @@
     (property "UST_ID" "5c70984812875079b91f8bf5")
     (path "/488e0ca6-88e2-4bbd-bfeb-f8d2d9e72326")
     (attr smd)
-    (fp_text reference "C53" (at 0 1.43 90) (layer "B.SilkS")
+    (fp_text reference "C53" (at -0.902 -2.3876 180) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 8c777cdc-3cd1-41aa-8be9-b9db0da4cd2a)
     )
