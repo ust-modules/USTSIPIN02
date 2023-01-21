@@ -21,7 +21,7 @@ It is intended for masurement of cosmic radiation and dosimetry by using [c-Si](
 
   * [LABDOS01](https://github.com/UniversalScientificTechnologies/LABDOS01)- open-source laboratory dosimeter and spectrometer
   * [SPACEDOS03](https://github.com/UniversalScientificTechnologies/SPACEDOS03) - experimental spacecraft dosimeter and spectrometer
-  * UAV ionizing radiation sensor for [TF-ATMON system](https://www.thunderfly.cz/tf-atmon.html).  
+  * [AIRDOS03](https://www.ust.cz/UST-dosimeters/AIRDOS/#airdos03-uavdos) UAV ionizing radiation sensor for [TF-ATMON system](https://www.thunderfly.cz/tf-atmon.html).  
 
 ### Programming interface
 
