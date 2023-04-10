@@ -3835,10 +3835,36 @@
     )
   )
 
+  (sheet (at 215.9 54.61) (size 22.86 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 19d1d659-a959-4bd5-b510-08a4dbcee178)
+    (property "Sheet name" "USB interface" (id 0) (at 215.9 53.8984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "usb.kicad_sch" (id 1) (at 215.9 74.2446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 172.72 55.88) (size 24.13 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid df946b97-ee48-4dc9-bb94-44edab77d662)
+    (property "Sheet name" "sensor" (id 0) (at 172.72 55.1684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "sensor.kicad_sch" (id 1) (at 172.72 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
     (path "/00000000-0000-0000-0000-00005c4aedd8" (page "2"))
     (path "/00000000-0000-0000-0000-00005c69bcb4" (page "3"))
+    (path "/df946b97-ee48-4dc9-bb94-44edab77d662" (page "4"))
+    (path "/19d1d659-a959-4bd5-b510-08a4dbcee178" (page "5"))
   )
 
   (symbol_instances
@@ -3869,11 +3895,11 @@
     (path "/00000000-0000-0000-0000-00005c4aedd8/db91c062-a9b9-4651-a309-3d3d0fe4c8b4"
       (reference "#FLG0109") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005c69bcb4/c9236cab-2bb1-4aa1-a5cb-30113553a821"
+    (path "/00000000-0000-0000-0000-00005c69bcb4/4ec5e526-6220-41d1-9225-2c87bd89c49e"
       (reference "#FLG0110") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005c69bcb4/4ec5e526-6220-41d1-9225-2c87bd89c49e"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
+    (path "/00000000-0000-0000-0000-00005c69bcb4/c9236cab-2bb1-4aa1-a5cb-30113553a821"
+      (reference "#FLG0110") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005c4aedd8/4e0ca0d2-2b6d-45f5-ad3e-54509fad15ee"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")

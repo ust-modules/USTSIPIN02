@@ -481,6 +481,14 @@
     [
       "00000000-0000-0000-0000-00005c69bcb4",
       "power"
+    ],
+    [
+      "df946b97-ee48-4dc9-bb94-44edab77d662",
+      "sensor"
+    ],
+    [
+      "19d1d659-a959-4bd5-b510-08a4dbcee178",
+      "USB interface"
     ]
   ],
   "text_variables": {}
