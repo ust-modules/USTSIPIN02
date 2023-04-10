@@ -2900,10 +2900,10 @@
     (uuid ffba938b-d87d-47c9-bc24-93feb08ecc2f)
   )
 
-  (global_label "UAV_5V" (shape output) (at 72.39 119.38 180) (fields_autoplaced)
+  (global_label "PixHawk_5V" (shape output) (at 72.39 119.38 180) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 1a08900d-2218-45c1-a12e-8811732c55db)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 61.4731 119.2848 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 56.0578 119.2848 0)
       (effects (font (size 1.524 1.524)) (justify right) hide)
     )
   )
