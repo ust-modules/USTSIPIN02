@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Sat Feb 25 00:18:00 2023</date>
-    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
+    <date>Mon Apr 10 09:10:17 2023</date>
+    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>USTSIPIN02A</title>
@@ -1543,13 +1543,13 @@
       <tstamps>00000000-0000-0000-0000-00005b36b76c</tstamps>
     </comp>
     <comp ref="Y1">
-      <value>16MHz</value>
+      <value>8 MHz</value>
       <footprint>Mlab_XTAL:Crystal_HC49-4H_Vertical</footprint>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b10</field>
+        <field name="UST_ID">5c70984712875079b91f8b0e</field>
       </fields>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b10"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b0e"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
