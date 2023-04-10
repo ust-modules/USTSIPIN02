@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Mon Apr 10 09:10:17 2023</date>
+    <date>Mon Apr 10 10:12:24 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -58,411 +58,44 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
+    <sheet number="4" name="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>sensor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>usb.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
   </design>
   <components>
-    <comp ref="C1">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>a8410693-dff5-42df-a4b3-a9aad46f9e0b</tstamps>
-    </comp>
-    <comp ref="C2">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c52c88c</tstamps>
-    </comp>
-    <comp ref="C3">
-      <value>1uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bc2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b39c727</tstamps>
-    </comp>
-    <comp ref="C4">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b46aed9</tstamps>
-    </comp>
-    <comp ref="C5">
-      <value>1pFNP0 251R15S1R0AV4E</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984712875079b91f8b9f</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b9f"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3a36ae</tstamps>
-    </comp>
-    <comp ref="C6">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b46f2e3</tstamps>
-    </comp>
-    <comp ref="C7">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b4bb914</tstamps>
-    </comp>
-    <comp ref="C8">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b4c840f</tstamps>
-    </comp>
-    <comp ref="C9">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b4c8438</tstamps>
-    </comp>
-    <comp ref="C10">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3a3816</tstamps>
-    </comp>
-    <comp ref="C11">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b46f367</tstamps>
-    </comp>
-    <comp ref="C12">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b4bb91a</tstamps>
-    </comp>
-    <comp ref="C13">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b4c8415</tstamps>
-    </comp>
-    <comp ref="C14">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b4c843e</tstamps>
-    </comp>
-    <comp ref="C15">
-      <value>3n3</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">628d0fc8dc56076e9a223574</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="628d0fc8dc56076e9a223574"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3ad087</tstamps>
-    </comp>
-    <comp ref="C16">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3ad5ab</tstamps>
-    </comp>
-    <comp ref="C17">
-      <value>1uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bc2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3e1723</tstamps>
-    </comp>
-    <comp ref="C18">
-      <value>2n2</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bee</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bee"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3e8e3e</tstamps>
-    </comp>
-    <comp ref="C19">
-      <value>1nF/NP0</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8ba6</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8ba6"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3bd161</tstamps>
-    </comp>
-    <comp ref="C20">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3dc133</tstamps>
-    </comp>
-    <comp ref="C21">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c614d24</tstamps>
-    </comp>
-    <comp ref="C23">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c616680</tstamps>
-    </comp>
-    <comp ref="C24">
-      <value>1uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bc2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c616902</tstamps>
-    </comp>
-    <comp ref="C37">
-      <value>1uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bc2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>cd0a239c-7e63-49fb-95cd-5e3ab5174768</tstamps>
-    </comp>
-    <comp ref="C53">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>488e0ca6-88e2-4bbd-bfeb-f8d2d9e72326</tstamps>
-    </comp>
-    <comp ref="C55">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>35ee94ca-eaa1-48d1-baad-9a8926de9a42</tstamps>
-    </comp>
-    <comp ref="C56">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>3000df82-e98a-47e3-b10d-e56e4344c60d</tstamps>
-    </comp>
-    <comp ref="C57">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>384c566d-fdd2-412e-b6e2-2a58c622e272</tstamps>
-    </comp>
-    <comp ref="C58">
-      <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>3dbd2bf0-65d3-4475-a9dc-e402c1fdf765</tstamps>
-    </comp>
-    <comp ref="C59">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1625979d-7f10-4300-bc33-bc42ae4410e0</tstamps>
-    </comp>
-    <comp ref="D2">
-      <value>S2744-09</value>
-      <footprint>Mlab_D:HAMAMATSU_S2744-09</footprint>
-      <fields>
-        <field name="UST_ID">628d118cdc56076e9a2235e4</field>
-      </fields>
-      <libsource lib="Device" part="D_Photo" description="Photodiode"/>
-      <property name="UST_ID" value="628d118cdc56076e9a2235e4"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3a05a5</tstamps>
-    </comp>
     <comp ref="M1">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
@@ -511,361 +144,6 @@
       <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c71374d</tstamps>
-    </comp>
-    <comp ref="Q1">
-      <value>2SK2394-6</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <fields>
-        <field name="UST_ID">628d134fdc56076e9a223625</field>
-      </fields>
-      <libsource lib="MLAB_T" part="Q_NJFET_SDG" description="N-JFET transistor, source/drain/gate"/>
-      <property name="UST_ID" value="628d134fdc56076e9a223625"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>9580fa2d-f043-4b4b-af0f-6fe8ddaee970</tstamps>
-    </comp>
-    <comp ref="R1">
-      <value>10R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f894f</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f894f"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b690004</tstamps>
-    </comp>
-    <comp ref="R2">
-      <value>470R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8959</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8959"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b46aaec</tstamps>
-    </comp>
-    <comp ref="R3">
-      <value>10R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f894f</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f894f"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b4bb90e</tstamps>
-    </comp>
-    <comp ref="R4">
-      <value>470R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8959</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8959"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b4c8409</tstamps>
-    </comp>
-    <comp ref="R5">
-      <value>470R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8959</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8959"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b4c8432</tstamps>
-    </comp>
-    <comp ref="R6">
-      <value>10M</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984712875079b91f8b6d</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b6d"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3a3729</tstamps>
-    </comp>
-    <comp ref="R7">
-      <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8962</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8962"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3a37a3</tstamps>
-    </comp>
-    <comp ref="R8">
-      <value>1k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f895c</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f895c"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3ad48d</tstamps>
-    </comp>
-    <comp ref="R9">
-      <value>4k7</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8960</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8960"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3acfa9</tstamps>
-    </comp>
-    <comp ref="R10">
-      <value>1k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f895c</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f895c"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3ad63b</tstamps>
-    </comp>
-    <comp ref="R11">
-      <value>4k7</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8960</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8960"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3e8eb4</tstamps>
-    </comp>
-    <comp ref="R12">
-      <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8962</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8962"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3ba8c4</tstamps>
-    </comp>
-    <comp ref="R13">
-      <value>2k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f895e</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f895e"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3bd0ff</tstamps>
-    </comp>
-    <comp ref="R14">
-      <value>4k7</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8960</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8960"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>341c8638-314a-4e4c-b661-00fe9233d2a4</tstamps>
-    </comp>
-    <comp ref="R15">
-      <value>4k7</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8960</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8960"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c613d02</tstamps>
-    </comp>
-    <comp ref="R16">
-      <value>4k7</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8960</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8960"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1e16cdce-32a9-4cbe-912b-a36cebffcb1a</tstamps>
-    </comp>
-    <comp ref="R19">
-      <value>4k7</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8960</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8960"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c6165de</tstamps>
-    </comp>
-    <comp ref="R22">
-      <value>4k7</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8960</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8960"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c61685e</tstamps>
-    </comp>
-    <comp ref="R39">
-      <value>100R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8956</field>
-      </fields>
-      <libsource lib="SPACEDOS02A_PCB01A-rescue" part="R-device-DATALOGGER01A-rescue-CCP2019V01A-rescue-SPACEDOS01A_PCB01A-rescue-SPACEDOS01B_PCB01A-rescue" description=""/>
-      <property name="UST_ID" value="5c70984512875079b91f8956"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>2fe53567-228a-4de5-a34f-bdc281604b0f</tstamps>
-    </comp>
-    <comp ref="R40">
-      <value>470R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8959</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8959"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>040e5de9-4c44-49b8-8793-752fa594e5c9</tstamps>
-    </comp>
-    <comp ref="R41">
-      <value>0R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f894e</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f894e"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>099591b3-7490-4e71-94f9-5bfe93b4c38a</tstamps>
-    </comp>
-    <comp ref="U1">
-      <value>OPA2314</value>
-      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
-      <datasheet>https://www.ti.com/lit/ds/symlink/opa2314.pdf</datasheet>
-      <fields>
-        <field name="UST_ID">5c70984412875079b91f879b</field>
-      </fields>
-      <libsource lib="MLAB_IO" part="AD8692" description="Op amp."/>
-      <property name="UST_ID" value="5c70984412875079b91f879b"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b39c2af 00000000-0000-0000-0000-00005b39c1e6</tstamps>
-    </comp>
-    <comp ref="U2">
-      <value>OPA2314</value>
-      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
-      <datasheet>https://www.ti.com/lit/ds/symlink/opa2314.pdf</datasheet>
-      <fields>
-        <field name="UST_ID">5c70984412875079b91f879b</field>
-      </fields>
-      <libsource lib="MLAB_IO" part="AD8692" description="Op amp."/>
-      <property name="UST_ID" value="5c70984412875079b91f879b"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b39c306 00000000-0000-0000-0000-00005b39c25c</tstamps>
-    </comp>
-    <comp ref="U3">
-      <value>ISL21080DIH312Z-TK  1V25</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</datasheet>
-      <fields>
-        <field name="UST_ID">5c70984712875079b91f8b7a</field>
-      </fields>
-      <libsource lib="Reference_Voltage" part="ISL21070CIH320Z-TK" description="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b7a"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3dc106</tstamps>
-    </comp>
-    <comp ref="U4">
-      <value>TS7211</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
-      <datasheet>http://www.analog.com/media/en/technical-documentation/data-sheets/OP179_279.pdf</datasheet>
-      <fields>
-        <field name="UST_ID">5c70984712875079b91f8b5b</field>
-      </fields>
-      <libsource lib="Amplifier_Operational" part="OP179GRT" description="Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b5b"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3afe4c</tstamps>
-    </comp>
-    <comp ref="U5">
-      <value>TS5A4594</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
-      <fields>
-        <field name="UST_ID">5c70984612875079b91f8a0d</field>
-      </fields>
-      <libsource lib="MLAB_IO" part="TS5A4594" description=""/>
-      <property name="UST_ID" value="5c70984612875079b91f8a0d"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPIN02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3b85bf</tstamps>
     </comp>
     <comp ref="BT1">
       <value>KEYS2998</value>
@@ -1568,6 +846,149 @@
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b36b778</tstamps>
     </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>d036d4f8-9aa4-4e09-a3d3-afd15e5a93dd</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>ab19dcd2-0478-475d-ac99-bb69d9075924</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>0629e204-47ce-4f7b-b4f5-130b6ade6bc2</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>91adc6d3-60c6-46aa-ad55-96c7c4d247d1</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>d3359e41-7df4-4b88-b6f2-da03c6196c44</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>b9286a53-6b71-487c-89ff-c569bb1f293f</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>445726fd-7b90-4cd0-9982-6dce25145116</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>1dce2a10-d21c-4b99-9131-9ff5b3d53b50</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>21be996d-0d49-44b7-93fc-eeb3cadc5f0d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>10ba730f-ff86-47c3-9617-7d1b03a8a0d7</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>fb609f75-98d3-4aad-9281-fa68c745e40c</tstamps>
+    </comp>
     <comp ref="C29">
       <value>NFM21PC105-1uF</value>
       <footprint>Mlab_L:FIR_0805</footprint>
@@ -1634,19 +1055,6 @@
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c6d0eb3</tstamps>
     </comp>
-    <comp ref="C45">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value="power"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>492ef9b6-45dd-4de9-91b3-cbd02809a137</tstamps>
-    </comp>
     <comp ref="C46">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
@@ -1659,19 +1067,6 @@
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>b8ed434d-bf06-4ba5-baef-ef76e03195e4</tstamps>
-    </comp>
-    <comp ref="C48">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
-      <property name="Sheetname" value="power"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>f52ff800-ae09-47da-a548-4fc026774c62</tstamps>
     </comp>
     <comp ref="C49">
       <value>10uF</value>
@@ -1726,6 +1121,19 @@
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c6d0ef9</tstamps>
     </comp>
+    <comp ref="C53">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>266d8de6-d57f-42a4-aed4-e3d2fd104be7</tstamps>
+    </comp>
     <comp ref="C54">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
@@ -1738,6 +1146,71 @@
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c6d0eff</tstamps>
+    </comp>
+    <comp ref="C55">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>0ec21e58-4ad9-4ca6-8db3-0e174c15cea2</tstamps>
+    </comp>
+    <comp ref="C56">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>8f8f5199-91c7-4326-8ff6-fa7866b0e1b5</tstamps>
+    </comp>
+    <comp ref="C57">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>4a973608-c73b-4f26-8294-cb01be873678</tstamps>
+    </comp>
+    <comp ref="C58">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>7ba2d482-4bbe-4c0f-9342-3b12e5363a63</tstamps>
+    </comp>
+    <comp ref="C59">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>e50ce1f1-e298-45ed-b941-30734cb92749</tstamps>
     </comp>
     <comp ref="D1">
       <value>BZX585-B5V6.115</value>
@@ -1752,32 +1225,6 @@
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>b879c0f5-5e6c-4b4f-bb4c-6b0f2760c9ee</tstamps>
-    </comp>
-    <comp ref="D3">
-      <value>YELLOW</value>
-      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984412875079b91f8897</field>
-      </fields>
-      <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="UST_ID" value="5c70984412875079b91f8897"/>
-      <property name="Sheetname" value="power"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>03606b54-e4e0-4321-83d9-55ea0b67bc0e</tstamps>
-    </comp>
-    <comp ref="D4">
-      <value>YELLOW</value>
-      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984412875079b91f8897</field>
-      </fields>
-      <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="UST_ID" value="5c70984412875079b91f8897"/>
-      <property name="Sheetname" value="power"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>559837bd-4a31-497a-baef-b207fad0cb9d</tstamps>
     </comp>
     <comp ref="D5">
       <value>BZX585-B5V6.115</value>
@@ -1847,19 +1294,6 @@
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c58939a</tstamps>
     </comp>
-    <comp ref="J4">
-      <value>USBC_USB4105-GF-A</value>
-      <footprint>Mlab_CON:USBC GCT_USB4105-GF-A</footprint>
-      <fields>
-        <field name="UST_ID">5fa0f94612875025b397795e</field>
-      </fields>
-      <libsource lib="MLAB_CONNECTORS" part="USBC_USB4105-GF-A" description="USB 2.0-only Type-C Receptacle connector"/>
-      <property name="UST_ID" value="5fa0f94612875025b397795e"/>
-      <property name="Sheetname" value="power"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>ba19ed87-6acf-49a5-9def-fa3621e94dfd</tstamps>
-    </comp>
     <comp ref="J7">
       <value>SM03B-GHS-TB</value>
       <footprint>Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</footprint>
@@ -1886,83 +1320,57 @@
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c6d0ea6</tstamps>
     </comp>
-    <comp ref="R26">
-      <value>4k7</value>
+    <comp ref="R2">
+      <value>470R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8960</field>
+        <field name="UST_ID">5c70984512875079b91f8959</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8960"/>
+      <property name="UST_ID" value="5c70984512875079b91f8959"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>11859cb4-699a-4a75-9d0f-cb2fe32572bc</tstamps>
+      <tstamps>fb2b0651-31a5-40db-8c6a-7ab811ccacaa</tstamps>
     </comp>
-    <comp ref="R27">
-      <value>10k</value>
+    <comp ref="R3">
+      <value>10R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8962</field>
+        <field name="UST_ID">5c70984512875079b91f894f</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="UST_ID" value="5c70984512875079b91f894f"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>affd72b6-44fd-4bac-955a-cdcc2cf1abc4</tstamps>
+      <tstamps>f9546a66-2bdc-4e40-9a0b-84afaac4cfbf</tstamps>
     </comp>
-    <comp ref="R28">
-      <value>180R</value>
+    <comp ref="R4">
+      <value>470R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8957</field>
+        <field name="UST_ID">5c70984512875079b91f8959</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8957"/>
+      <property name="UST_ID" value="5c70984512875079b91f8959"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>4413769b-9566-4723-bf8a-9f3071a1c575</tstamps>
+      <tstamps>6f862f79-415a-4090-a938-3dc9f4e7bdee</tstamps>
     </comp>
-    <comp ref="R29">
-      <value>180R</value>
+    <comp ref="R5">
+      <value>470R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8957</field>
+        <field name="UST_ID">5c70984512875079b91f8959</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8957"/>
+      <property name="UST_ID" value="5c70984512875079b91f8959"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>07bed601-b799-462c-8aea-4d361ee741dd</tstamps>
-    </comp>
-    <comp ref="R30">
-      <value>5k1</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">628d1404dc56076e9a223650</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="628d1404dc56076e9a223650"/>
-      <property name="Sheetname" value="power"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>8b624943-8a07-4643-8235-6403850bf4e3</tstamps>
-    </comp>
-    <comp ref="R31">
-      <value>5k1</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        <field name="UST_ID">628d1404dc56076e9a223650</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="628d1404dc56076e9a223650"/>
-      <property name="Sheetname" value="power"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>cebf034e-02ff-4461-87be-b9b33628bc2c</tstamps>
+      <tstamps>2f81cef7-6662-4dea-90c9-f79ccf1bb359</tstamps>
     </comp>
     <comp ref="R38">
       <value>180R</value>
@@ -1977,19 +1385,45 @@
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>779a1bdb-bff9-4f28-8f0a-6b9a014f08a4</tstamps>
     </comp>
-    <comp ref="U7">
-      <value>USBLC6-2SC6</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
-      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+    <comp ref="R39">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5e82e0691287502a334a778c</field>
+        <field name="UST_ID">5c70984512875079b91f8956</field>
       </fields>
-      <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
-      <property name="UST_ID" value="5e82e0691287502a334a778c"/>
+      <libsource lib="SPACEDOS02A_PCB01A-rescue" part="R-device-DATALOGGER01A-rescue-CCP2019V01A-rescue-SPACEDOS01A_PCB01A-rescue-SPACEDOS01B_PCB01A-rescue" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8956"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>feb37b74-12e0-448b-9aeb-e9ddffa98feb</tstamps>
+      <tstamps>4440ca4d-c3af-4ea7-8ff9-ac1315ae369a</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>470R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8959</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8959"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>41b344b3-6bf2-488b-8230-b82332327dd3</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ISL21080DIH312Z-TK  1V25</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b7a</field>
+      </fields>
+      <libsource lib="Reference_Voltage" part="ISL21070CIH320Z-TK" description="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b7a"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>49817ff0-d9f4-40df-983c-b127eda26390</tstamps>
     </comp>
     <comp ref="U8">
       <value>TPS613222ADBV</value>
@@ -2004,20 +1438,6 @@
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c6d0eac</tstamps>
     </comp>
-    <comp ref="U9">
-      <value>FT231XQ</value>
-      <footprint>Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</footprint>
-      <datasheet>https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf</datasheet>
-      <fields>
-        <field name="UST_ID">605d7fe0128750769e769adb</field>
-      </fields>
-      <libsource lib="Interface_USB" part="FT231XQ" description="Full Speed USB to Full Handshake UART, QFN-20"/>
-      <property name="UST_ID" value="605d7fe0128750769e769adb"/>
-      <property name="Sheetname" value="power"/>
-      <property name="Sheetfile" value="power.kicad_sch"/>
-      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
-      <tstamps>ce98d3ba-ce63-43b1-9802-8e602207381d</tstamps>
-    </comp>
     <comp ref="U12">
       <value>MIC5504-3.3YM5</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
@@ -2031,6 +1451,622 @@
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>c926709a-9595-42f9-89d7-bfbbbd243c77</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>4fa01c29-dcd3-4758-a464-5869d377f325</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>2563fe3a-9ad9-4b12-b08a-f2ec73e6c20e</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1pFNP0 251R15S1R0AV4E</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b9f</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b9f"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>e3c95e18-b536-4b34-9b90-6c75d040f659</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>0de1c18a-5997-4aca-b4bc-d8e2e6e98f9a</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>3n3</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">628d0fc8dc56076e9a223574</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="628d0fc8dc56076e9a223574"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>47a57c41-56c2-428a-b659-0462009cc778</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>f96385ab-03a9-4c63-b2e7-6f8e700e1318</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>2ceb1dc2-6538-40b3-ba7d-b8f445a4dcbf</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>2n2</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bee</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bee"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>a5581e3e-8967-44d4-907c-4f6e21f7d3db</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1nF/NP0</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8ba6</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8ba6"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>0a33f020-7d83-42d4-83dd-2962f8917f39</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>2a02a7b3-f8ae-4a36-bb99-0d29f6bb5289</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>92913922-ec12-4290-8d2d-d76ddda2af86</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>dfeb5ad6-59df-47d5-b188-af2355eccfe4</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>e4f09331-5c41-474e-946c-845d42e77020</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>S2744-09</value>
+      <footprint>Mlab_D:HAMAMATSU_S2744-09</footprint>
+      <fields>
+        <field name="UST_ID">628d118cdc56076e9a2235e4</field>
+      </fields>
+      <libsource lib="Device" part="D_Photo" description="Photodiode"/>
+      <property name="UST_ID" value="628d118cdc56076e9a2235e4"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>2593a90b-c82a-4ae5-9074-90ce2830c198</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2SK2394-6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="UST_ID">628d134fdc56076e9a223625</field>
+      </fields>
+      <libsource lib="MLAB_T" part="Q_NJFET_SDG" description="N-JFET transistor, source/drain/gate"/>
+      <property name="UST_ID" value="628d134fdc56076e9a223625"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>7e3d8613-e33b-4644-b0ea-70ac5c1a6e25</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f894f</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f894f"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>46232e0b-54c8-490b-8105-24c40fb327a0</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b6d</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b6d"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>8aaa9ea4-cb09-42cd-8f79-27041bc14507</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8962</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>02fe758a-c6ce-4017-b1b2-be2ab6f2229d</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f895c</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f895c"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>c70338ee-273a-4ceb-a785-936e43b1ea41</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8960</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8960"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>93f6d2c5-ebdf-47fe-a39b-66ce24dbc145</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f895c</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f895c"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>665f12d0-4dae-4b5b-8c9c-f7c992e08013</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8960</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8960"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>668d5d12-f71a-4006-8714-e211a106d7f9</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8962</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>bfeb3053-d551-4623-94d7-3aae21f0ab9a</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f895e</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f895e"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>01ccc31a-702f-4f83-a25b-2790c12807bf</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8960</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8960"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>64173db9-7e97-4420-b74d-c2c54f8347a4</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8960</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8960"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>699b5e27-5e19-482a-b489-399e7151728b</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8960</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8960"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>f82f184e-055c-4a70-9905-56b328ede273</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8960</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8960"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>f54fbe75-f537-4bed-8062-e83a153f540f</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8960</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8960"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>a365650e-cb89-4ce8-a8e3-acce5374afb5</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f894e</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f894e"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>3c727246-7611-424b-8380-4457a0b2797d</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>OPA2314</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa2314.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f879b</field>
+      </fields>
+      <libsource lib="MLAB_IO" part="AD8692" description="Op amp."/>
+      <property name="UST_ID" value="5c70984412875079b91f879b"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>6c74da7d-93ec-4a4e-aa05-f97d9c5c217c 17f7878b-e2c1-41f4-97a1-dcdef6b7bca6</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>OPA2314</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa2314.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f879b</field>
+      </fields>
+      <libsource lib="MLAB_IO" part="AD8692" description="Op amp."/>
+      <property name="UST_ID" value="5c70984412875079b91f879b"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>f9b7db68-6482-49c2-a242-106d2d1dbd1b 6bb48261-d4c6-4239-a69b-1a86a696c517</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TS7211</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
+      <datasheet>http://www.analog.com/media/en/technical-documentation/data-sheets/OP179_279.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b5b</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="OP179GRT" description="Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b5b"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>0994f894-d9bb-4579-87be-ae742e824b9d</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TS5A4594</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f8a0d</field>
+      </fields>
+      <libsource lib="MLAB_IO" part="TS5A4594" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8a0d"/>
+      <property name="Sheetname" value="sensor"/>
+      <property name="Sheetfile" value="sensor.kicad_sch"/>
+      <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
+      <tstamps>2d224437-5927-4fe9-a5bb-d705dda55803</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>f7cfc4ac-9487-409e-b052-3ba713824729</tstamps>
+    </comp>
+    <comp ref="C48">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>3e8fea6a-946f-47e8-8d57-324dde7ab952</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>YELLOW</value>
+      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8897</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="UST_ID" value="5c70984412875079b91f8897"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>a0b9a815-085e-4106-8715-5bf220a54571</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>YELLOW</value>
+      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8897</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="UST_ID" value="5c70984412875079b91f8897"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>6f42553c-9b73-4963-a076-9fb26097d4b8</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>USBC_USB4105-GF-A</value>
+      <footprint>Mlab_CON:USBC GCT_USB4105-GF-A</footprint>
+      <fields>
+        <field name="UST_ID">5fa0f94612875025b397795e</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS" part="USBC_USB4105-GF-A" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="UST_ID" value="5fa0f94612875025b397795e"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>d1cb0386-adae-4e03-8531-f8fdae757547</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8960</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8960"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>f831cf2a-24c7-4bb2-a611-b0b171375769</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8962</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>060ff522-9f00-40a3-88f3-5d39bf52ba7e</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>180R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8957</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8957"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>34915f45-8424-4cd2-b003-07ae310afcc4</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>180R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8957</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8957"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>0ee48d60-9858-425c-9cbf-6f73674a8f62</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">628d1404dc56076e9a223650</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="628d1404dc56076e9a223650"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>c0fd8acc-5269-4411-bdb9-f66324470379</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="UST_ID">628d1404dc56076e9a223650</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="628d1404dc56076e9a223650"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>6d2a6f35-151a-4dd5-80a7-2438bc38a2e4</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>USBLC6-2SC6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5e82e0691287502a334a778c</field>
+      </fields>
+      <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
+      <property name="UST_ID" value="5e82e0691287502a334a778c"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>ea66e15c-f61e-4c68-94c6-07943575d0b4</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>FT231XQ</value>
+      <footprint>Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</footprint>
+      <datasheet>https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">605d7fe0128750769e769adb</field>
+      </fields>
+      <libsource lib="Interface_USB" part="FT231XQ" description="Full Speed USB to Full Handshake UART, QFN-20"/>
+      <property name="UST_ID" value="605d7fe0128750769e769adb"/>
+      <property name="Sheetname" value="USB interface"/>
+      <property name="Sheetfile" value="usb.kicad_sch"/>
+      <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
+      <tstamps>4c7921eb-6103-4d7d-83aa-86ce7f36bb60</tstamps>
     </comp>
   </components>
   <libparts>
@@ -2803,177 +2839,192 @@
       <node ref="C54" pin="1" pintype="passive"/>
       <node ref="R15" pin="2" pintype="passive"/>
     </net>
-    <net code="3" name="/A">
-      <node ref="C5" pin="2" pintype="passive"/>
-      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Q1" pin="3" pinfunction="G" pintype="input"/>
-      <node ref="R6" pin="2" pintype="passive"/>
-      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    <net code="3" name="/USB interface/D+">
+      <node ref="J4" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J4" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="I/O2" pintype="passive"/>
     </net>
-    <net code="4" name="/K">
-      <node ref="C37" pin="2" pintype="passive"/>
-      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R16" pin="1" pintype="passive"/>
+    <net code="4" name="/USB interface/D-">
+      <node ref="J4" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J4" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U7" pin="6" pinfunction="I/O1" pintype="passive"/>
     </net>
-    <net code="5" name="/Ubiasout">
-      <node ref="C24" pin="1" pintype="passive"/>
-      <node ref="R16" pin="2" pintype="passive"/>
-      <node ref="R22" pin="1" pintype="passive"/>
+    <net code="5" name="/USB interface/DM">
+      <node ref="U7" pin="1" pinfunction="I/O1" pintype="passive"/>
+      <node ref="U9" pin="9" pinfunction="USBDM" pintype="bidirectional"/>
     </net>
-    <net code="6" name="/VCC1">
-      <node ref="C11" pin="1" pintype="passive"/>
-      <node ref="C6" pin="1" pintype="passive"/>
-      <node ref="R2" pin="1" pintype="passive"/>
-      <node ref="U1" pin="8" pinfunction="V+" pintype="passive"/>
+    <net code="6" name="/USB interface/DP">
+      <node ref="U7" pin="3" pinfunction="I/O2" pintype="passive"/>
+      <node ref="U9" pin="8" pinfunction="USBDP" pintype="bidirectional"/>
     </net>
-    <net code="7" name="/VCC2">
-      <node ref="C12" pin="1" pintype="passive"/>
-      <node ref="C7" pin="1" pintype="passive"/>
-      <node ref="R3" pin="1" pintype="passive"/>
-      <node ref="U2" pin="8" pinfunction="V+" pintype="passive"/>
+    <net code="7" name="/USB interface/RXLED{slash}CBUS1">
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U9" pin="14" pinfunction="CBUS1" pintype="bidirectional"/>
     </net>
-    <net code="8" name="/VCC3">
-      <node ref="C13" pin="1" pintype="passive"/>
-      <node ref="C8" pin="1" pintype="passive"/>
-      <node ref="R4" pin="1" pintype="passive"/>
-      <node ref="U4" pin="2" pinfunction="V+" pintype="power_in"/>
+    <net code="8" name="/USB interface/TXLED{slash}CBUS2">
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="U9" pin="7" pinfunction="CBUS2" pintype="bidirectional"/>
     </net>
-    <net code="9" name="/VCC4">
-      <node ref="C14" pin="1" pintype="passive"/>
-      <node ref="C9" pin="1" pintype="passive"/>
-      <node ref="R5" pin="1" pintype="passive"/>
-      <node ref="U5" pin="5" pinfunction="VCC" pintype="power_in"/>
+    <net code="9" name="/USB interface/VBUS">
+      <node ref="J4" pin="A4/B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J4" pin="B4/A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="10" name="/VCC5">
-      <node ref="C53" pin="1" pintype="passive"/>
-      <node ref="C59" pin="1" pintype="passive"/>
-      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
-      <node ref="R40" pin="1" pintype="passive"/>
-    </net>
-    <net code="11" name="/cpu/AVCC">
+    <net code="10" name="/cpu/AVCC">
       <node ref="C31" pin="1" pintype="passive"/>
       <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U10" pin="27" pinfunction="AVCC" pintype="power_in"/>
     </net>
-    <net code="12" name="/cpu/EXTINT">
+    <net code="11" name="/cpu/EXTINT">
       <node ref="J1" pin="2" pintype="input"/>
       <node ref="U10" pin="14" pinfunction="(PCINT294/OC1A)PD5" pintype="bidirectional"/>
     </net>
-    <net code="13" name="/cpu/GEO_STAT">
+    <net code="12" name="/cpu/GEO_STAT">
       <node ref="J1" pin="3" pintype="input"/>
       <node ref="U10" pin="15" pinfunction="(PCINT30/OC2B/ICP)PD6" pintype="bidirectional"/>
     </net>
-    <net code="14" name="/cpu/PB4">
+    <net code="13" name="/cpu/PB4">
       <node ref="R17" pin="1" pintype="passive"/>
       <node ref="U10" pin="44" pinfunction="(PCINT12/OC0B/~{SS})PB4" pintype="bidirectional"/>
     </net>
-    <net code="15" name="/cpu/PB5">
+    <net code="14" name="/cpu/PB5">
       <node ref="J22" pin="4" pintype="input"/>
       <node ref="R18" pin="1" pintype="passive"/>
       <node ref="U10" pin="1" pinfunction="(PCINT13/MOSI)PB5" pintype="bidirectional"/>
     </net>
-    <net code="16" name="/cpu/PB6">
+    <net code="15" name="/cpu/PB6">
       <node ref="J22" pin="1" pintype="input"/>
       <node ref="R25" pin="1" pintype="passive"/>
       <node ref="U10" pin="2" pinfunction="(PCINT14/MISO)PB6" pintype="bidirectional"/>
     </net>
-    <net code="17" name="/cpu/PB7">
+    <net code="16" name="/cpu/PB7">
       <node ref="J22" pin="3" pintype="input"/>
       <node ref="R24" pin="1" pintype="passive"/>
       <node ref="U10" pin="3" pinfunction="(PCINT15/SCK)PB7" pintype="bidirectional"/>
     </net>
-    <net code="18" name="/cpu/PC0">
+    <net code="17" name="/cpu/PC0">
       <node ref="J1" pin="5" pintype="input"/>
       <node ref="R21" pin="1" pintype="passive"/>
       <node ref="U10" pin="19" pinfunction="(PCINT16/SCL)PC0" pintype="bidirectional"/>
       <node ref="U11" pin="7" pinfunction="SCL" pintype="input"/>
       <node ref="U6" pin="6" pinfunction="SCL" pintype="input"/>
     </net>
-    <net code="19" name="/cpu/PC1">
+    <net code="18" name="/cpu/PC1">
       <node ref="J1" pin="4" pintype="input"/>
       <node ref="R20" pin="1" pintype="passive"/>
       <node ref="U10" pin="20" pinfunction="(PCINT17/SDA)PC1" pintype="bidirectional"/>
       <node ref="U11" pin="6" pinfunction="SDA" pintype="input"/>
       <node ref="U6" pin="5" pinfunction="SDA" pintype="bidirectional"/>
     </net>
-    <net code="20" name="/cpu/PC3">
+    <net code="19" name="/cpu/PC3">
       <node ref="J5" pin="1" pintype="input"/>
       <node ref="U10" pin="22" pinfunction="(PCINT19/TMS)PC3" pintype="bidirectional"/>
     </net>
-    <net code="21" name="/cpu/PC4">
+    <net code="20" name="/cpu/PC4">
       <node ref="J6" pin="1" pintype="input"/>
       <node ref="U10" pin="23" pinfunction="(PCINT20/TDO)PC4" pintype="bidirectional"/>
     </net>
-    <net code="22" name="/cpu/PC5_D1">
+    <net code="21" name="/cpu/PC5_D1">
       <node ref="R35" pin="1" pintype="passive"/>
       <node ref="U10" pin="24" pinfunction="(PCINT21/TDI)PC5" pintype="bidirectional"/>
     </net>
-    <net code="23" name="/cpu/PC6_D2">
+    <net code="22" name="/cpu/PC6_D2">
       <node ref="R42" pin="1" pintype="passive"/>
       <node ref="U10" pin="25" pinfunction="(PCINT22/TOSC1)PC6" pintype="bidirectional"/>
     </net>
-    <net code="24" name="/cpu/PC7_D3">
+    <net code="23" name="/cpu/PC7_D3">
       <node ref="R37" pin="1" pintype="passive"/>
       <node ref="U10" pin="26" pinfunction="(PCINT23/TOSC2)PC7" pintype="bidirectional"/>
     </net>
-    <net code="25" name="/cpu/RST#_P">
+    <net code="24" name="/cpu/RST#_P">
       <node ref="C43" pin="1" pintype="passive"/>
       <node ref="J22" pin="5" pintype="input"/>
       <node ref="R23" pin="1" pintype="passive"/>
       <node ref="U10" pin="4" pinfunction="~{RESET}" pintype="input"/>
     </net>
-    <net code="26" name="/cpu/RX1">
+    <net code="25" name="/cpu/RX1">
       <node ref="J1" pin="7" pintype="input"/>
       <node ref="U10" pin="11" pinfunction="(PCINT26/RXD1/INT0)PD2" pintype="bidirectional"/>
     </net>
-    <net code="27" name="/cpu/SD_VDD">
+    <net code="26" name="/cpu/SD_VDD">
       <node ref="C22" pin="1" pintype="passive"/>
       <node ref="C25" pin="1" pintype="passive"/>
       <node ref="J2" pin="4" pinfunction="VDD" pintype="input"/>
       <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="28" name="/cpu/TIMEPULSE">
+    <net code="27" name="/cpu/TIMEPULSE">
       <node ref="J1" pin="1" pintype="input"/>
       <node ref="U10" pin="13" pinfunction="(PCINT28/XCK1/OC1B)PD4" pintype="bidirectional"/>
     </net>
-    <net code="29" name="/cpu/TX1">
+    <net code="28" name="/cpu/TX1">
       <node ref="J1" pin="6" pintype="input"/>
       <node ref="U10" pin="12" pinfunction="(PCINT27/TXD1/INT1)PD3" pintype="bidirectional"/>
     </net>
-    <net code="30" name="/power/D+">
-      <node ref="J4" pin="A6" pinfunction="D+" pintype="bidirectional"/>
-      <node ref="J4" pin="B6" pinfunction="D+" pintype="bidirectional"/>
-      <node ref="U7" pin="4" pinfunction="I/O2" pintype="passive"/>
+    <net code="29" name="/power/REF">
+      <node ref="R39" pin="2" pintype="passive"/>
     </net>
-    <net code="31" name="/power/D-">
-      <node ref="J4" pin="A7" pinfunction="D-" pintype="bidirectional"/>
-      <node ref="J4" pin="B7" pinfunction="D-" pintype="bidirectional"/>
-      <node ref="U7" pin="6" pinfunction="I/O1" pintype="passive"/>
-    </net>
-    <net code="32" name="/power/DM">
-      <node ref="U7" pin="1" pinfunction="I/O1" pintype="passive"/>
-      <node ref="U9" pin="9" pinfunction="USBDM" pintype="bidirectional"/>
-    </net>
-    <net code="33" name="/power/DP">
-      <node ref="U7" pin="3" pinfunction="I/O2" pintype="passive"/>
-      <node ref="U9" pin="8" pinfunction="USBDP" pintype="bidirectional"/>
-    </net>
-    <net code="34" name="/power/RXLED{slash}CBUS1">
-      <node ref="R29" pin="2" pintype="passive"/>
-      <node ref="U9" pin="14" pinfunction="CBUS1" pintype="bidirectional"/>
-    </net>
-    <net code="35" name="/power/TXLED{slash}CBUS2">
-      <node ref="R28" pin="2" pintype="passive"/>
-      <node ref="U9" pin="7" pinfunction="CBUS2" pintype="bidirectional"/>
-    </net>
-    <net code="36" name="/power/VBUS">
+    <net code="30" name="/power/VBUS">
       <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J4" pin="A4/B9" pinfunction="VBUS" pintype="passive"/>
-      <node ref="J4" pin="B4/A9" pinfunction="VBUS" pintype="passive"/>
-      <node ref="R26" pin="1" pintype="passive"/>
-      <node ref="U7" pin="5" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="37" name="GND">
+    <net code="31" name="/power/VCC1">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="/power/VCC2">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="/power/VCC3">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="/power/VCC4">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="/power/VCC5">
+      <node ref="C53" pin="1" pintype="passive"/>
+      <node ref="C59" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="/sensor/A">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="G" pintype="input"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="37" name="/sensor/K">
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="/sensor/Ubiasout">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="/sensor/VCC1">
+      <node ref="U1" pin="8" pinfunction="V+" pintype="passive"/>
+    </net>
+    <net code="40" name="/sensor/VCC2">
+      <node ref="U2" pin="8" pinfunction="V+" pintype="passive"/>
+    </net>
+    <net code="41" name="/sensor/VCC3">
+      <node ref="U4" pin="2" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="42" name="/sensor/VCC4">
+      <node ref="U5" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="43" name="/sensor/VCC5">
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="44" name="GND">
       <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C11" pin="2" pintype="passive"/>
@@ -3081,263 +3132,262 @@
       <node ref="U9" pin="21" pinfunction="GND" pintype="power_in"/>
       <node ref="U9" pin="3" pinfunction="GND" pintype="power_in"/>
     </net>
-    <net code="38" name="Net-(BT1-Pad1)">
+    <net code="45" name="Net-(BT1-Pad1)">
       <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
       <node ref="C60" pin="1" pintype="passive"/>
       <node ref="U11" pin="3" pinfunction="VBAT" pintype="input"/>
     </net>
-    <net code="39" name="Net-(C2-Pad1)">
+    <net code="46" name="Net-(C2-Pad1)">
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="C23" pin="1" pintype="passive"/>
       <node ref="R19" pin="1" pintype="passive"/>
       <node ref="R22" pin="2" pintype="passive"/>
     </net>
-    <net code="40" name="Net-(C10-Pad1)">
+    <net code="47" name="Net-(C10-Pad1)">
       <node ref="C10" pin="1" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
     </net>
-    <net code="41" name="Net-(C10-Pad2)">
+    <net code="48" name="Net-(C10-Pad2)">
       <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
       <node ref="U1" pin="1" pintype="output"/>
     </net>
-    <net code="42" name="Net-(C15-Pad1)">
+    <net code="49" name="Net-(C15-Pad1)">
       <node ref="C15" pin="1" pintype="passive"/>
       <node ref="C16" pin="2" pintype="passive"/>
       <node ref="R9" pin="1" pintype="passive"/>
       <node ref="U1" pin="7" pintype="output"/>
     </net>
-    <net code="43" name="Net-(C15-Pad2)">
+    <net code="50" name="Net-(C15-Pad2)">
       <node ref="C15" pin="2" pintype="passive"/>
       <node ref="R8" pin="1" pintype="passive"/>
       <node ref="R9" pin="2" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
     </net>
-    <net code="44" name="Net-(C16-Pad1)">
+    <net code="51" name="Net-(C16-Pad1)">
       <node ref="C16" pin="1" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
     </net>
-    <net code="45" name="Net-(C18-Pad1)">
+    <net code="52" name="Net-(C18-Pad1)">
       <node ref="C18" pin="1" pintype="passive"/>
       <node ref="R11" pin="1" pintype="passive"/>
       <node ref="U2" pin="1" pintype="output"/>
       <node ref="U4" pin="3" pinfunction="+" pintype="input"/>
       <node ref="U5" pin="1" pinfunction="COM" pintype="passive"/>
     </net>
-    <net code="46" name="Net-(C18-Pad2)">
+    <net code="53" name="Net-(C18-Pad2)">
       <node ref="C18" pin="2" pintype="passive"/>
       <node ref="R10" pin="1" pintype="passive"/>
       <node ref="R11" pin="2" pintype="passive"/>
       <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
     </net>
-    <net code="47" name="Net-(C19-Pad1)">
+    <net code="54" name="Net-(C19-Pad1)">
       <node ref="C19" pin="1" pintype="passive"/>
       <node ref="R13" pin="1" pintype="passive"/>
       <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
     </net>
-    <net code="48" name="Net-(C20-Pad1)">
+    <net code="55" name="Net-(C20-Pad1)">
       <node ref="C20" pin="1" pintype="passive"/>
       <node ref="R39" pin="1" pintype="passive"/>
       <node ref="U3" pin="2" pinfunction="Vout" pintype="power_out"/>
     </net>
-    <net code="49" name="Net-(C21-Pad1)">
+    <net code="56" name="Net-(C21-Pad1)">
       <node ref="C21" pin="1" pintype="passive"/>
       <node ref="R15" pin="1" pintype="passive"/>
       <node ref="R19" pin="2" pintype="passive"/>
     </net>
-    <net code="50" name="Net-(C29-Pad1)">
+    <net code="57" name="Net-(C29-Pad1)">
       <node ref="C29" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="C38" pin="1" pintype="passive"/>
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F2" pin="1" pintype="passive"/>
     </net>
-    <net code="51" name="Net-(C30-Pad1)">
+    <net code="58" name="Net-(C30-Pad1)">
       <node ref="C30" pin="1" pintype="passive"/>
       <node ref="U10" pin="7" pinfunction="XTAL2" pintype="bidirectional"/>
       <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="52" name="Net-(C33-Pad1)">
+    <net code="59" name="Net-(C33-Pad1)">
       <node ref="C33" pin="1" pintype="passive"/>
       <node ref="U10" pin="8" pinfunction="XTAL1" pintype="bidirectional"/>
       <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="53" name="Net-(C37-Pad1)">
+    <net code="60" name="Net-(C37-Pad1)">
       <node ref="C37" pin="1" pintype="passive"/>
       <node ref="R14" pin="1" pintype="passive"/>
       <node ref="R41" pin="1" pintype="passive"/>
     </net>
-    <net code="54" name="Net-(C40-Pad1)">
+    <net code="61" name="Net-(C40-Pad1)">
       <node ref="C40" pin="1" pintype="passive"/>
       <node ref="C44" pin="1" pintype="passive"/>
       <node ref="U10" pin="29" pinfunction="AREF" pintype="power_in"/>
     </net>
-    <net code="55" name="Net-(C42-Pad1)">
+    <net code="62" name="Net-(C42-Pad1)">
       <node ref="C42" pin="1" pintype="passive"/>
       <node ref="C50" pin="1" pintype="passive"/>
       <node ref="C52" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U8" pin="4" pinfunction="Vout" pintype="unspecified"/>
     </net>
-    <net code="56" name="Net-(D3-Pad1)">
+    <net code="63" name="Net-(D3-Pad1)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R28" pin="1" pintype="passive"/>
     </net>
-    <net code="57" name="Net-(D4-Pad1)">
+    <net code="64" name="Net-(D4-Pad1)">
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R29" pin="1" pintype="passive"/>
     </net>
-    <net code="58" name="Net-(D5-Pad1)">
+    <net code="65" name="Net-(D5-Pad1)">
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F2" pin="2" pintype="passive"/>
     </net>
-    <net code="59" name="Net-(D7-Pad1)">
+    <net code="66" name="Net-(D7-Pad1)">
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R36" pin="2" pintype="passive"/>
     </net>
-    <net code="60" name="Net-(D8-Pad1)">
+    <net code="67" name="Net-(D8-Pad1)">
       <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R43" pin="2" pintype="passive"/>
     </net>
-    <net code="61" name="Net-(D9-Pad1)">
+    <net code="68" name="Net-(D9-Pad1)">
       <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R44" pin="2" pintype="passive"/>
     </net>
-    <net code="62" name="Net-(D10-Pad1)">
+    <net code="69" name="Net-(D10-Pad1)">
       <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R38" pin="1" pintype="passive"/>
     </net>
-    <net code="63" name="Net-(J2-Pad1)">
+    <net code="70" name="Net-(J2-Pad1)">
       <node ref="J2" pin="1" pinfunction="CD/DAT3" pintype="input"/>
       <node ref="R17" pin="2" pintype="passive"/>
     </net>
-    <net code="64" name="Net-(J2-Pad2)">
+    <net code="71" name="Net-(J2-Pad2)">
       <node ref="J2" pin="2" pinfunction="CMD" pintype="input"/>
       <node ref="R18" pin="2" pintype="passive"/>
     </net>
-    <net code="65" name="Net-(J2-Pad5)">
+    <net code="72" name="Net-(J2-Pad5)">
       <node ref="J2" pin="5" pinfunction="CLK" pintype="input"/>
       <node ref="R24" pin="2" pintype="passive"/>
     </net>
-    <net code="66" name="Net-(J2-Pad7)">
+    <net code="73" name="Net-(J2-Pad7)">
       <node ref="J2" pin="7" pinfunction="DAT0" pintype="input"/>
       <node ref="R25" pin="2" pintype="passive"/>
     </net>
-    <net code="67" name="Net-(J3-Pad2)">
+    <net code="74" name="Net-(J3-Pad2)">
       <node ref="J3" pin="2" pintype="input"/>
       <node ref="R33" pin="2" pintype="passive"/>
     </net>
-    <net code="68" name="Net-(J3-Pad3)">
+    <net code="75" name="Net-(J3-Pad3)">
       <node ref="J3" pin="3" pintype="input"/>
       <node ref="R34" pin="2" pintype="passive"/>
     </net>
-    <net code="69" name="Net-(J3-Pad5)">
+    <net code="76" name="Net-(J3-Pad5)">
       <node ref="J3" pin="5" pintype="input"/>
       <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="70" name="Net-(J4-PadA5)">
+    <net code="77" name="Net-(J4-PadA5)">
       <node ref="J4" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
       <node ref="R30" pin="1" pintype="passive"/>
     </net>
-    <net code="71" name="Net-(J4-PadB5)">
+    <net code="78" name="Net-(J4-PadB5)">
       <node ref="J4" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
       <node ref="R31" pin="1" pintype="passive"/>
     </net>
-    <net code="72" name="Net-(JP1-Pad1)">
+    <net code="79" name="Net-(JP1-Pad1)">
       <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R32" pin="2" pintype="passive"/>
     </net>
-    <net code="73" name="Net-(L2-Pad1)">
+    <net code="80" name="Net-(L2-Pad1)">
       <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U10" pin="41" pinfunction="(PCINT9/CLKO/T1)PB1" pintype="bidirectional"/>
       <node ref="U10" pin="42" pinfunction="(PCINT10/AIN0/INT2)PB2" pintype="bidirectional"/>
       <node ref="U10" pin="43" pinfunction="(PCINT11/AIN1/OC0)PB3" pintype="bidirectional"/>
     </net>
-    <net code="74" name="Net-(L3-Pad2)">
+    <net code="81" name="Net-(L3-Pad2)">
       <node ref="L3" pin="2" pintype="passive"/>
       <node ref="U8" pin="1" pinfunction="SW" pintype="unspecified"/>
     </net>
-    <net code="75" name="Net-(Q1-Pad1)">
+    <net code="82" name="Net-(Q1-Pad1)">
       <node ref="Q1" pin="1" pinfunction="S" pintype="passive"/>
       <node ref="R41" pin="2" pintype="passive"/>
     </net>
-    <net code="76" name="Net-(Q2-Pad1)">
+    <net code="83" name="Net-(Q2-Pad1)">
       <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R35" pin="2" pintype="passive"/>
     </net>
-    <net code="77" name="Net-(Q2-Pad3)">
+    <net code="84" name="Net-(Q2-Pad3)">
       <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
       <node ref="R36" pin="1" pintype="passive"/>
     </net>
-    <net code="78" name="Net-(Q3-Pad1)">
+    <net code="85" name="Net-(Q3-Pad1)">
       <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R37" pin="2" pintype="passive"/>
     </net>
-    <net code="79" name="Net-(Q3-Pad3)">
+    <net code="86" name="Net-(Q3-Pad3)">
       <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
       <node ref="R43" pin="1" pintype="passive"/>
     </net>
-    <net code="80" name="Net-(Q4-Pad1)">
+    <net code="87" name="Net-(Q4-Pad1)">
       <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R42" pin="2" pintype="passive"/>
     </net>
-    <net code="81" name="Net-(Q4-Pad3)">
+    <net code="88" name="Net-(Q4-Pad3)">
       <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
       <node ref="R44" pin="1" pintype="passive"/>
     </net>
-    <net code="82" name="Net-(R1-Pad2)">
+    <net code="89" name="Net-(R1-Pad2)">
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
       <node ref="U2" pin="7" pintype="output"/>
       <node ref="U4" pin="4" pinfunction="-" pintype="input"/>
     </net>
-    <net code="83" name="Net-(R12-Pad2)">
+    <net code="90" name="Net-(R12-Pad2)">
       <node ref="R12" pin="2" pintype="passive"/>
       <node ref="U4" pin="1" pintype="output"/>
     </net>
-    <net code="84" name="Net-(R13-Pad2)">
+    <net code="91" name="Net-(R13-Pad2)">
       <node ref="R13" pin="2" pintype="passive"/>
       <node ref="U5" pin="2" pinfunction="NO" pintype="passive"/>
     </net>
-    <net code="85" name="Net-(R26-Pad2)">
+    <net code="92" name="Net-(R26-Pad2)">
       <node ref="R26" pin="2" pintype="passive"/>
       <node ref="R27" pin="1" pintype="passive"/>
       <node ref="U9" pin="11" pinfunction="~{RESET}" pintype="input"/>
     </net>
-    <net code="86" name="Net-(R45-Pad1)">
+    <net code="93" name="Net-(R45-Pad1)">
       <node ref="R45" pin="1" pintype="passive"/>
       <node ref="U10" pin="16" pinfunction="(PCINT31/OC2A)PD7" pintype="bidirectional"/>
     </net>
-    <net code="87" name="Net-(U11-Pad1)">
+    <net code="94" name="Net-(U11-Pad1)">
       <node ref="U11" pin="1" pinfunction="OSCI" pintype="input"/>
       <node ref="Y2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="88" name="Net-(U11-Pad2)">
+    <net code="95" name="Net-(U11-Pad2)">
       <node ref="U11" pin="2" pinfunction="OSCO" pintype="input"/>
       <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="89" name="PA0">
+    <net code="96" name="PA0">
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="U10" pin="37" pinfunction="(PCINT0/ADC0)PA0" pintype="bidirectional"/>
     </net>
-    <net code="90" name="PA1">
+    <net code="97" name="PA1">
       <node ref="C17" pin="1" pintype="passive"/>
       <node ref="C24" pin="2" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
-      <node ref="R39" pin="2" pintype="passive"/>
       <node ref="R7" pin="1" pintype="passive"/>
       <node ref="R8" pin="2" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
       <node ref="U10" pin="36" pinfunction="(PCINT1/ADC1)PA1" pintype="bidirectional"/>
       <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
     </net>
-    <net code="91" name="PB0">
+    <net code="98" name="PB0">
       <node ref="R12" pin="1" pintype="passive"/>
       <node ref="U10" pin="40" pinfunction="(PCINT8/T0/XCK)PB0" pintype="bidirectional"/>
       <node ref="U5" pin="4" pinfunction="IN" pintype="bidirectional"/>
     </net>
-    <net code="92" name="POWER_ANALOG_3V3">
+    <net code="99" name="POWER_ANALOG_3V3">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="C32" pin="1" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
@@ -3354,26 +3404,26 @@
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="U3" pin="1" pinfunction="Vin" pintype="power_in"/>
     </net>
-    <net code="93" name="RST#">
+    <net code="100" name="RST#">
       <node ref="C43" pin="2" pintype="passive"/>
       <node ref="R32" pin="1" pintype="passive"/>
       <node ref="U9" pin="18" pinfunction="~{DTR}" pintype="output"/>
     </net>
-    <net code="94" name="RX0">
+    <net code="101" name="RX0">
       <node ref="R33" pin="1" pintype="passive"/>
       <node ref="U10" pin="9" pinfunction="(PCINT24/RXD0)PD0" pintype="bidirectional"/>
       <node ref="U9" pin="17" pinfunction="TXD" pintype="output"/>
     </net>
-    <net code="95" name="TX0">
+    <net code="102" name="TX0">
       <node ref="R34" pin="1" pintype="passive"/>
       <node ref="U10" pin="10" pinfunction="(PCINT25/TXD0)PD1" pintype="bidirectional"/>
       <node ref="U9" pin="1" pinfunction="RXD" pintype="input"/>
     </net>
-    <net code="96" name="UAV_5V">
+    <net code="103" name="UAV_5V">
       <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="J3" pin="1" pintype="input"/>
     </net>
-    <net code="97" name="Vin">
+    <net code="104" name="Vin">
       <node ref="C29" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="C41" pin="1" pintype="passive"/>
       <node ref="C46" pin="1" pintype="passive"/>
@@ -3382,79 +3432,79 @@
       <node ref="U12" pin="1" pinfunction="VIN" pintype="power_in"/>
       <node ref="U12" pin="3" pinfunction="EN" pintype="input"/>
     </net>
-    <net code="98" name="unconnected-(J2-Pad8)">
+    <net code="105" name="unconnected-(J2-Pad8)">
       <node ref="J2" pin="8" pinfunction="DAT1" pintype="input+no_connect"/>
     </net>
-    <net code="99" name="unconnected-(J2-Pad9)">
+    <net code="106" name="unconnected-(J2-Pad9)">
       <node ref="J2" pin="9" pinfunction="DAT2" pintype="input+no_connect"/>
     </net>
-    <net code="100" name="unconnected-(J3-Pad4)">
+    <net code="107" name="unconnected-(J3-Pad4)">
       <node ref="J3" pin="4" pintype="input+no_connect"/>
     </net>
-    <net code="101" name="unconnected-(J4-PadA8)">
+    <net code="108" name="unconnected-(J4-PadA8)">
       <node ref="J4" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="102" name="unconnected-(J4-PadB8)">
+    <net code="109" name="unconnected-(J4-PadB8)">
       <node ref="J4" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="103" name="unconnected-(U8-Pad3)">
+    <net code="110" name="unconnected-(U8-Pad3)">
       <node ref="U8" pin="3" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="104" name="unconnected-(U8-Pad5)">
+    <net code="111" name="unconnected-(U8-Pad5)">
       <node ref="U8" pin="5" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="105" name="unconnected-(U9-Pad2)">
+    <net code="112" name="unconnected-(U9-Pad2)">
       <node ref="U9" pin="2" pinfunction="~{RI}" pintype="input+no_connect"/>
     </net>
-    <net code="106" name="unconnected-(U9-Pad4)">
+    <net code="113" name="unconnected-(U9-Pad4)">
       <node ref="U9" pin="4" pinfunction="~{DSR}" pintype="input+no_connect"/>
     </net>
-    <net code="107" name="unconnected-(U9-Pad5)">
+    <net code="114" name="unconnected-(U9-Pad5)">
       <node ref="U9" pin="5" pinfunction="~{DCD}" pintype="input+no_connect"/>
     </net>
-    <net code="108" name="unconnected-(U9-Pad6)">
+    <net code="115" name="unconnected-(U9-Pad6)">
       <node ref="U9" pin="6" pinfunction="~{CTS}" pintype="input+no_connect"/>
     </net>
-    <net code="109" name="unconnected-(U9-Pad15)">
+    <net code="116" name="unconnected-(U9-Pad15)">
       <node ref="U9" pin="15" pinfunction="CBUS0" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="110" name="unconnected-(U9-Pad16)">
+    <net code="117" name="unconnected-(U9-Pad16)">
       <node ref="U9" pin="16" pinfunction="CBUS3" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="111" name="unconnected-(U9-Pad19)">
+    <net code="118" name="unconnected-(U9-Pad19)">
       <node ref="U9" pin="19" pinfunction="~{RTS}" pintype="output+no_connect"/>
     </net>
-    <net code="112" name="unconnected-(U10-Pad21)">
+    <net code="119" name="unconnected-(U10-Pad21)">
       <node ref="U10" pin="21" pinfunction="(PCINT18/TCK)PC2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="113" name="unconnected-(U10-Pad30)">
+    <net code="120" name="unconnected-(U10-Pad30)">
       <node ref="U10" pin="30" pinfunction="(PCINT7/ADC7)PA7" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="114" name="unconnected-(U10-Pad31)">
+    <net code="121" name="unconnected-(U10-Pad31)">
       <node ref="U10" pin="31" pinfunction="(PCINT6/ADC6)PA6" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="115" name="unconnected-(U10-Pad32)">
+    <net code="122" name="unconnected-(U10-Pad32)">
       <node ref="U10" pin="32" pinfunction="(PCINT5/ADC5)PA5" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="116" name="unconnected-(U10-Pad33)">
+    <net code="123" name="unconnected-(U10-Pad33)">
       <node ref="U10" pin="33" pinfunction="(PCINT4/ADC4)PA4" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="117" name="unconnected-(U10-Pad34)">
+    <net code="124" name="unconnected-(U10-Pad34)">
       <node ref="U10" pin="34" pinfunction="(PCINT3/ADC3)PA3" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="118" name="unconnected-(U10-Pad35)">
+    <net code="125" name="unconnected-(U10-Pad35)">
       <node ref="U10" pin="35" pinfunction="(PCINT2/ADC2)PA2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="119" name="unconnected-(U11-Pad4)">
+    <net code="126" name="unconnected-(U11-Pad4)">
       <node ref="U11" pin="4" pinfunction="TS" pintype="input+no_connect"/>
     </net>
-    <net code="120" name="unconnected-(U11-Pad8)">
+    <net code="127" name="unconnected-(U11-Pad8)">
       <node ref="U11" pin="8" pinfunction="CLK" pintype="input+no_connect"/>
     </net>
-    <net code="121" name="unconnected-(U11-Pad9)">
+    <net code="128" name="unconnected-(U11-Pad9)">
       <node ref="U11" pin="9" pinfunction="INTA" pintype="input+no_connect"/>
     </net>
-    <net code="122" name="unconnected-(U12-Pad4)">
+    <net code="129" name="unconnected-(U12-Pad4)">
       <node ref="U12" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
   </nets>
