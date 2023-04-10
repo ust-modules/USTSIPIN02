@@ -2057,7 +2057,7 @@
   )
 
   (text "CBUS Defaults\nCBUS0 - TXDEN \nCBUS1 - RXLED\nCBUS2 - TXLED\nCBUS3 - SLEEP#"
-    (at 218.44 105.41 180)
+    (at 218.44 105.41 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d6f56a74-ed91-4523-8aac-ffe934be9196)
   )
