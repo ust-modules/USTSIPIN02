@@ -1927,7 +1927,7 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 210.82 113.03 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf" (id 3) (at 198.12 106.68 0)
+    (property "Datasheet" "https://cz.mouser.com/datasheet/2/698/REN_isl21080_DST_20040119-1998038.pdf" (id 3) (at 198.12 106.68 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "UST_ID" "5c70984712875079b91f8b7a" (id 4) (at 198.12 106.68 0)
