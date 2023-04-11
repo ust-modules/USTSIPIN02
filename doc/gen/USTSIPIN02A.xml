@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Tue Apr 11 17:59:57 2023</date>
+    <date>Tue Apr 11 22:13:08 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1219,7 +1219,7 @@
     <comp ref="U3">
       <value>ISL21080DIH312Z-TK  1V25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</datasheet>
+      <datasheet>https://cz.mouser.com/datasheet/2/698/REN_isl21080_DST_20040119-1998038.pdf</datasheet>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b7a</field>
       </fields>
@@ -1875,7 +1875,7 @@
     <comp ref="U4">
       <value>TS7211</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
-      <datasheet>http://www.analog.com/media/en/technical-documentation/data-sheets/OP179_279.pdf</datasheet>
+      <datasheet>https://www.st.com/resource/en/datasheet/ts7211.pdf</datasheet>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b5b</field>
       </fields>
@@ -1889,6 +1889,7 @@
     <comp ref="U5">
       <value>TS5A4594</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/ts5a4594.pdf</datasheet>
       <fields>
         <field name="UST_ID">5c70984612875079b91f8a0d</field>
       </fields>
