@@ -8,7 +8,7 @@
     (title "USTSIPIN02A")
     (date "2022-05-22")
     (company "UST.cz")
-    (comment 2 "Silicon PIN diode based\\ndosimeter")
+    (comment 2 "Silicon PIN diode based\\ndosimeter and spectrometer")
     (comment 3 "info@ust.cz")
   )
 
@@ -1791,6 +1791,7 @@
       )
     )
   )
+
 
   (junction (at 76.2 58.42) (diameter 1.016) (color 0 0 0 0)
     (uuid 00b05432-76ab-49fd-b0b3-e99bb163c16c)
