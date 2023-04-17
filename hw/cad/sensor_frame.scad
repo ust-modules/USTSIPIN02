@@ -14,7 +14,7 @@ module sensor_frame(){
           cube([sensor_width + 2*sensor_height, sensor_lenght + 2*sensor_height, clearance/10], center=true);
       }
       cube([sensor_width + clearance, sensor_lenght + clearance, sensor_height],center=true);
-      cube([sensor_width-1,sensor_lenght-1,2*sensor_height],center=true);
+      cube([sensor_width-2, sensor_lenght-2, 2*sensor_height],center=true);
   }
 }
 
