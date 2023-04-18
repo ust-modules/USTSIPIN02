@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Thu Apr 13 11:25:52 2023</date>
+    <date>Tue Apr 18 22:14:16 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -850,10 +850,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -863,10 +863,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -942,10 +942,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="SPACEDOS01A_PCB01A-rescue" part="C-device-DATALOGGER01A-rescue-CCP2019V01A-rescue" description=""/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -981,10 +981,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="SPACEDOS01A_PCB01A-rescue" part="C-device-DATALOGGER01A-rescue-CCP2019V01A-rescue" description=""/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1034,10 +1034,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1047,10 +1047,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1060,10 +1060,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1073,10 +1073,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1245,7 +1245,7 @@
       <tstamps>00000000-0000-0000-0000-00005c6d0eac</tstamps>
     </comp>
     <comp ref="U12">
-      <value>MIC5504-3.3YM5</value>
+      <value>LP2985AIM5-3.6</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf</datasheet>
       <fields>
@@ -1275,10 +1275,10 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+        <field name="UST_ID">643f03ef76c82a1d3b576bed</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="UST_ID" value="643f03ef76c82a1d3b576bed"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1301,10 +1301,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1314,10 +1314,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1327,10 +1327,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1340,10 +1340,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1444,10 +1444,10 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+        <field name="UST_ID">643f03ef76c82a1d3b576bed</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="UST_ID" value="643f03ef76c82a1d3b576bed"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1483,10 +1483,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1496,10 +1496,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1509,10 +1509,10 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+        <field name="UST_ID">643f03ef76c82a1d3b576bed</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="UST_ID" value="643f03ef76c82a1d3b576bed"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1522,10 +1522,10 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+        <field name="UST_ID">643f03ef76c82a1d3b576bed</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="UST_ID" value="643f03ef76c82a1d3b576bed"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1535,10 +1535,10 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf5</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf5"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1598,52 +1598,52 @@
       <tstamps>46232e0b-54c8-490b-8105-24c40fb327a0</tstamps>
     </comp>
     <comp ref="R2">
-      <value>470R</value>
+      <value>100R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8959</field>
+        <field name="UST_ID">5c70984512875079b91f8956</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8959"/>
+      <property name="UST_ID" value="5c70984512875079b91f8956"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>2a377438-e2ee-4028-9168-619aa4fb8e30</tstamps>
     </comp>
     <comp ref="R3">
-      <value>10R</value>
+      <value>100R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f894f</field>
+        <field name="UST_ID">5c70984512875079b91f8956</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f894f"/>
+      <property name="UST_ID" value="5c70984512875079b91f8956"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>e13e13f1-e319-4794-b6d6-f3710970a046</tstamps>
     </comp>
     <comp ref="R4">
-      <value>470R</value>
+      <value>100R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8959</field>
+        <field name="UST_ID">5c70984512875079b91f8956</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8959"/>
+      <property name="UST_ID" value="5c70984512875079b91f8956"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>7b4db88a-f390-4ec5-ae01-7973cf76dd34</tstamps>
     </comp>
     <comp ref="R5">
-      <value>470R</value>
+      <value>100R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8959</field>
+        <field name="UST_ID">5c70984512875079b91f8956</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8959"/>
+      <property name="UST_ID" value="5c70984512875079b91f8956"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1819,13 +1819,13 @@
       <tstamps>a365650e-cb89-4ce8-a8e3-acce5374afb5</tstamps>
     </comp>
     <comp ref="R40">
-      <value>470R</value>
+      <value>100R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8959</field>
+        <field name="UST_ID">5c70984512875079b91f8956</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8959"/>
+      <property name="UST_ID" value="5c70984512875079b91f8956"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
