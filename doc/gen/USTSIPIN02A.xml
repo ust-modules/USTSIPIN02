@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Tue Apr 18 22:14:16 2023</date>
+    <date>Wed Apr 19 12:30:21 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1298,13 +1298,13 @@
       <tstamps>e3c95e18-b536-4b34-9b90-6c75d040f659</tstamps>
     </comp>
     <comp ref="C6">
-      <value>10uF</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">643f075476c82a1d3b576c19</field>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1363,13 +1363,13 @@
       <tstamps>0de1c18a-5997-4aca-b4bc-d8e2e6e98f9a</tstamps>
     </comp>
     <comp ref="C11">
-      <value>100nF</value>
+      <value>10uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+        <field name="UST_ID">643f075476c82a1d3b576c19</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="UST_ID" value="643f075476c82a1d3b576c19"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
