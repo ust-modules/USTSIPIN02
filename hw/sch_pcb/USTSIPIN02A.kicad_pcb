@@ -1812,14 +1812,14 @@
     (tags "capacitor")
     (property "Sheetfile" "sensor.kicad_sch")
     (property "Sheetname" "sensor")
-    (property "UST_ID" "")
+    (property "UST_ID" "643f075476c82a1d3b576c19")
     (path "/df946b97-ee48-4dc9-bb94-44edab77d662/48411867-f29b-42ea-a844-0f0be15d5059")
     (attr smd)
     (fp_text reference "C8" (at -1.9492 0.0236 90) (layer "B.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.1)) (justify mirror))
       (tstamp e9a2a210-8089-4543-86d3-d009227ee36f)
     )
-    (fp_text value "100nF" (at 0 -1.43) (layer "B.Fab") hide
+    (fp_text value "10uF" (at 0 -1.43) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b93c5547-d762-41bf-bac4-e1851c1a959c)
     )
@@ -2027,14 +2027,14 @@
     (tags "capacitor")
     (property "Sheetfile" "sensor.kicad_sch")
     (property "Sheetname" "sensor")
-    (property "UST_ID" "")
+    (property "UST_ID" "5c70984812875079b91f8bf2")
     (path "/df946b97-ee48-4dc9-bb94-44edab77d662/fbddbfff-8bfa-439b-8203-36214637d447")
     (attr smd)
     (fp_text reference "C13" (at 0.8508 1.0956) (layer "B.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.1)) (justify mirror))
       (tstamp d374ed99-4b13-4d05-a97c-ff2f799c3ba3)
     )
-    (fp_text value "10uF" (at 0 -1.43) (layer "B.Fab") hide
+    (fp_text value "100nF" (at 0 -1.43) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f68130d5-e0d8-46db-bc1f-886e342bfab9)
     )
