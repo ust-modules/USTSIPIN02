@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Wed Apr 19 14:43:06 2023</date>
+    <date>Thu Apr 20 19:49:09 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -434,6 +434,7 @@
     <comp ref="J2">
       <value>SD_Card-FPS009-4200-0</value>
       <footprint>Mlab_CON:FPS009-4200-0</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/448/Yamaichi_Electronics_08162018_FPS009-4200-0_B-1391393.pdf</datasheet>
       <fields>
         <field name="UST_ID">5cdd24d5128750448edda353</field>
       </fields>
