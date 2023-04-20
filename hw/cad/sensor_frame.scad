@@ -8,8 +8,11 @@ sensor_height = 2.2;
 module sensor_frame(){
   difference(){
       hull(){
-        translate([0,0,clearance/2])
-          cube([sensor_width + 2*clearance, sensor_lenght+ 2*clearance ,sensor_height + clearance],center=true);
+        translate([0,0,clearance])
+          minkowski(){
+            cube([sensor_width + 2*clearance, sensor_lenght+ 2*clearance, sensor_height-2*clearance],center=true);
+            sphere(r = clearance);
+          }
         translate([0,0,-sensor_height/2 + clearance/20])
           cube([sensor_width + 2*sensor_height, sensor_lenght + 2*sensor_height, clearance/10], center=true);
       }
