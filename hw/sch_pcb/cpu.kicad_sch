@@ -4404,7 +4404,7 @@
     (property "Footprint" "Mlab_CON:FPS009-4200-0" (id 2) (at 72.39 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 67.31 168.91 0)
+    (property "Datasheet" "https://eu.mouser.com/datasheet/2/448/Yamaichi_Electronics_08162018_FPS009-4200-0_B-1391393.pdf" (id 3) (at 67.31 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "UST_ID" "5cdd24d5128750448edda353" (id 4) (at 67.31 168.91 0)
