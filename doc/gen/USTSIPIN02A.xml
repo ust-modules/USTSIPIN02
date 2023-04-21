@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Thu Apr 20 19:49:09 2023</date>
+    <date>Fri Apr 21 08:50:41 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1599,13 +1599,13 @@
       <tstamps>46232e0b-54c8-490b-8105-24c40fb327a0</tstamps>
     </comp>
     <comp ref="R2">
-      <value>100R</value>
+      <value>470R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8956</field>
+        <field name="UST_ID">5c70984512875079b91f8959</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8956"/>
+      <property name="UST_ID" value="5c70984512875079b91f8959"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1625,26 +1625,26 @@
       <tstamps>e13e13f1-e319-4794-b6d6-f3710970a046</tstamps>
     </comp>
     <comp ref="R4">
-      <value>100R</value>
+      <value>470R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8956</field>
+        <field name="UST_ID">5c70984512875079b91f8959</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8956"/>
+      <property name="UST_ID" value="5c70984512875079b91f8959"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>7b4db88a-f390-4ec5-ae01-7973cf76dd34</tstamps>
     </comp>
     <comp ref="R5">
-      <value>100R</value>
+      <value>470R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8956</field>
+        <field name="UST_ID">5c70984512875079b91f8959</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8956"/>
+      <property name="UST_ID" value="5c70984512875079b91f8959"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -1820,13 +1820,13 @@
       <tstamps>a365650e-cb89-4ce8-a8e3-acce5374afb5</tstamps>
     </comp>
     <comp ref="R40">
-      <value>100R</value>
+      <value>470R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8956</field>
+        <field name="UST_ID">5c70984512875079b91f8959</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8956"/>
+      <property name="UST_ID" value="5c70984512875079b91f8959"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
