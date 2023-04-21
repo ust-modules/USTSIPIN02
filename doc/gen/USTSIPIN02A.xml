@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02A.kicad_sch</source>
-    <date>Fri Apr 21 08:50:41 2023</date>
+    <date>Fri Apr 21 16:51:58 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1218,14 +1218,14 @@
       <tstamps>4440ca4d-c3af-4ea7-8ff9-ac1315ae369a</tstamps>
     </comp>
     <comp ref="U3">
-      <value>ISL21080DIH309ZT</value>
+      <value>ISL21080DIH312Z-TK</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://cz.mouser.com/datasheet/2/698/REN_isl21080_DST_20040119-1998038.pdf</datasheet>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b0b</field>
+        <field name="UST_ID">5c70984712875079b91f8b7a</field>
       </fields>
       <libsource lib="Reference_Voltage" part="ISL21070CIH320Z-TK" description="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b0b"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b7a"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
