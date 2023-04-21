@@ -1167,7 +1167,7 @@
       (reference "U2") (unit 2) (value "OPA2314") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005c69bcb4/49817ff0-d9f4-40df-983c-b127eda26390"
-      (reference "U3") (unit 1) (value "ISL21080DIH309ZT") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U3") (unit 1) (value "ISL21080DIH312Z-TK") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/df946b97-ee48-4dc9-bb94-44edab77d662/0994f894-d9bb-4579-87be-ae742e824b9d"
       (reference "U4") (unit 1) (value "TS7211") (footprint "Package_TO_SOT_SMD:SOT-23-5_HandSoldering")
