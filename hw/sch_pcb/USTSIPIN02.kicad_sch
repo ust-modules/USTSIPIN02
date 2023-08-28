@@ -225,7 +225,7 @@
     )
     (pin "1" (uuid 96740a72-1849-46a9-82a7-81e7107fe858))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f"
           (reference "M2") (unit 1)
         )
@@ -250,7 +250,7 @@
     )
     (pin "1" (uuid ef0c7654-db4b-4a46-b8b3-501e18f7d841))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f"
           (reference "M3") (unit 1)
         )
@@ -275,7 +275,7 @@
     )
     (pin "1" (uuid dd23c94a-cb00-44a5-8600-46823d5e8a79))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f"
           (reference "M4") (unit 1)
         )
@@ -300,7 +300,7 @@
     )
     (pin "1" (uuid 7847482c-81b5-457b-8771-1fff0e8b178a))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f"
           (reference "#PWR03") (unit 1)
         )
@@ -325,7 +325,7 @@
     )
     (pin "1" (uuid c621169e-18d6-4110-bcd8-2f77cda1e87e))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f"
           (reference "M1") (unit 1)
         )
@@ -353,7 +353,7 @@
     )
     (pin "1" (uuid 1878ba7b-622d-45f2-83ce-bae0554e5343))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f"
           (reference "M8") (unit 1)
         )
@@ -376,7 +376,7 @@
       (uuid 77cf40ac-3a7c-4729-8f07-ed3513bca43b)
     )
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f" (page "2"))
       )
     )
@@ -405,7 +405,7 @@
       (uuid ecea3c72-de23-4a79-8d16-e685a744f948)
     )
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f" (page "3"))
       )
     )
@@ -426,7 +426,7 @@
       (uuid 2ca465c1-6f52-4775-a4a9-f8a4ca092196)
     )
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f" (page "5"))
       )
     )
@@ -451,7 +451,7 @@
       (uuid 94d0587a-f6cf-4b7a-9198-2f56991fbdff)
     )
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f" (page "4"))
       )
     )

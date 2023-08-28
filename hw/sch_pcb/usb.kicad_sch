@@ -1373,7 +1373,7 @@
     (pin "1" (uuid 99710aba-e13c-4944-ab70-feeb013a5e76))
     (pin "2" (uuid 08e1045a-8699-4d99-be87-641c8bb9eed1))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "R27") (unit 1)
         )
@@ -1398,7 +1398,7 @@
     )
     (pin "1" (uuid 5d76eeae-83ad-4777-a456-863477942453))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#FLG0110") (unit 1)
         )
@@ -1427,7 +1427,7 @@
     (pin "1" (uuid d317df11-1fa8-4e84-ad93-819519ea2457))
     (pin "2" (uuid 1863a79f-fdb5-46a1-8b7c-ed3cdcd51543))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "R29") (unit 1)
         )
@@ -1452,7 +1452,7 @@
     )
     (pin "1" (uuid b597070e-4445-4c27-a3a0-7522950c5fc1))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#PWR043") (unit 1)
         )
@@ -1477,7 +1477,7 @@
     )
     (pin "1" (uuid ac55d38e-8af2-452c-ba12-4ffb2ba23b9c))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#PWR038") (unit 1)
         )
@@ -1506,7 +1506,7 @@
     (pin "1" (uuid 55664229-3d32-4ee9-9247-07dd8ac09b37))
     (pin "2" (uuid d6be7890-aa38-4368-b7df-dfa141c2e002))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "R28") (unit 1)
         )
@@ -1535,7 +1535,7 @@
     (pin "1" (uuid 102c66ab-f908-4ee8-adbf-9ffcfdd24216))
     (pin "2" (uuid 60e33e51-07db-49f0-b6fb-1eb28b510f2c))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "C48") (unit 1)
         )
@@ -1560,7 +1560,7 @@
     )
     (pin "1" (uuid 048c0e4a-4b47-4332-8fc2-224397598273))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#PWR042") (unit 1)
         )
@@ -1608,7 +1608,7 @@
     (pin "8" (uuid ea563f52-d05a-40c6-83cf-79f9cffac0d7))
     (pin "9" (uuid 29d25b68-1799-4653-8b31-f1f931ab5128))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "U9") (unit 1)
         )
@@ -1633,7 +1633,7 @@
     )
     (pin "1" (uuid 5bd9c3b0-b18d-446a-949b-153bbc62f04a))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#PWR044") (unit 1)
         )
@@ -1662,7 +1662,7 @@
     (pin "1" (uuid 92394733-37b2-4544-9bbf-05ffef475d0b))
     (pin "2" (uuid 1050d4e4-fd67-4269-afdb-cbcd64dffbcd))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "R31") (unit 1)
         )
@@ -1691,7 +1691,7 @@
     (pin "1" (uuid f4abe53f-60f5-4a45-a067-867022f24e48))
     (pin "2" (uuid f61a3d62-a150-43b6-b3a0-9515bad956f1))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "D4") (unit 1)
         )
@@ -1716,7 +1716,7 @@
     )
     (pin "1" (uuid 5cf3793c-0a45-424e-a885-5937fb44caa0))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#PWR035") (unit 1)
         )
@@ -1745,7 +1745,7 @@
     (pin "1" (uuid a6863a78-6d12-4897-994f-db71bc0b36ce))
     (pin "2" (uuid 2196f604-c6a8-47d7-8fdf-a5317f4147cb))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "D3") (unit 1)
         )
@@ -1774,7 +1774,7 @@
     (pin "1" (uuid 615737ff-a450-4845-a5f3-f129865616c4))
     (pin "2" (uuid 2fc29ab1-b764-4642-a83b-362371a7c977))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "R30") (unit 1)
         )
@@ -1799,7 +1799,7 @@
     )
     (pin "1" (uuid 0a2825cc-3b02-496a-aaa4-f213fec51806))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#PWR040") (unit 1)
         )
@@ -1842,7 +1842,7 @@
     (pin "G3" (uuid 0b015ea6-d831-47b1-85f1-bcc97e5ccd46))
     (pin "G4" (uuid ff0b4dc0-7116-46fc-a722-01b65c0711ac))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "J4") (unit 1)
         )
@@ -1867,7 +1867,7 @@
     )
     (pin "1" (uuid 028cc2f3-7d06-4f83-9075-9f2d6ceadcb5))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#PWR049") (unit 1)
         )
@@ -1892,7 +1892,7 @@
     )
     (pin "1" (uuid d16d024f-76f6-4723-af10-369a89a50454))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#PWR0113") (unit 1)
         )
@@ -1925,7 +1925,7 @@
     (pin "5" (uuid 66fe23f4-dcdf-440f-8d28-b3bd5b212ba2))
     (pin "6" (uuid 31c94ab5-62b2-4035-bbdb-524de48aec56))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "U7") (unit 1)
         )
@@ -1950,7 +1950,7 @@
     )
     (pin "1" (uuid 985444dd-1c8f-4c0f-b974-0e0941f36b1c))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#PWR0112") (unit 1)
         )
@@ -1979,7 +1979,7 @@
     (pin "1" (uuid 58ca4e40-19f9-4325-9da7-4d1c31d96f98))
     (pin "2" (uuid 8dc3bcbc-69ae-451e-9251-3e91bdaa4d50))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "C45") (unit 1)
         )
@@ -2008,7 +2008,7 @@
     (pin "1" (uuid fc21257e-0ac1-42e1-8edc-4c6cb306127a))
     (pin "2" (uuid 3650d5c5-9f89-46be-97a0-503bb0b9ba0f))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "R26") (unit 1)
         )
@@ -2033,7 +2033,7 @@
     )
     (pin "1" (uuid 9e42e8b4-7e17-47a5-9f7c-6f2f81149e6d))
     (instances
-      (project "USTSIPIN02A"
+      (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f/19d1d659-a959-4bd5-b510-08a4dbcee178"
           (reference "#PWR048") (unit 1)
         )
