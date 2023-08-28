@@ -3405,7 +3405,7 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering" (at 247.65 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 247.65 142.24 0)
+    (property "Datasheet" "https://www.st.com/resource/en/datasheet/ts3021.pdf" (at 247.65 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "UST_ID" "5d47bfd4128750448e6b465e" (at 247.65 147.32 0)
