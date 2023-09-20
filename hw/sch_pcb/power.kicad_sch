@@ -2583,7 +2583,7 @@
     (property "Reference" "R3" (at 182.88 88.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100R" (at 180.34 87.63 90)
+    (property "Value" "100R" (at 177.8 87.63 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 178.562 87.63 90)
