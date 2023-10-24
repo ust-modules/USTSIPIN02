@@ -1692,7 +1692,7 @@
     (property "Value" "DFE252012P-4R7M" (at 68.58 169.0624 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (at 68.58 171.45 0)
+    (property "Footprint" "Inductor_SMD:L_1008_2520Metric" (at 68.58 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 68.58 171.45 0)
