@@ -3250,10 +3250,6 @@
     )
   )
 
-  (text "1,25 V" (at 81.28 142.24 0)
-    (effects (font (size 1.524 1.524)) (justify left bottom))
-    (uuid 27208f78-22c7-496b-a454-3b9625a48feb)
-  )
   (text "+" (at 91.44 117.856 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 30478cd6-d8a3-4568-973e-9db2dd4039c0)
