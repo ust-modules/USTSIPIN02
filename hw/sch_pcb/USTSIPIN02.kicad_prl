@@ -23,7 +23,7 @@
       "lockedItems": false,
       "otherItems": false,
       "pads": false,
-      "text": false,
+      "text": true,
       "tracks": true,
       "vias": true,
       "zones": false
@@ -39,7 +39,6 @@
       9,
       10,
       11,
-      12,
       13,
       14,
       15,
