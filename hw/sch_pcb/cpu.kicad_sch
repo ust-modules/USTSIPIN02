@@ -3369,7 +3369,7 @@
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 36be43c8-c662-4d03-8fb0-3a9e30866f21)
   )
-  (hierarchical_label "External_5V" (shape input) (at 72.39 119.38 180) (fields_autoplaced)
+  (hierarchical_label "External_5V" (shape output) (at 72.39 119.38 180) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 5f2624cf-2855-4944-88a6-523c58cb4ad0)
   )
