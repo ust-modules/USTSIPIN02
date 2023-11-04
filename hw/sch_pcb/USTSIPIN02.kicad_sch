@@ -150,6 +150,10 @@
     (stroke (width 0) (type default))
     (uuid 6a980f2a-a0da-469a-a91e-9239eda364a9)
   )
+  (wire (pts (xy 113.03 76.2) (xy 113.03 91.44))
+    (stroke (width 0) (type default))
+    (uuid 72fce268-a587-483e-923b-fac70e70f435)
+  )
   (wire (pts (xy 132.08 73.66) (xy 132.08 62.23))
     (stroke (width 0) (type default))
     (uuid 756301c0-c6d7-4188-bc33-0f082702f42d)
@@ -399,6 +403,10 @@
       (effects (font (size 1.524 1.524)) (justify left))
       (uuid bec7923b-bd77-42c9-a093-1f8aaba8e13a)
     )
+    (pin "External_5V" output (at 113.03 91.44 90)
+      (effects (font (size 1.524 1.524)) (justify right))
+      (uuid 3b5857b7-2ede-47eb-83cf-ca02665cfaa7)
+    )
     (instances
       (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f" (page "2"))
@@ -423,6 +431,10 @@
     (pin "Virtual_ground" input (at 85.09 62.23 180)
       (effects (font (size 1.524 1.524)) (justify left))
       (uuid befe94c2-338d-4732-bff3-3db46679198c)
+    )
+    (pin "External_5V" input (at 113.03 76.2 270)
+      (effects (font (size 1.524 1.524)) (justify left))
+      (uuid 883ef7db-6067-400f-9a92-075aaafeda85)
     )
     (instances
       (project "USTSIPIN02"
