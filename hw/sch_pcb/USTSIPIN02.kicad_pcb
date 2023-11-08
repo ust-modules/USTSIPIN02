@@ -6022,10 +6022,10 @@
       (net 1 "GND") (pintype "input") (tstamp cc996ca2-d764-407b-8d41-740ee21b5d6f))
     (pad "1" smd rect locked (at 15.9 15.9) (size 1 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "GND") (pintype "input") (tstamp c77b9602-ac82-4d22-96eb-4ab0dd44dff8))
-    (model "${KISYS3DMOD}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-204-F_32.00x32.00mm.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KISYS3DMOD_MLAB}/bmi-s-204-f-stp-file.STP"
+      (opacity 0.7000)      (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
