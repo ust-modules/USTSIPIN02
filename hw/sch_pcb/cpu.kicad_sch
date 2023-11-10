@@ -3568,7 +3568,7 @@
   )
 
   (symbol (lib_id "MLAB_HEADER:HEADER_2x03") (at 157.48 181.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 00000000-0000-0000-0000-00005b253fc7)
     (property "Reference" "J22" (at 157.48 175.4886 0)
       (effects (font (size 1.524 1.524)))
@@ -3581,6 +3581,9 @@
     )
     (property "Datasheet" "" (at 157.48 179.07 0)
       (effects (font (size 1.524 1.524)))
+    )
+    (property "UST_ID" "" (at 157.48 181.61 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f20bc062-354a-4e6b-896b-8e0c1fe53af9))
     (pin "2" (uuid 51b3d89b-4a6f-49da-affc-2ca7b86d1997))
