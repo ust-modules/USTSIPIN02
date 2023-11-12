@@ -2,7 +2,7 @@
 
 It is intended for measurements of cosmic radiation and ionizing radiation dosimetry by using [c-Si](https://en.wikipedia.org/wiki/Crystalline_silicon) PIN diode sensor.  
 
-![Top view on USTSIPIN02](/doc/gen/img/USTSIPIN02A-top.png)
+![Top view on USTSIPIN02](/doc/gen/img/USTSIPIN02-top.png)
 
 
 ### Technical parameters
@@ -25,7 +25,7 @@ It is intended for measurements of cosmic radiation and ionizing radiation dosim
 
 ### USB interface
 
-The main user interface is with a USB-C connector. See the [LABDOS01](https://github.com/UniversalScientificTechnologies/LABDOS01) for detailed description. 
+The main user interface is with a USB-C connector. See the [LABDOS01](https://github.com/UniversalScientificTechnologies/LABDOS01) for a detailed description. 
 
 ### UART interface
 
