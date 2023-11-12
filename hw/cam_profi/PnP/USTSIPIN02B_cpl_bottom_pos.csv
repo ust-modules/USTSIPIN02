@@ -48,6 +48,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C49","10uF","C_0805_2012Metric",169.3843,-96.2029,90.0000,bottom
 "C50","10uF","CP_EIA-3216-18_Kemet-A",135.5007,-79.8453,90.0000,bottom
 "C51","100nF","C_0805_2012Metric",167.2507,-96.2029,90.0000,bottom
+"C52","NFM21PC105-1uF","FIR_0805",130.6493,-79.6929,180.0000,bottom
 "C53","10uF","CP_EIA-3216-18_Kemet-A",115.2823,-85.2809,0.0000,bottom
 "C54","100nF","C_0805_2012Metric",128.4903,-89.1429,-90.0000,bottom
 "C55","10uF","CP_EIA-3216-18_Kemet-A",131.0049,-86.8811,-90.0000,bottom
@@ -98,7 +99,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "R22","4k7","R_0805_2012Metric",118.9399,-88.2019,0.0000,bottom
 "R23","10k","R_0805_2012Metric",168.7263,-102.9329,180.0000,bottom
 "R26","4k7","R_0805_2012Metric",170.3495,-113.6781,90.0000,bottom
-"R27","10k","R_0805_2012Metric",169.3335,-109.9697,135.0000,bottom
+"R27","10k","R_0805_2012Metric",169.0795,-110.9349,180.0000,bottom
 "R28","180R","R_0805_2012Metric",168.1143,-114.7449,90.0000,bottom
 "R29","180R","R_0805_2012Metric",163.0343,-114.7449,90.0000,bottom
 "R30","5k1","R_0805_2012Metric",181.6271,-111.3413,180.0000,bottom
@@ -137,3 +138,4 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "U14","TPS22919DCK","SOT-363_SC-70-6",148.3277,-105.5755,180.0000,bottom
 "U15","SHT4x","Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad",106.1637,-110.7317,0.0000,bottom
 "U16","ISL21080CIH325Z","SOT-23",150.9439,-99.8605,-90.0000,bottom
+"Y2","ABS07-120-32.768KHZ-T","Crystal_SMD_3215-2Pin_3.2x1.5mm",139.3043,-110.3369,0.0000,bottom

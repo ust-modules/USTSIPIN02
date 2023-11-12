@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.8-7.0.8~ubuntu23.04.1"
     },
-    "CreationDate": "2023-11-12T10:14:10+00:00"
+    "CreationDate": "2023-11-12T23:29:36+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -19,7 +19,7 @@
     },
     "LayerNumber": 4,
     "BoardThickness": 1.66,
-    "Finish": "None"
+    "Finish": "HAL lead-free"
   },
   "DesignRules": [
     {

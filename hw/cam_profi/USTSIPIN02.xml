@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02.kicad_sch</source>
-    <date>Sun Nov 12 10:14:50 2023</date>
+    <date>Sun Nov 12 23:30:08 2023</date>
     <tool>Eeschema 7.0.8-7.0.8~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -150,6 +150,17 @@
       <property name="ki_keywords" value="fiducial marker"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e164a208-a9f9-46a1-bfe0-00a12f4d66b2</tstamps>
+    </comp>
+    <comp ref="FID6">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
+      <property name="ki_description" value="Fiducial Marker"/>
+      <property name="ki_keywords" value="fiducial marker"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6ba6b32-1b61-4973-ba0e-823a5d51bcf1</tstamps>
     </comp>
     <comp ref="M1">
       <value>HOLE</value>
@@ -1131,7 +1142,8 @@
     </comp>
     <comp ref="Y2">
       <value>ABS07-120-32.768KHZ-T</value>
-      <footprint>Mlab_XTAL:ABS07</footprint>
+      <footprint>Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm</footprint>
+      <datasheet>https://cz.mouser.com/datasheet/2/3/ABS07-3080027.pdf</datasheet>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b1b</field>
       </fields>
