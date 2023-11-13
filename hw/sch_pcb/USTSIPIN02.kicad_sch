@@ -278,7 +278,7 @@
   )
 
   (symbol (lib_id "MLAB_MECHANICAL:HOLE") (at 262.89 19.05 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000549d7628)
     (property "Reference" "M2" (at 262.89 21.59 90)
       (effects (font (size 1.524 1.524)))
@@ -292,6 +292,9 @@
     (property "Datasheet" "" (at 262.89 19.05 0)
       (effects (font (size 1.524 1.524)))
     )
+    (property "UST_ID" "" (at 262.89 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 96740a72-1849-46a9-82a7-81e7107fe858))
     (instances
       (project "USTSIPIN02"
@@ -303,7 +306,7 @@
   )
 
   (symbol (lib_id "MLAB_MECHANICAL:HOLE") (at 267.97 19.05 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b3d3f17)
     (property "Reference" "M3" (at 267.97 21.59 90)
       (effects (font (size 1.524 1.524)))
@@ -317,6 +320,9 @@
     (property "Datasheet" "" (at 267.97 19.05 0)
       (effects (font (size 1.524 1.524)))
     )
+    (property "UST_ID" "" (at 267.97 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid ef0c7654-db4b-4a46-b8b3-501e18f7d841))
     (instances
       (project "USTSIPIN02"
@@ -328,7 +334,7 @@
   )
 
   (symbol (lib_id "MLAB_MECHANICAL:HOLE") (at 273.05 19.05 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005b3d3f18)
     (property "Reference" "M4" (at 273.05 21.59 90)
       (effects (font (size 1.524 1.524)))
@@ -341,6 +347,9 @@
     )
     (property "Datasheet" "" (at 273.05 19.05 0)
       (effects (font (size 1.524 1.524)))
+    )
+    (property "UST_ID" "" (at 273.05 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid dd23c94a-cb00-44a5-8600-46823d5e8a79))
     (instances
@@ -378,7 +387,7 @@
   )
 
   (symbol (lib_id "MLAB_MECHANICAL:HOLE") (at 257.81 19.05 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005c4af3da)
     (property "Reference" "M1" (at 257.81 21.59 90)
       (effects (font (size 1.524 1.524)))
@@ -391,6 +400,9 @@
     )
     (property "Datasheet" "" (at 257.81 19.05 0)
       (effects (font (size 1.524 1.524)))
+    )
+    (property "UST_ID" "" (at 257.81 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c621169e-18d6-4110-bcd8-2f77cda1e87e))
     (instances
@@ -431,7 +443,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 255.27 40.64 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3247d27a-f411-474f-8c4c-872f17cc887f)
     (property "Reference" "FID3" (at 257.429 39.4279 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -443,6 +455,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 255.27 40.64 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "UST_ID" "" (at 255.27 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -468,7 +483,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 255.27 34.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7a47cbe1-1f9c-4b09-90c4-b75a2c1c42f6)
     (property "Reference" "FID1" (at 257.429 33.0779 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -480,6 +495,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 255.27 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "UST_ID" "" (at 255.27 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -500,7 +518,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 267.97 34.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b5d5d3a5-dcb1-464e-a60e-271750a1dc23)
     (property "Reference" "FID2" (at 270.129 33.0779 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -512,6 +530,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 267.97 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "UST_ID" "" (at 267.97 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -532,7 +553,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 267.97 46.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b6ba6b32-1b61-4973-ba0e-823a5d51bcf1)
     (property "Reference" "FID6" (at 270.129 45.7779 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -544,6 +565,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 267.97 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "UST_ID" "" (at 267.97 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -569,7 +593,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 267.97 40.64 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c04e1018-25e3-4d37-97d4-ec924b4e7a2f)
     (property "Reference" "FID4" (at 270.129 39.4279 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -581,6 +605,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 267.97 40.64 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "UST_ID" "" (at 267.97 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -606,7 +633,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 255.27 46.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e164a208-a9f9-46a1-bfe0-00a12f4d66b2)
     (property "Reference" "FID5" (at 257.429 45.7779 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -618,6 +645,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 255.27 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "UST_ID" "" (at 255.27 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
