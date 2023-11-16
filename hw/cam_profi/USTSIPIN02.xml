@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02.kicad_sch</source>
-    <date>Mon Nov 13 23:56:37 2023</date>
+    <date>Thu Nov 16 08:02:54 2023</date>
     <tool>Eeschema 7.0.8-7.0.8~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -880,10 +880,10 @@
       <value>82R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8955</field>
+        <field name="UST_ID">5c70984512875079b91f8976</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8955"/>
+      <property name="UST_ID" value="5c70984512875079b91f8976"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -940,10 +940,10 @@
       <value>18R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8951</field>
+        <field name="UST_ID">5c70984512875079b91f8973</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8951"/>
+      <property name="UST_ID" value="5c70984512875079b91f8973"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1139,8 +1139,11 @@
       <value>ISL21080CIH325Z</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://cz.mouser.com/datasheet/2/698/REN_isl21080_DST_20040119-1998038.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">6555c89a95a79cc5ac409c19</field>
+      </fields>
       <libsource lib="Reference_Voltage" part="ISL21070CIH320Z-TK" description="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="6555c89a95a79cc5ac409c19"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
@@ -1556,10 +1559,10 @@
       <value>180R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8957</field>
+        <field name="UST_ID">5c70984512875079b91f897c</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8957"/>
+      <property name="UST_ID" value="5c70984512875079b91f897c"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1637,8 +1640,11 @@
       <value>DS4305</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/609/DS4305_DS4305K-3122241.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">6555c9ad95a79cc5ac409c46</field>
+      </fields>
       <libsource lib="MLAB_IO" part="DS4305" description="Electronically Programmable Voltage Reference, 4.0V to 5.5V Single-Supply Operation, SOT23-5"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="6555c9ad95a79cc5ac409c46"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Electronically Programmable Voltage Reference, 4.0V to 5.5V Single-Supply Operation, SOT23-5"/>
@@ -1663,7 +1669,7 @@
       <tstamps>8d1d0282-84be-46a7-b296-21ab1c9bce21</tstamps>
     </comp>
     <comp ref="U12">
-      <value>LP2985AIM5-3.6</value>
+      <value>MIC5504-3.3YM5-TR</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf</datasheet>
       <fields>
@@ -2428,8 +2434,11 @@
       <value>MAX9075EUK+</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/609/MAX9075_MAX9077-3130929.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">6555cb7295a79cc5ac409c68</field>
+      </fields>
       <libsource lib="MLAB_IO" part="AD8691" description="Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="6555cb7295a79cc5ac409c68"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5"/>
@@ -2455,7 +2464,11 @@
       <value>SHT4x</value>
       <footprint>Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad</footprint>
       <datasheet>https://sensirion.com/media/documents/33FD6951/624C4357/Datasheet_SHT4x.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">65227831462c6d9e720559a1</field>
+      </fields>
       <libsource lib="Sensor_Humidity" part="SHT4x" description="Digital Humidity and Temperature Sensor, +/-1%RH, +/-0.1degC, I2C, 1.08-3.6V, 16bit, DFN-4"/>
+      <property name="UST_ID" value="65227831462c6d9e720559a1"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Digital Humidity and Temperature Sensor, +/-1%RH, +/-0.1degC, I2C, 1.08-3.6V, 16bit, DFN-4"/>
@@ -2542,10 +2555,10 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8960</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8960"/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2572,10 +2585,10 @@
       <value>180R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8957</field>
+        <field name="UST_ID">5c70984512875079b91f897c</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8957"/>
+      <property name="UST_ID" value="5c70984512875079b91f897c"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2587,10 +2600,10 @@
       <value>180R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8957</field>
+        <field name="UST_ID">5c70984512875079b91f897c</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8957"/>
+      <property name="UST_ID" value="5c70984512875079b91f897c"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2602,10 +2615,10 @@
       <value>5k1</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">628d1404dc56076e9a223650</field>
+        <field name="UST_ID">5fa0fc3e12875025b3977997</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="628d1404dc56076e9a223650"/>
+      <property name="UST_ID" value="5fa0fc3e12875025b3977997"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2617,10 +2630,10 @@
       <value>5k1</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">628d1404dc56076e9a223650</field>
+        <field name="UST_ID">5fa0fc3e12875025b3977997</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="628d1404dc56076e9a223650"/>
+      <property name="UST_ID" value="5fa0fc3e12875025b3977997"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
