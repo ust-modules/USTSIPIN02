@@ -1,6 +1,6 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
 "BT1","KEYS2998","BatteryHolder_Keystone_2998_1x6.8mm",142.7143,-78.9309,0.0000,top
-"C1","10uF","C_0805_2012Metric",141.9015,-84.5189,180.0000,bottom
+"C1","47uF","C_0805_2012Metric",141.9015,-84.5189,180.0000,bottom
 "C2","100nF","C_0805_2012Metric",121.7339,-89.5227,-90.0000,bottom
 "C3","1uF","C_1210_3225Metric",103.8523,-94.0185,90.0000,bottom
 "C4","100nF","C_0805_2012Metric",106.0621,-108.6235,180.0000,bottom
@@ -31,7 +31,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "C29","1nF/NP0","C_0805_2012Metric",148.9063,-94.5029,-90.0000,bottom
 "C30","15pF","C_0805_2012Metric",152.7219,-77.9657,180.0000,bottom
 "C31","100nF","C_0805_2012Metric",159.1151,-98.5357,180.0000,bottom
-"C32","100nF","C_0805_2012Metric",142.8667,-87.9225,-90.0000,bottom
+"C32","47uF","C_0805_2012Metric",142.8667,-87.9225,-90.0000,bottom
 "C33","15pF","C_0805_2012Metric",163.2883,-77.9657,0.0000,bottom
 "C34","100nF","C_0805_2012Metric",155.5591,-81.2637,0.0000,bottom
 "C35","100nF","C_0805_2012Metric",148.5563,-89.9037,90.0000,bottom
@@ -51,7 +51,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "C49","10uF","C_0805_2012Metric",169.3843,-96.2029,90.0000,bottom
 "C50","10uF","CP_EIA-3216-18_Kemet-A",135.5007,-79.8453,90.0000,bottom
 "C51","100nF","C_0805_2012Metric",167.2507,-96.2029,90.0000,bottom
-"C52","NFM21PC105-1uF","FIR_0805",130.6493,-79.6929,180.0000,bottom
+"C52","100R","FIR_0805",130.6493,-79.6929,180.0000,bottom
 "C53","10uF","CP_EIA-3216-18_Kemet-A",115.2823,-85.2809,0.0000,bottom
 "C54","100nF","C_0805_2012Metric",128.4903,-89.1429,-90.0000,bottom
 "C55","10uF","CP_EIA-3216-18_Kemet-A",131.0049,-86.8811,-90.0000,bottom
@@ -77,7 +77,6 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "L1","NL03KT330","L_0603_1608Metric_Pad1.05x0.95mm_HandSolder",158.4623,-101.7909,90.0000,bottom
 "L2","NL03KT330","L_0603_1608Metric_Pad1.05x0.95mm_HandSolder",173.9055,-95.8981,-90.0000,bottom
 "L3","DFE252012P-4R7M","L_1008_2520Metric",140.3775,-87.6431,-90.0000,bottom
-"L4","NL03KT330","L_0603_1608Metric_Pad1.05x0.95mm_HandSolder",145.8131,-87.0589,180.0000,bottom
 "L5","NL03KT330","L_0603_1608Metric_Pad1.05x0.95mm_HandSolder",128.2109,-86.2461,0.0000,bottom
 "M8","BMI-S-204-F","Laird_Technologies_BMI-S-204-F_32.00x32.00mm",117.0443,-98.9969,0.0000,bottom
 "Q1","2SK2394-6","SOT-23",106.6717,-86.7033,-90.0000,bottom

@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02.kicad_sch</source>
-    <date>Wed Nov 22 16:43:21 2023</date>
-    <tool>Eeschema 7.0.8-7.0.8~ubuntu23.04.1</tool>
+    <date>Fri Dec  1 17:36:02 2023</date>
+    <tool>Eeschema 7.0.9-7.0.9~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>USTSIPIN02B</title>
@@ -1183,13 +1183,13 @@
       <tstamps>00000000-0000-0000-0000-00005b36b778</tstamps>
     </comp>
     <comp ref="C1">
-      <value>10uF</value>
+      <value>47uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b53</field>
+        <field name="UST_ID">5c70984812875079b91f8bbf</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b53"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbf"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1228,13 +1228,13 @@
       <tstamps>27cd2a81-9e36-4a40-98a4-1bd1a73597a1</tstamps>
     </comp>
     <comp ref="C32">
-      <value>100nF</value>
+      <value>47uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984812875079b91f8bbf</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbf"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1350,7 +1350,7 @@
       <tstamps>59dc7ff6-302a-4ac0-b744-e54e5d910cf2</tstamps>
     </comp>
     <comp ref="C52">
-      <value>NFM21PC105-1uF</value>
+      <value>100R</value>
       <footprint>Mlab_L:FIR_0805</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f880f</field>
@@ -1534,6 +1534,7 @@
       <property name="UST_ID" value="64fe1808f3b9d36f37fc944d"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
+      <property name="dnp"/>
       <property name="ki_description" value="Inductor with ferrite core, small symbol"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
