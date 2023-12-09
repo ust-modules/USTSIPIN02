@@ -295,6 +295,9 @@
     (property "UST_ID" "" (at 262.89 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Sim.Enable" "0" (at 262.89 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 96740a72-1849-46a9-82a7-81e7107fe858))
     (instances
       (project "USTSIPIN02"
@@ -323,6 +326,9 @@
     (property "UST_ID" "" (at 267.97 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Sim.Enable" "0" (at 267.97 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid ef0c7654-db4b-4a46-b8b3-501e18f7d841))
     (instances
       (project "USTSIPIN02"
@@ -349,6 +355,9 @@
       (effects (font (size 1.524 1.524)))
     )
     (property "UST_ID" "" (at 273.05 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 273.05 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid dd23c94a-cb00-44a5-8600-46823d5e8a79))
@@ -404,6 +413,9 @@
     (property "UST_ID" "" (at 257.81 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Sim.Enable" "0" (at 257.81 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid c621169e-18d6-4110-bcd8-2f77cda1e87e))
     (instances
       (project "USTSIPIN02"
@@ -432,6 +444,9 @@
     (property "UST_ID" "5c72751c1287500b4e11301a" (at 252.73 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Sim.Enable" "0" (at 252.73 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 1878ba7b-622d-45f2-83ce-bae0554e5343))
     (instances
       (project "USTSIPIN02"
@@ -458,6 +473,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "UST_ID" "" (at 255.27 40.64 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 255.27 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -500,6 +518,9 @@
     (property "UST_ID" "" (at 255.27 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Sim.Enable" "0" (at 255.27 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f"
@@ -535,6 +556,9 @@
     (property "UST_ID" "" (at 267.97 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Sim.Enable" "0" (at 267.97 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f"
@@ -568,6 +592,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "UST_ID" "" (at 267.97 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 267.97 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -610,6 +637,9 @@
     (property "UST_ID" "" (at 267.97 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Sim.Enable" "0" (at 267.97 40.64 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "USTSIPIN02"
         (path "/0a87ced0-2af2-43c5-a56c-218f7013d76f"
@@ -648,6 +678,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "UST_ID" "" (at 255.27 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 255.27 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
