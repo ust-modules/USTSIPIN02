@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02.kicad_sch</source>
-    <date>Tue Dec  5 17:30:34 2023</date>
+    <date>Sat Dec  9 00:17:11 2023</date>
     <tool>Eeschema 7.0.9-7.0.9~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -99,8 +99,12 @@
     <comp ref="FID1">
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -112,8 +116,12 @@
     <comp ref="FID2">
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -125,8 +133,12 @@
     <comp ref="FID3">
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -138,8 +150,12 @@
     <comp ref="FID4">
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -151,8 +167,12 @@
     <comp ref="FID5">
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -164,8 +184,12 @@
     <comp ref="FID6">
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -177,8 +201,12 @@
     <comp ref="M1">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -189,8 +217,12 @@
     <comp ref="M2">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -201,8 +233,12 @@
     <comp ref="M3">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -213,8 +249,12 @@
     <comp ref="M4">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -226,10 +266,12 @@
       <value>BMI-S-204-F</value>
       <footprint>RF_Shielding:Laird_Technologies_BMI-S-204-F_32.00x32.00mm</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c72751c1287500b4e11301a</field>
       </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="UST_ID" value="5c72751c1287500b4e11301a"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="ki_keywords" value="HOLE, X, M"/>
@@ -240,10 +282,12 @@
       <value>KEYS2998</value>
       <footprint>Battery:BatteryHolder_Keystone_2998_1x6.8mm</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f87ea</field>
       </fields>
       <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
       <property name="UST_ID" value="5c70984412875079b91f87ea"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Single-cell battery"/>
@@ -255,10 +299,12 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b53"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -270,10 +316,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -285,10 +333,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -300,10 +350,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -315,10 +367,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -330,10 +384,12 @@
       <value>15pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b32</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b32"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -345,10 +401,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -360,10 +418,12 @@
       <value>15pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b32</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b32"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -375,10 +435,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -390,10 +452,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -405,10 +469,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -420,10 +486,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -436,10 +504,12 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor, small symbol"/>
@@ -451,10 +521,12 @@
       <value>4u7</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5e3ff8fc1287502a33bad7a3</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5e3ff8fc1287502a33bad7a3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -466,10 +538,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -481,10 +555,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -496,10 +572,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -511,10 +589,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -526,10 +606,12 @@
       <value>RED</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f8896</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984412875079b91f8896"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -541,10 +623,12 @@
       <value>GREEN</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f8895</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984412875079b91f8895"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -556,10 +640,12 @@
       <value>BLUE</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8898</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984512875079b91f8898"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -571,10 +657,12 @@
       <value>SM08B-GHS-TB</value>
       <footprint>Connector_JST:JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5fa0f75012875025b3977948</field>
       </fields>
       <libsource lib="MLAB_CONNECTORS_JST" part="SM08B-GHS-TB" description="1x08 2.54 mm pitch header"/>
       <property name="UST_ID" value="5fa0f75012875025b3977948"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="1x08 2.54 mm pitch header"/>
@@ -587,10 +675,12 @@
       <footprint>Mlab_CON:FPS009-4200-0</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/448/Yamaichi_Electronics_08162018_FPS009-4200-0_B-1391393.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5cdd24d5128750448edda353</field>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="SD_Card-FPS009-4200-0" description=""/>
       <property name="UST_ID" value="5cdd24d5128750448edda353"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -600,10 +690,12 @@
       <value>SM06B-GHS-TB</value>
       <footprint>Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5fa0f70212875025b3977932</field>
       </fields>
       <libsource lib="MLAB_CONNECTORS_JST" part="SM06B-GHS-TB" description="1x07 2.54 mm pitch header"/>
       <property name="UST_ID" value="5fa0f70212875025b3977932"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="1x07 2.54 mm pitch header"/>
@@ -614,8 +706,12 @@
     <comp ref="J22">
       <value>HEADER_2x03</value>
       <footprint>Mlab_Pin_Headers:SMD_2x03</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03" description="2x03 2.54 mm pitch header"/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -628,8 +724,12 @@
     <comp ref="JP1">
       <value>SolderJumper_2_Open</value>
       <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -641,8 +741,12 @@
     <comp ref="JP2">
       <value>Jumper_2_Bridged</value>
       <footprint>NetTie:NetTie-2_SMD_Pad0.5mm</footprint>
+      <fields>
+        <field name="Sim.Enable">0</field>
+      </fields>
       <libsource lib="Device" part="NetTie_2" description="Net tie, 2 pins"/>
       <property name="UST_ID" value=""/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -655,10 +759,12 @@
       <value>NL03KT330</value>
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">64fe1808f3b9d36f37fc944d</field>
       </fields>
       <libsource lib="Device" part="L_Ferrite_Small" description="Inductor with ferrite core, small symbol"/>
       <property name="UST_ID" value="64fe1808f3b9d36f37fc944d"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Inductor with ferrite core, small symbol"/>
@@ -670,10 +776,12 @@
       <value>BC817-25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8aea</field>
       </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="UST_ID" value="5c70984712875079b91f8aea"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
@@ -685,10 +793,12 @@
       <value>BC817-25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8aea</field>
       </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="UST_ID" value="5c70984712875079b91f8aea"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
@@ -700,10 +810,12 @@
       <value>BC817-25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8aea</field>
       </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="UST_ID" value="5c70984712875079b91f8aea"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
@@ -715,10 +827,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -730,10 +844,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -745,10 +861,12 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -760,10 +878,12 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -775,10 +895,12 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -790,10 +912,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -805,10 +929,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -820,10 +946,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -835,10 +963,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -850,10 +980,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -865,10 +997,12 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -880,10 +1014,12 @@
       <value>82R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8976</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8976"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -895,10 +1031,12 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -910,10 +1048,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -925,10 +1065,12 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -940,10 +1082,12 @@
       <value>18R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8973</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8973"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -955,10 +1099,12 @@
       <value>51R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8953</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8953"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -970,10 +1116,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -985,10 +1133,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1000,10 +1150,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1015,10 +1167,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1082,10 +1236,12 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8870-SEEPROM-AT24CS64-Datasheet.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b99</field>
       </fields>
       <libsource lib="Memory_EEPROM" part="AT24CS64-SSHM" description="I2C Serial EEPROM, 64Kb (8192x8) with Unique Serial Number, SO8"/>
       <property name="UST_ID" value="5c70984712875079b91f8b99"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="I2C Serial EEPROM, 64Kb (8192x8) with Unique Serial Number, SO8"/>
@@ -1098,10 +1254,12 @@
       <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
       <datasheet>http://www.atmel.com/Images/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f888e</field>
       </fields>
       <libsource lib="SPACEDOS01A_PCB01A-rescue" part="ATMEGA1284P-AU-atmel-DATALOGGER01A-rescue-CCP2019V01A-rescue" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f888e"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1111,10 +1269,12 @@
       <value>PCF85263A</value>
       <footprint>Package_SO:TSSOP-10_3x3mm_P0.5mm</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8a0c</field>
       </fields>
       <libsource lib="MLAB_IO" part="PCF85263A" description="RTC"/>
       <property name="UST_ID" value="5c70984612875079b91f8a0c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="RTC"/>
@@ -1126,10 +1286,12 @@
       <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
       <datasheet>https://www.ti.com/lit/ds/symlink/tps22919.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&amp;ts=1695074728777&amp;ref_url=https%253A%252F%252Feu.mouser.com%252F</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5dc501ee128750448eca1add</field>
       </fields>
       <libsource lib="MLAB_IO" part="TPS22919DCK" description=""/>
       <property name="UST_ID" value="5dc501ee128750448eca1add"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1140,10 +1302,12 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://cz.mouser.com/datasheet/2/698/REN_isl21080_DST_20040119-1998038.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6555c89a95a79cc5ac409c19</field>
       </fields>
       <libsource lib="Reference_Voltage" part="ISL21070CIH320Z-TK" description="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
       <property name="UST_ID" value="6555c89a95a79cc5ac409c19"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
@@ -1155,10 +1319,12 @@
       <value>8 MHz</value>
       <footprint>Mlab_XTAL:Crystal_HC49-4H_Vertical</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b0e</field>
       </fields>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
       <property name="UST_ID" value="5c70984712875079b91f8b0e"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Two pin crystal"/>
@@ -1171,10 +1337,12 @@
       <footprint>Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm</footprint>
       <datasheet>https://cz.mouser.com/datasheet/2/3/ABS07-3080027.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b1b</field>
       </fields>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
       <property name="UST_ID" value="5c70984712875079b91f8b1b"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_description" value="Two pin crystal"/>
@@ -1186,10 +1354,12 @@
       <value>47uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984812875079b91f8bbf</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984812875079b91f8bbf"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1201,10 +1371,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1216,10 +1388,12 @@
       <value>1nF/NP0</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984812875079b91f8ba6</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984812875079b91f8ba6"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1231,10 +1405,12 @@
       <value>47uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984812875079b91f8bbf</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984812875079b91f8bbf"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1246,10 +1422,12 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b53"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1261,10 +1439,12 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b53"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1277,10 +1457,12 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor, small symbol"/>
@@ -1292,10 +1474,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1307,10 +1491,12 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b53"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1323,10 +1509,12 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor, small symbol"/>
@@ -1338,10 +1526,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1353,10 +1543,12 @@
       <value>100R</value>
       <footprint>Mlab_L:FIR_0805</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f880f</field>
       </fields>
       <libsource lib="Device" part="C_Feedthrough" description="Feedthrough capacitor"/>
       <property name="UST_ID" value="5c70984412875079b91f880f"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Feedthrough capacitor"/>
@@ -1368,10 +1560,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1384,10 +1578,12 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor, small symbol"/>
@@ -1399,11 +1595,13 @@
       <value>BZX585-B5V6.115</value>
       <footprint>Diode_SMD:D_SOD-523</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">60879d38128750769ee58e48</field>
       </fields>
       <libsource lib="MLAB_D" part="D_ZENER" description=""/>
       <property name="UST_id" value=""/>
       <property name="UST_ID" value="60879d38128750769ee58e48"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1413,11 +1611,13 @@
       <value>BZX585-B5V6.115</value>
       <footprint>Diode_SMD:D_SOD-523</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">60879d38128750769ee58e48</field>
       </fields>
       <libsource lib="MLAB_D" part="D_ZENER" description=""/>
       <property name="UST_id" value=""/>
       <property name="UST_ID" value="60879d38128750769ee58e48"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1427,11 +1627,13 @@
       <value>BZX585-B5V6.115</value>
       <footprint>Diode_SMD:D_SOD-523</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">60879d38128750769ee58e48</field>
       </fields>
       <libsource lib="MLAB_D" part="D_ZENER" description=""/>
       <property name="UST_id" value=""/>
       <property name="UST_ID" value="60879d38128750769ee58e48"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1441,10 +1643,12 @@
       <value>RED</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f8896</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984412875079b91f8896"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -1456,11 +1660,13 @@
       <value>BZX585-B5V6.115</value>
       <footprint>Diode_SMD:D_SOD-523</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">60879d38128750769ee58e48</field>
       </fields>
       <libsource lib="MLAB_D" part="D_ZENER" description=""/>
       <property name="UST_id" value=""/>
       <property name="UST_ID" value="60879d38128750769ee58e48"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1470,10 +1676,12 @@
       <value>SR010-15 100mA </value>
       <footprint>Fuse:Fuse_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5cc331a7128750448e54e8fa</field>
       </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
       <property name="UST_ID" value="5cc331a7128750448e54e8fa"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient"/>
@@ -1485,10 +1693,12 @@
       <value>SM03B-GHS-TB</value>
       <footprint>Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">612880e51287500165a978de</field>
       </fields>
       <libsource lib="MLAB_CONNECTORS_JST" part="SM03B-GHS-TB" description=""/>
       <property name="UST_ID" value="612880e51287500165a978de"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1498,10 +1708,12 @@
       <value>NL03KT330</value>
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">64fe1808f3b9d36f37fc944d</field>
       </fields>
       <libsource lib="Device" part="L_Ferrite_Small" description="Inductor with ferrite core, small symbol"/>
       <property name="UST_ID" value="64fe1808f3b9d36f37fc944d"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Inductor with ferrite core, small symbol"/>
@@ -1513,10 +1725,12 @@
       <value>DFE252012P-4R7M</value>
       <footprint>Inductor_SMD:L_1008_2520Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5cc3309d128750448e54e8d8</field>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
       <property name="UST_ID" value="5cc3309d128750448e54e8d8"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Inductor, small symbol"/>
@@ -1528,10 +1742,12 @@
       <value>NL03KT330</value>
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">64fe1808f3b9d36f37fc944d</field>
       </fields>
       <libsource lib="Device" part="L_Ferrite_Small" description="Inductor with ferrite core, small symbol"/>
       <property name="UST_ID" value="64fe1808f3b9d36f37fc944d"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="dnp"/>
@@ -1545,10 +1761,12 @@
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
       <datasheet>https://www.tme.eu/Document/a05ae3504cfc60ed89e3a57fb94acf5e/VIKING-NL.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">64fe1808f3b9d36f37fc944d</field>
       </fields>
       <libsource lib="Device" part="L_Ferrite_Small" description="Inductor with ferrite core, small symbol"/>
       <property name="UST_ID" value="64fe1808f3b9d36f37fc944d"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Inductor with ferrite core, small symbol"/>
@@ -1560,10 +1778,12 @@
       <value>180R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f897c</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f897c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1575,10 +1795,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1642,10 +1864,12 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/609/DS4305_DS4305K-3122241.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6555c9ad95a79cc5ac409c46</field>
       </fields>
       <libsource lib="MLAB_IO" part="DS4305" description="Electronically Programmable Voltage Reference, 4.0V to 5.5V Single-Supply Operation, SOT23-5"/>
       <property name="UST_ID" value="6555c9ad95a79cc5ac409c46"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="Electronically Programmable Voltage Reference, 4.0V to 5.5V Single-Supply Operation, SOT23-5"/>
@@ -1658,10 +1882,12 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tps61322.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c7190ae1287500b4e112e04</field>
       </fields>
       <libsource lib="Regulator_Switching" part="TPS613222ADBV" description="1.8A Step-Up Converter, 5V Output Voltage, 0.9-5.5V Input Voltage, SOT-23-5"/>
       <property name="UST_ID" value="5c7190ae1287500b4e112e04"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="1.8A Step-Up Converter, 5V Output Voltage, 0.9-5.5V Input Voltage, SOT-23-5"/>
@@ -1674,10 +1900,12 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c7255e81287500b4e112ea2</field>
       </fields>
       <libsource lib="Regulator_Linear" part="MIC5504-3.3YM5" description="300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23"/>
       <property name="UST_ID" value="5c7255e81287500b4e112ea2"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_description" value="300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23"/>
@@ -1685,14 +1913,34 @@
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>c926709a-9595-42f9-89d7-bfbbbd243c77</tstamps>
     </comp>
+    <comp ref="V1">
+      <value>0.9</value>
+      <fields>
+        <field name="Sim.Device">V</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">DC</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="VDC" description="Voltage source, DC"/>
+      <property name="Sim.Pins" value="1=+ 2=-"/>
+      <property name="Sim.Type" value="DC"/>
+      <property name="Sim.Device" value="V"/>
+      <property name="Sheetname" value="power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <property name="ki_description" value="Voltage source, DC"/>
+      <property name="ki_keywords" value="simulation"/>
+      <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
+      <tstamps>53d2d00f-53a8-4f5a-8df8-01eab51404ca</tstamps>
+    </comp>
     <comp ref="C2">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1704,10 +1952,12 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65082f52462c6d9e72054238</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="65082f52462c6d9e72054238"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1719,10 +1969,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1734,10 +1986,12 @@
       <value>1pF/NP0 251R15S1R0AV4E</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b9f</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b9f"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1749,10 +2003,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1765,10 +2021,12 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor, small symbol"/>
@@ -1781,10 +2039,12 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor, small symbol"/>
@@ -1796,10 +2056,12 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b53"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1827,10 +2089,12 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor, small symbol"/>
@@ -1842,10 +2106,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1857,10 +2123,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1872,10 +2140,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1884,7 +2154,7 @@
       <tstamps>ca2d1a64-17b3-44f1-b23f-d94c96ea4c75</tstamps>
     </comp>
     <comp ref="C15">
-      <value>3n3</value>
+      <value>1nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">651abc26462c6d9e720551fa</field>
@@ -1929,7 +2199,7 @@
       <tstamps>2ceb1dc2-6538-40b3-ba7d-b8f445a4dcbf</tstamps>
     </comp>
     <comp ref="C18">
-      <value>3n3</value>
+      <value>1nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">651abc26462c6d9e720551fa</field>
@@ -1947,10 +2217,12 @@
       <value>1nF/NP0</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984812875079b91f8ba6</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984812875079b91f8ba6"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1963,10 +2235,12 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor, small symbol"/>
@@ -1979,10 +2253,12 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor, small symbol"/>
@@ -1994,10 +2270,12 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65082f52462c6d9e72054238</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="65082f52462c6d9e72054238"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -2009,10 +2287,12 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65082f52462c6d9e72054238</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="65082f52462c6d9e72054238"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -2025,10 +2305,12 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor, small symbol"/>
@@ -2040,10 +2322,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -2056,10 +2340,12 @@
       <footprint>Mlab_D:HAMAMATSU_S2744-09</footprint>
       <datasheet>https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/s2744-08_etc_kpin1049e.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">628d118cdc56076e9a2235e4</field>
       </fields>
       <libsource lib="Device" part="D_Photo" description="Photodiode"/>
       <property name="UST_ID" value="628d118cdc56076e9a2235e4"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Photodiode"/>
@@ -2071,10 +2357,12 @@
       <value>2SK2394-6</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">628d134fdc56076e9a223625</field>
       </fields>
       <libsource lib="MLAB_T" part="Q_NJFET_SDG" description="N-JFET transistor, source/drain/gate"/>
       <property name="UST_ID" value="628d134fdc56076e9a223625"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="N-JFET transistor, source/drain/gate"/>
@@ -2086,10 +2374,12 @@
       <value>10R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f896d</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f896d"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2101,10 +2391,12 @@
       <value>470R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8986</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8986"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2116,10 +2408,12 @@
       <value>470R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8986</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8986"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2131,10 +2425,12 @@
       <value>470R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8986</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8986"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2146,10 +2442,12 @@
       <value>470R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8986</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8986"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2161,10 +2459,12 @@
       <value>10M</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8aae</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984712875079b91f8aae"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2233,7 +2533,7 @@
       <tstamps>665f12d0-4dae-4b5b-8c9c-f7c992e08013</tstamps>
     </comp>
     <comp ref="R11">
-      <value>4k7</value>
+      <value>3k6</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f8995</field>
@@ -2251,10 +2551,12 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2266,10 +2568,12 @@
       <value>2k2</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8990</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8990"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2281,10 +2585,12 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2296,10 +2602,12 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2311,10 +2619,12 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2326,10 +2636,12 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2341,10 +2653,12 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2356,10 +2670,12 @@
       <value>470R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8986</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8986"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2371,10 +2687,12 @@
       <value>10R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f896d</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f896d"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2404,10 +2722,14 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>https://www.ti.com/lit/ds/symlink/opa2314.pdf</datasheet>
       <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type=X model="X 1 2 3 4 5 OPAMP"</field>
         <field name="UST_ID">5c70984412875079b91f879b</field>
       </fields>
       <libsource lib="MLAB_IO" part="AD8692" description="Op amp."/>
       <property name="UST_ID" value="5c70984412875079b91f879b"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=X model=&quot;X 1 2 3 4 5 OPAMP&quot;"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Op amp."/>
@@ -2436,10 +2758,12 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/609/MAX9075_MAX9077-3130929.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6555cb7295a79cc5ac409c68</field>
       </fields>
       <libsource lib="MLAB_IO" part="AD8691" description="Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5"/>
       <property name="UST_ID" value="6555cb7295a79cc5ac409c68"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5"/>
@@ -2452,10 +2776,12 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://www.ti.com/lit/ds/symlink/ts5a4594.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8a0d</field>
       </fields>
       <libsource lib="MLAB_IO" part="TS5A4594" description=""/>
       <property name="UST_ID" value="5c70984612875079b91f8a0d"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -2466,10 +2792,12 @@
       <footprint>Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad</footprint>
       <datasheet>https://sensirion.com/media/documents/33FD6951/624C4357/Datasheet_SHT4x.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65227831462c6d9e720559a1</field>
       </fields>
       <libsource lib="Sensor_Humidity" part="SHT4x" description="Digital Humidity and Temperature Sensor, +/-1%RH, +/-0.1degC, I2C, 1.08-3.6V, 16bit, DFN-4"/>
       <property name="UST_ID" value="65227831462c6d9e720559a1"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_description" value="Digital Humidity and Temperature Sensor, +/-1%RH, +/-0.1degC, I2C, 1.08-3.6V, 16bit, DFN-4"/>
@@ -2481,10 +2809,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -2496,10 +2826,12 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -2511,10 +2843,12 @@
       <value>YELLOW</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f8897</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984412875079b91f8897"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -2526,10 +2860,12 @@
       <value>YELLOW</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f8897</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984412875079b91f8897"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -2541,10 +2877,12 @@
       <value>USBC_USB4105-GF-A</value>
       <footprint>Mlab_CON:USBC GCT_USB4105-GF-A</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5fa0f94612875025b397795e</field>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="USBC_USB4105-GF-A" description="USB 2.0-only Type-C Receptacle connector"/>
       <property name="UST_ID" value="5fa0f94612875025b397795e"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
@@ -2556,10 +2894,12 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2571,10 +2911,12 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2586,10 +2928,12 @@
       <value>180R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f897c</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f897c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2601,10 +2945,12 @@
       <value>180R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f897c</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f897c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2616,10 +2962,12 @@
       <value>5k1</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5fa0fc3e12875025b3977997</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5fa0fc3e12875025b3977997"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2631,10 +2979,12 @@
       <value>5k1</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5fa0fc3e12875025b3977997</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5fa0fc3e12875025b3977997"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2646,10 +2996,12 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2662,10 +3014,12 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
       <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5e82e0691287502a334a778c</field>
       </fields>
       <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
       <property name="UST_ID" value="5e82e0691287502a334a778c"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
@@ -2678,10 +3032,12 @@
       <footprint>Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</footprint>
       <datasheet>https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf</datasheet>
       <fields>
+        <field name="Sim.Enable">0</field>
         <field name="UST_ID">605d7fe0128750769e769adb</field>
       </fields>
       <libsource lib="Interface_USB" part="FT231XQ" description="Full Speed USB to Full Handshake UART, QFN-20"/>
       <property name="UST_ID" value="605d7fe0128750769e769adb"/>
+      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
       <property name="ki_description" value="Full Speed USB to Full Handshake UART, QFN-20"/>
@@ -3417,6 +3773,22 @@
         <pin num="4" name="VSS" type="power_in"/>
       </pins>
     </libpart>
+    <libpart lib="Simulation_SPICE" part="VDC">
+      <description>Voltage source, DC</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">V</field>
+        <field name="Value">1</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Pins">1=+ 2=-</field>
+        <field name="Sim.Type">DC</field>
+        <field name="Sim.Device">V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
     <library logical="Connector">
@@ -3451,6 +3823,9 @@
     </library>
     <library logical="Sensor_Humidity">
       <uri>/usr/share/kicad/symbols//Sensor_Humidity.kicad_sym</uri>
+    </library>
+    <library logical="Simulation_SPICE">
+      <uri>/usr/share/kicad/symbols//Simulation_SPICE.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -3656,6 +4031,7 @@
       <node ref="U10" pin="36" pinfunction="(PCINT1/ADC1)PA1" pintype="bidirectional"/>
       <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
       <node ref="U3" pin="4" pinfunction="Vout" pintype="power_out"/>
+      <node ref="V1" pin="1" pintype="passive"/>
     </net>
     <net code="34" name="/cpu/~{RST}_PRG">
       <node ref="C43" pin="1" pintype="passive"/>
@@ -3818,6 +4194,7 @@
       <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="U4" pin="2" pinfunction="V-" pintype="power_in"/>
       <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="V1" pin="2" pintype="passive"/>
     </net>
     <net code="44" name="Net-(BT1-+)">
       <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
