@@ -1,4 +1,4 @@
-# USTSIPIN02B - Semiconductor ionizing radiation detector and spectrometer
+# USTSIPIN02 - Semiconductor ionizing radiation detector and spectrometer electronics
 
 It is intended for measurements of cosmic radiation and ionizing radiation dosimetry by using [c-Si](https://en.wikipedia.org/wiki/Crystalline_silicon) PIN diode sensor.  
 
@@ -7,9 +7,9 @@ It is intended for measurements of cosmic radiation and ionizing radiation dosim
 
 ### Technical parameters
 
-* Silicon PIN diode detector with 12.5 mm³ detection volume
+* Silicon PIN diode detector with 44 mm³ detection volume
 * The number of energy channels depends on the firmware
-* Deposited energy range from 200 keV to 12 MeV, the measurement range could be adjusted by altering values in analog front end
+* Deposited energy range from 200 keV to 12 MeV, the measurement range could be adjusted by altering values in the analog front end
 * Energy measurement resolution is better than 50 keV/channel but the exact value depends on firmware and analog front-end setup. 
 * Power supply 3.3 V / 3 mA
 * Integration time depends on specific firmware setup
