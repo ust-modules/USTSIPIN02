@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02.kicad_sch</source>
-    <date>Sat Dec  9 00:17:11 2023</date>
-    <tool>Eeschema 7.0.9-7.0.9~ubuntu23.04.1</tool>
+    <date>2025-02-04T23:15:52+0000</date>
+    <tool>Eeschema 8.0.8+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>USTSIPIN02B</title>
@@ -100,16 +100,18 @@
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Fiducial:Fiducial_1mm_Mask2mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Fiducial Marker"/>
       <property name="ki_keywords" value="fiducial marker"/>
+      <property name="ki_fp_filters" value="Fiducial*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7a47cbe1-1f9c-4b09-90c4-b75a2c1c42f6</tstamps>
     </comp>
@@ -117,16 +119,18 @@
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Fiducial:Fiducial_1mm_Mask2mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Fiducial Marker"/>
       <property name="ki_keywords" value="fiducial marker"/>
+      <property name="ki_fp_filters" value="Fiducial*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b5d5d3a5-dcb1-464e-a60e-271750a1dc23</tstamps>
     </comp>
@@ -134,16 +138,18 @@
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Fiducial:Fiducial_1mm_Mask2mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Fiducial Marker"/>
       <property name="ki_keywords" value="fiducial marker"/>
+      <property name="ki_fp_filters" value="Fiducial*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3247d27a-f411-474f-8c4c-872f17cc887f</tstamps>
     </comp>
@@ -151,16 +157,18 @@
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Fiducial:Fiducial_1mm_Mask2mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Fiducial Marker"/>
       <property name="ki_keywords" value="fiducial marker"/>
+      <property name="ki_fp_filters" value="Fiducial*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c04e1018-25e3-4d37-97d4-ec924b4e7a2f</tstamps>
     </comp>
@@ -168,16 +176,18 @@
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Fiducial:Fiducial_1mm_Mask2mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Fiducial Marker"/>
       <property name="ki_keywords" value="fiducial marker"/>
+      <property name="ki_fp_filters" value="Fiducial*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e164a208-a9f9-46a1-bfe0-00a12f4d66b2</tstamps>
     </comp>
@@ -185,16 +195,18 @@
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Fiducial:Fiducial_1mm_Mask2mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Fiducial Marker"/>
       <property name="ki_keywords" value="fiducial marker"/>
+      <property name="ki_fp_filters" value="Fiducial*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b6ba6b32-1b61-4973-ba0e-823a5d51bcf1</tstamps>
     </comp>
@@ -202,11 +214,13 @@
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -218,11 +232,13 @@
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -234,11 +250,13 @@
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -250,11 +268,13 @@
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -266,12 +286,13 @@
       <value>BMI-S-204-F</value>
       <footprint>RF_Shielding:Laird_Technologies_BMI-S-204-F_32.00x32.00mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c72751c1287500b4e11301a</field>
+        <field name="Footprint">RF_Shielding:Laird_Technologies_BMI-S-204-F_32.00x32.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="UST_ID" value="5c72751c1287500b4e11301a"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPIN02.kicad_sch"/>
       <property name="ki_keywords" value="HOLE, X, M"/>
@@ -282,15 +303,15 @@
       <value>KEYS2998</value>
       <footprint>Battery:BatteryHolder_Keystone_2998_1x6.8mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f87ea</field>
+        <field name="Footprint">Battery:BatteryHolder_Keystone_2998_1x6.8mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
       <property name="UST_ID" value="5c70984412875079b91f87ea"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Single-cell battery"/>
       <property name="ki_keywords" value="battery cell"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>dc503e7a-3881-44c7-9dce-fab3105d1bb4</tstamps>
@@ -299,16 +320,17 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b53"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>5987442d-5bb1-4a43-a673-9ef3c7a057e1</tstamps>
     </comp>
@@ -316,16 +338,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>ed55fefe-80c5-4480-be11-8e8c8330eddd</tstamps>
     </comp>
@@ -333,16 +356,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b1f6794</tstamps>
     </comp>
@@ -350,16 +374,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b1f69a6</tstamps>
     </comp>
@@ -367,16 +392,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b1f6a02</tstamps>
     </comp>
@@ -384,16 +410,17 @@
       <value>15pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b32</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b32"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b2480a8</tstamps>
     </comp>
@@ -401,16 +428,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b1f6b7d</tstamps>
     </comp>
@@ -418,16 +446,17 @@
       <value>15pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b32</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b32"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b24828c</tstamps>
     </comp>
@@ -435,16 +464,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b36fe27</tstamps>
     </comp>
@@ -452,16 +482,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b38c9ac</tstamps>
     </comp>
@@ -469,16 +500,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>b3800572-a914-46eb-b71a-3ff8dbed2cd8</tstamps>
     </comp>
@@ -486,16 +518,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b3a9d6d</tstamps>
     </comp>
@@ -504,16 +537,17 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Polarized capacitor, small symbol"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>6414621b-99ad-48d4-ba0e-6a813bb09b7e</tstamps>
     </comp>
@@ -521,16 +555,17 @@
       <value>4u7</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5e3ff8fc1287502a33bad7a3</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5e3ff8fc1287502a33bad7a3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b1e158f</tstamps>
     </comp>
@@ -538,16 +573,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>a593116c-245c-4f16-b069-eeb7e845fc59</tstamps>
     </comp>
@@ -555,16 +591,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b38bb8a</tstamps>
     </comp>
@@ -572,16 +609,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>bf4ba92b-7ef9-470e-ad0c-c3bee6df9f5b</tstamps>
     </comp>
@@ -589,16 +627,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>5c120615-7b34-4376-98c4-994ae5b3b131</tstamps>
     </comp>
@@ -606,16 +645,17 @@
       <value>RED</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f8896</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984412875079b91f8896"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Light emitting diode"/>
       <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>ae714cbb-f2d9-4a42-bd80-b9be40f0d7b2</tstamps>
     </comp>
@@ -623,16 +663,17 @@
       <value>GREEN</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f8895</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984412875079b91f8895"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Light emitting diode"/>
       <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>12e97984-6b6d-466f-8802-7b3f5d206135</tstamps>
     </comp>
@@ -640,16 +681,17 @@
       <value>BLUE</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8898</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984512875079b91f8898"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Light emitting diode"/>
       <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>37e1abbe-8c2d-4cbc-ab8f-1e65c08c6762</tstamps>
     </comp>
@@ -657,15 +699,15 @@
       <value>SM08B-GHS-TB</value>
       <footprint>Connector_JST:JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5fa0f75012875025b3977948</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_CONNECTORS_JST" part="SM08B-GHS-TB" description="1x08 2.54 mm pitch header"/>
       <property name="UST_ID" value="5fa0f75012875025b3977948"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="1x08 2.54 mm pitch header"/>
       <property name="ki_keywords" value="1x08, header, connector, pinheader"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>2458346e-82b5-4e31-be03-9d0019d4474b</tstamps>
@@ -675,14 +717,16 @@
       <footprint>Mlab_CON:FPS009-4200-0</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/448/Yamaichi_Electronics_08162018_FPS009-4200-0_B-1391393.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5cdd24d5128750448edda353</field>
+        <field name="Footprint">Mlab_CON:FPS009-4200-0</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/448/Yamaichi_Electronics_08162018_FPS009-4200-0_B-1391393.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="SD_Card-FPS009-4200-0" description=""/>
       <property name="UST_ID" value="5cdd24d5128750448edda353"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
+      <property name="ki_fp_filters" value="SD_Card_Receptacle"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>8cd2719d-1fa2-4690-bcdc-094173ae684e</tstamps>
     </comp>
@@ -690,15 +734,15 @@
       <value>SM06B-GHS-TB</value>
       <footprint>Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5fa0f70212875025b3977932</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_CONNECTORS_JST" part="SM06B-GHS-TB" description="1x07 2.54 mm pitch header"/>
       <property name="UST_ID" value="5fa0f70212875025b3977932"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="1x07 2.54 mm pitch header"/>
       <property name="ki_keywords" value="1x07, header, connector, pinheader"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>267d7e4f-3739-46f3-a9e5-db2a4b8b2da0</tstamps>
@@ -707,16 +751,17 @@
       <value>HEADER_2x03</value>
       <footprint>Mlab_Pin_Headers:SMD_2x03</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Mlab_Pin_Headers:SMD_2x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03" description="2x03 2.54 mm pitch header"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="exclude_from_bom"/>
       <property name="dnp"/>
-      <property name="ki_description" value="2x03 2.54 mm pitch header"/>
       <property name="ki_keywords" value="2x03, header, connector, pinheader"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b253fc7</tstamps>
@@ -725,16 +770,18 @@
       <value>SolderJumper_2_Open</value>
       <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Solder Jumper, 2-pole, open"/>
       <property name="ki_keywords" value="solder jumper SPST"/>
+      <property name="ki_fp_filters" value="SolderJumper*Open*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>2478a6e7-1dd9-4441-8257-f76832ff8e9d</tstamps>
     </comp>
@@ -742,16 +789,18 @@
       <value>Jumper_2_Bridged</value>
       <footprint>NetTie:NetTie-2_SMD_Pad0.5mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">NetTie:NetTie-2_SMD_Pad0.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="NetTie_2" description="Net tie, 2 pins"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Net tie, 2 pins"/>
       <property name="ki_keywords" value="net tie short"/>
+      <property name="ki_fp_filters" value="Net*Tie*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>55824d4d-4c8e-4744-92ea-e23250b1dce8</tstamps>
     </comp>
@@ -759,16 +808,17 @@
       <value>NL03KT330</value>
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">64fe1808f3b9d36f37fc944d</field>
+        <field name="Footprint">Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Ferrite_Small" description="Inductor with ferrite core, small symbol"/>
       <property name="UST_ID" value="64fe1808f3b9d36f37fc944d"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Inductor with ferrite core, small symbol"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>08455e85-6841-4ae7-a110-be0bdff0b4e1</tstamps>
     </comp>
@@ -776,15 +826,15 @@
       <value>BC817-25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8aea</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="UST_ID" value="5c70984712875079b91f8aea"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
       <property name="ki_keywords" value="transistor NPN"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>695b8cc0-c45a-4a70-9ea4-be73195c3754</tstamps>
@@ -793,15 +843,15 @@
       <value>BC817-25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8aea</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="UST_ID" value="5c70984712875079b91f8aea"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
       <property name="ki_keywords" value="transistor NPN"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>3201d6e2-a7c7-4cf6-aa67-f7f9205ecef7</tstamps>
@@ -810,15 +860,15 @@
       <value>BC817-25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8aea</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="UST_ID" value="5c70984712875079b91f8aea"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
       <property name="ki_keywords" value="transistor NPN"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>d0cd4fea-e621-47d8-b62c-12dac58a50c0</tstamps>
@@ -827,16 +877,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>b7c782d0-865e-47c5-94e8-762e94932712</tstamps>
     </comp>
@@ -844,16 +895,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>e87073a1-9949-4ebd-af10-603f84656564</tstamps>
     </comp>
@@ -861,16 +913,17 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>32da96d1-9299-4a78-bc2d-5cf97f090e49</tstamps>
     </comp>
@@ -878,16 +931,17 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>dd6f4fd9-4a63-4394-bb19-61c927a9eb21</tstamps>
     </comp>
@@ -895,16 +949,17 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b1e1a11</tstamps>
     </comp>
@@ -912,16 +967,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>88f349a4-ecca-4c79-bd3a-1ea4ba2064a8</tstamps>
     </comp>
@@ -929,16 +985,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>367570cd-d764-436e-a2d2-30a21e7265b4</tstamps>
     </comp>
@@ -946,16 +1003,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>7f210175-1bce-4ccd-9585-8970be71de68</tstamps>
     </comp>
@@ -963,16 +1021,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>a8b4ea89-6f58-45df-bee1-0c71b5c38ff1</tstamps>
     </comp>
@@ -980,16 +1039,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>3e2cc6d6-d223-4ebd-82bf-5723d1fd76b8</tstamps>
     </comp>
@@ -997,16 +1057,17 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>0f61b633-6749-447a-8162-37bccdf66fbe</tstamps>
     </comp>
@@ -1014,16 +1075,17 @@
       <value>82R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8976</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8976"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>ce7b0aea-0b34-49a1-b2fd-1fdd31930573</tstamps>
     </comp>
@@ -1031,16 +1093,17 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>fd3e0823-a4a6-42b2-9a29-2670362732e8</tstamps>
     </comp>
@@ -1048,16 +1111,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>53b6f0b4-9265-4d7e-bc33-6149590d063f</tstamps>
     </comp>
@@ -1065,16 +1129,17 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>9f86b7c3-5d85-41db-9ffa-cffe7c7d4bb1</tstamps>
     </comp>
@@ -1082,16 +1147,17 @@
       <value>18R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8973</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8973"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>bd8fa4eb-cc3b-4d25-9f80-6c475fc6f724</tstamps>
     </comp>
@@ -1099,16 +1165,17 @@
       <value>51R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8953</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8953"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>be8cb987-cb4a-4d27-ae49-4a5a17dabced</tstamps>
     </comp>
@@ -1116,16 +1183,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>cf9f2f6e-d07d-4d73-ab63-3a5d6f7bf112</tstamps>
     </comp>
@@ -1133,16 +1201,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>d0db7212-365e-49dc-a7f8-1127a5df79ae</tstamps>
     </comp>
@@ -1150,16 +1219,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>7c80284c-db4d-4e89-ba9f-b777bea62dcc</tstamps>
     </comp>
@@ -1167,16 +1237,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>39b41abc-e078-485e-a65f-1f591717dba0</tstamps>
     </comp>
@@ -1184,16 +1255,18 @@
       <value>Analog GND</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>b4eca9b8-ff73-493f-b1df-100c6995f9e5</tstamps>
     </comp>
@@ -1201,16 +1274,18 @@
       <value>PC3</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>fb09b9c0-cfbe-43f1-942c-ffd2ca86aa8a</tstamps>
     </comp>
@@ -1218,16 +1293,18 @@
       <value>PC4</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>8d14dae1-95d9-4f72-8c15-325b489aaad8</tstamps>
     </comp>
@@ -1236,16 +1313,17 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8870-SEEPROM-AT24CS64-Datasheet.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b99</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8870-SEEPROM-AT24CS64-Datasheet.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Memory_EEPROM" part="AT24CS64-SSHM" description="I2C Serial EEPROM, 64Kb (8192x8) with Unique Serial Number, SO8"/>
       <property name="UST_ID" value="5c70984712875079b91f8b99"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="I2C Serial EEPROM, 64Kb (8192x8) with Unique Serial Number, SO8"/>
       <property name="ki_keywords" value="I2C Serial EEPROM Nonvolatile Memory"/>
+      <property name="ki_fp_filters" value="SOIC*3.9x4.9mm*P1.27mm*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>282f6347-6c0c-4b73-956f-d66170fc153a</tstamps>
     </comp>
@@ -1254,12 +1332,13 @@
       <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
       <datasheet>http://www.atmel.com/Images/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f888e</field>
+        <field name="Footprint">Package_QFP:TQFP-44_10x10mm_P0.8mm</field>
+        <field name="Datasheet">http://www.atmel.com/Images/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="SPACEDOS01A_PCB01A-rescue" part="ATMEGA1284P-AU-atmel-DATALOGGER01A-rescue-CCP2019V01A-rescue" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f888e"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1269,15 +1348,15 @@
       <value>PCF85263A</value>
       <footprint>Package_SO:TSSOP-10_3x3mm_P0.5mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8a0c</field>
+        <field name="Footprint">Package_SO:TSSOP-10_3x3mm_P0.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_IO" part="PCF85263A" description="RTC"/>
       <property name="UST_ID" value="5c70984612875079b91f8a0c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="RTC"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b36b76c</tstamps>
     </comp>
@@ -1286,12 +1365,13 @@
       <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
       <datasheet>https://www.ti.com/lit/ds/symlink/tps22919.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&amp;ts=1695074728777&amp;ref_url=https%253A%252F%252Feu.mouser.com%252F</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5dc501ee128750448eca1add</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-363_SC-70-6</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tps22919.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&amp;ts=1695074728777&amp;ref_url=https%253A%252F%252Feu.mouser.com%252F</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_IO" part="TPS22919DCK" description=""/>
       <property name="UST_ID" value="5dc501ee128750448eca1add"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
@@ -1302,16 +1382,17 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://cz.mouser.com/datasheet/2/698/REN_isl21080_DST_20040119-1998038.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6555c89a95a79cc5ac409c19</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://cz.mouser.com/datasheet/2/698/REN_isl21080_DST_20040119-1998038.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Reference_Voltage" part="ISL21070CIH320Z-TK" description="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
       <property name="UST_ID" value="6555c89a95a79cc5ac409c19"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
       <property name="ki_keywords" value="Micropower Voltage Reference 2.0V"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>3e035475-d82e-4182-852e-248c5a811fde</tstamps>
     </comp>
@@ -1319,16 +1400,17 @@
       <value>8 MHz</value>
       <footprint>Mlab_XTAL:Crystal_HC49-4H_Vertical</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b0e</field>
+        <field name="Footprint">Mlab_XTAL:Crystal_HC49-4H_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
       <property name="UST_ID" value="5c70984712875079b91f8b0e"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Two pin crystal"/>
       <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b257330</tstamps>
     </comp>
@@ -1337,16 +1419,17 @@
       <footprint>Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm</footprint>
       <datasheet>https://cz.mouser.com/datasheet/2/3/ABS07-3080027.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b1b</field>
+        <field name="Footprint">Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm</field>
+        <field name="Datasheet">https://cz.mouser.com/datasheet/2/3/ABS07-3080027.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
       <property name="UST_ID" value="5c70984712875079b91f8b1b"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
-      <property name="ki_description" value="Two pin crystal"/>
       <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
       <sheetpath names="/cpu/" tstamps="/00000000-0000-0000-0000-00005c4aedd8/"/>
       <tstamps>00000000-0000-0000-0000-00005b36b778</tstamps>
     </comp>
@@ -1354,16 +1437,17 @@
       <value>47uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984812875079b91f8bbf</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984812875079b91f8bbf"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>df46ff14-edb6-451d-84cf-0161fdbf70c3</tstamps>
     </comp>
@@ -1371,16 +1455,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>2ba03e83-837d-4842-9cd8-7e85bf762b2d</tstamps>
     </comp>
@@ -1388,16 +1473,17 @@
       <value>1nF/NP0</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984812875079b91f8ba6</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984812875079b91f8ba6"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>27cd2a81-9e36-4a40-98a4-1bd1a73597a1</tstamps>
     </comp>
@@ -1405,16 +1491,17 @@
       <value>47uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984812875079b91f8bbf</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984812875079b91f8bbf"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c6d0ee7</tstamps>
     </comp>
@@ -1422,16 +1509,17 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b53"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>d794d75b-9645-4e5c-8d0a-e112fa960700</tstamps>
     </comp>
@@ -1439,16 +1527,17 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b53"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>7d3e7034-28c7-4db9-b66e-3d1123a5ffc8</tstamps>
     </comp>
@@ -1457,16 +1546,17 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Polarized capacitor, small symbol"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>7c17d645-bb8b-4495-920e-aa2e6014aa8a</tstamps>
     </comp>
@@ -1474,16 +1564,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>b8ed434d-bf06-4ba5-baef-ef76e03195e4</tstamps>
     </comp>
@@ -1491,16 +1582,17 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b53"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>899fd804-4bd1-42a6-82a1-cbede0877f90</tstamps>
     </comp>
@@ -1509,16 +1601,17 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Polarized capacitor, small symbol"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>37ccd04d-434c-4ded-a67a-b8805428ee47</tstamps>
     </comp>
@@ -1526,16 +1619,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>59dc7ff6-302a-4ac0-b744-e54e5d910cf2</tstamps>
     </comp>
@@ -1543,15 +1637,15 @@
       <value>100R</value>
       <footprint>Mlab_L:FIR_0805</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f880f</field>
+        <field name="Footprint">Mlab_L:FIR_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Feedthrough" description="Feedthrough capacitor"/>
       <property name="UST_ID" value="5c70984412875079b91f880f"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Feedthrough capacitor"/>
       <property name="ki_keywords" value="EMI filter feedthrough capacitor"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c6d0ef9</tstamps>
@@ -1560,16 +1654,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c6d0eff</tstamps>
     </comp>
@@ -1578,32 +1673,35 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Polarized capacitor, small symbol"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>2eceb45e-390d-4fbb-b6ae-b6df399a12d9</tstamps>
     </comp>
     <comp ref="D1">
       <value>BZX585-B5V6.115</value>
       <footprint>Diode_SMD:D_SOD-523</footprint>
+      <datasheet>https://www.tme.eu/Document/7f59fc987b8fce7e4ab18399d6e66bd1/BZX585-DTE.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">60879d38128750769ee58e48</field>
+        <field name="Footprint">Diode_SMD:D_SOD-523</field>
+        <field name="Datasheet">https://www.tme.eu/Document/7f59fc987b8fce7e4ab18399d6e66bd1/BZX585-DTE.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_D" part="D_ZENER" description=""/>
-      <property name="UST_id" value=""/>
       <property name="UST_ID" value="60879d38128750769ee58e48"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? SO* SM*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>b879c0f5-5e6c-4b4f-bb4c-6b0f2760c9ee</tstamps>
     </comp>
@@ -1611,15 +1709,16 @@
       <value>BZX585-B5V6.115</value>
       <footprint>Diode_SMD:D_SOD-523</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">60879d38128750769ee58e48</field>
+        <field name="Footprint">Diode_SMD:D_SOD-523</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_D" part="D_ZENER" description=""/>
-      <property name="UST_id" value=""/>
       <property name="UST_ID" value="60879d38128750769ee58e48"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? SO* SM*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>363e7773-410b-4748-9de0-cd06c7228234</tstamps>
     </comp>
@@ -1627,15 +1726,16 @@
       <value>BZX585-B5V6.115</value>
       <footprint>Diode_SMD:D_SOD-523</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">60879d38128750769ee58e48</field>
+        <field name="Footprint">Diode_SMD:D_SOD-523</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_D" part="D_ZENER" description=""/>
-      <property name="UST_id" value=""/>
       <property name="UST_ID" value="60879d38128750769ee58e48"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? SO* SM*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>32786df7-3b7f-4686-9166-738f3a9f5473</tstamps>
     </comp>
@@ -1643,49 +1743,53 @@
       <value>RED</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f8896</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984412875079b91f8896"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Light emitting diode"/>
       <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>8b633b1f-aecc-4019-952a-16045bf42da6</tstamps>
     </comp>
     <comp ref="D11">
       <value>BZX585-B5V6.115</value>
       <footprint>Diode_SMD:D_SOD-523</footprint>
+      <datasheet>https://www.tme.eu/Document/7f59fc987b8fce7e4ab18399d6e66bd1/BZX585-DTE.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">60879d38128750769ee58e48</field>
+        <field name="Footprint">Diode_SMD:D_SOD-523</field>
+        <field name="Datasheet">https://www.tme.eu/Document/7f59fc987b8fce7e4ab18399d6e66bd1/BZX585-DTE.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_D" part="D_ZENER" description=""/>
-      <property name="UST_id" value=""/>
       <property name="UST_ID" value="60879d38128750769ee58e48"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? SO* SM*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>b90d91e0-16ba-477a-ba58-bc2978e60290</tstamps>
     </comp>
     <comp ref="F2">
-      <value>SR010-15 100mA </value>
+      <value>SR010-15 100mA</value>
       <footprint>Fuse:Fuse_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5cc331a7128750448e54e8fa</field>
+        <field name="Footprint">Fuse:Fuse_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
       <property name="UST_ID" value="5cc331a7128750448e54e8fa"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient"/>
       <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
+      <property name="ki_fp_filters" value="*polyfuse* *PTC*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c58939a</tstamps>
     </comp>
@@ -1693,12 +1797,13 @@
       <value>SM03B-GHS-TB</value>
       <footprint>Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">612880e51287500165a978de</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_CONNECTORS_JST" part="SM03B-GHS-TB" description=""/>
       <property name="UST_ID" value="612880e51287500165a978de"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
@@ -1708,16 +1813,17 @@
       <value>NL03KT330</value>
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">64fe1808f3b9d36f37fc944d</field>
+        <field name="Footprint">Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Ferrite_Small" description="Inductor with ferrite core, small symbol"/>
       <property name="UST_ID" value="64fe1808f3b9d36f37fc944d"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Inductor with ferrite core, small symbol"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>a008f184-f7dd-45d1-b245-83809d7f45ec</tstamps>
     </comp>
@@ -1725,16 +1831,17 @@
       <value>DFE252012P-4R7M</value>
       <footprint>Inductor_SMD:L_1008_2520Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5cc3309d128750448e54e8d8</field>
+        <field name="Footprint">Inductor_SMD:L_1008_2520Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
       <property name="UST_ID" value="5cc3309d128750448e54e8d8"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Inductor, small symbol"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>00000000-0000-0000-0000-00005c6d0ea6</tstamps>
     </comp>
@@ -1742,17 +1849,18 @@
       <value>NL03KT330</value>
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">64fe1808f3b9d36f37fc944d</field>
+        <field name="Footprint">Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Ferrite_Small" description="Inductor with ferrite core, small symbol"/>
       <property name="UST_ID" value="64fe1808f3b9d36f37fc944d"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="dnp"/>
-      <property name="ki_description" value="Inductor with ferrite core, small symbol"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>27076724-429e-445f-8eba-f3a7be36bc2a</tstamps>
     </comp>
@@ -1761,16 +1869,17 @@
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
       <datasheet>https://www.tme.eu/Document/a05ae3504cfc60ed89e3a57fb94acf5e/VIKING-NL.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">64fe1808f3b9d36f37fc944d</field>
+        <field name="Footprint">Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.tme.eu/Document/a05ae3504cfc60ed89e3a57fb94acf5e/VIKING-NL.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Ferrite_Small" description="Inductor with ferrite core, small symbol"/>
       <property name="UST_ID" value="64fe1808f3b9d36f37fc944d"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Inductor with ferrite core, small symbol"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>18932cd8-95e1-4846-ae71-2b75ac5d05ae</tstamps>
     </comp>
@@ -1778,16 +1887,17 @@
       <value>180R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f897c</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f897c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>779a1bdb-bff9-4f28-8f0a-6b9a014f08a4</tstamps>
     </comp>
@@ -1795,16 +1905,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>7e9e5f5f-2ace-4664-839e-bda0860737f9</tstamps>
     </comp>
@@ -1812,16 +1923,18 @@
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>12f7df19-6155-4911-83e2-cea677530ad6</tstamps>
     </comp>
@@ -1829,16 +1942,18 @@
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>31e3c0ae-2c11-48d0-9572-d7278fc1a46f</tstamps>
     </comp>
@@ -1846,16 +1961,18 @@
       <value>Bias Voltage</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>843d9baf-816e-430a-9bae-391588633604</tstamps>
     </comp>
@@ -1864,16 +1981,17 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/609/DS4305_DS4305K-3122241.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6555c9ad95a79cc5ac409c46</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/609/DS4305_DS4305K-3122241.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_IO" part="DS4305" description="Electronically Programmable Voltage Reference, 4.0V to 5.5V Single-Supply Operation, SOT23-5"/>
       <property name="UST_ID" value="6555c9ad95a79cc5ac409c46"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Electronically Programmable Voltage Reference, 4.0V to 5.5V Single-Supply Operation, SOT23-5"/>
       <property name="ki_keywords" value="Pragrammable Voltage Reference"/>
+      <property name="ki_fp_filters" value="DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>4c81a963-8a79-42ce-bfc0-afeba0b4a855</tstamps>
     </comp>
@@ -1882,16 +2000,17 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tps61322.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c7190ae1287500b4e112e04</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps61322.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Regulator_Switching" part="TPS613222ADBV" description="1.8A Step-Up Converter, 5V Output Voltage, 0.9-5.5V Input Voltage, SOT-23-5"/>
       <property name="UST_ID" value="5c7190ae1287500b4e112e04"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="1.8A Step-Up Converter, 5V Output Voltage, 0.9-5.5V Input Voltage, SOT-23-5"/>
       <property name="ki_keywords" value="Boost converter"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>8d1d0282-84be-46a7-b296-21ab1c9bce21</tstamps>
     </comp>
@@ -1900,25 +2019,29 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c7255e81287500b4e112ea2</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Regulator_Linear" part="MIC5504-3.3YM5" description="300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23"/>
       <property name="UST_ID" value="5c7255e81287500b4e112ea2"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23"/>
       <property name="ki_keywords" value="Micrel LDO voltage regulator"/>
+      <property name="ki_fp_filters" value="SOT?23?5*"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>c926709a-9595-42f9-89d7-bfbbbd243c77</tstamps>
     </comp>
     <comp ref="V1">
       <value>0.9</value>
       <fields>
-        <field name="Sim.Device">V</field>
         <field name="Sim.Pins">1=+ 2=-</field>
         <field name="Sim.Type">DC</field>
+        <field name="Sim.Device">V</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Simulation_SPICE" part="VDC" description="Voltage source, DC"/>
       <property name="Sim.Pins" value="1=+ 2=-"/>
@@ -1926,7 +2049,6 @@
       <property name="Sim.Device" value="V"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
-      <property name="ki_description" value="Voltage source, DC"/>
       <property name="ki_keywords" value="simulation"/>
       <sheetpath names="/power/" tstamps="/00000000-0000-0000-0000-00005c69bcb4/"/>
       <tstamps>53d2d00f-53a8-4f5a-8df8-01eab51404ca</tstamps>
@@ -1935,16 +2057,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>4fa01c29-dcd3-4758-a464-5869d377f325</tstamps>
     </comp>
@@ -1952,16 +2075,17 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65082f52462c6d9e72054238</field>
+        <field name="Footprint">Capacitor_SMD:C_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="65082f52462c6d9e72054238"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>2563fe3a-9ad9-4b12-b08a-f2ec73e6c20e</tstamps>
     </comp>
@@ -1969,16 +2093,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>e3b7a3f1-3275-419b-ae90-aa880a194cce</tstamps>
     </comp>
@@ -1986,16 +2111,17 @@
       <value>1pF/NP0 251R15S1R0AV4E</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b9f</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b9f"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>e3c95e18-b536-4b34-9b90-6c75d040f659</tstamps>
     </comp>
@@ -2003,16 +2129,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>1d3ab3ff-11a0-43f3-8ef2-167fd99c312e</tstamps>
     </comp>
@@ -2021,16 +2148,17 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Polarized capacitor, small symbol"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>9b2f0b50-a734-4bbb-8d03-f956e0f4b71b</tstamps>
     </comp>
@@ -2039,16 +2167,17 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Polarized capacitor, small symbol"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>a6270134-66c9-49f7-bc56-15bf217ca70f</tstamps>
     </comp>
@@ -2056,16 +2185,17 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b53"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>cbbf4c77-801e-465f-af36-d02058c9c7e9</tstamps>
     </comp>
@@ -2074,13 +2204,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>0de1c18a-5997-4aca-b4bc-d8e2e6e98f9a</tstamps>
     </comp>
@@ -2089,16 +2222,17 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Polarized capacitor, small symbol"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>047f1c08-620e-4cbd-abee-47a958a85abf</tstamps>
     </comp>
@@ -2106,16 +2240,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>49c6a084-c0a3-4916-9cdc-7efd542c67b7</tstamps>
     </comp>
@@ -2123,16 +2258,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>fbddbfff-8bfa-439b-8203-36214637d447</tstamps>
     </comp>
@@ -2140,16 +2276,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>ca2d1a64-17b3-44f1-b23f-d94c96ea4c75</tstamps>
     </comp>
@@ -2158,13 +2295,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">651abc26462c6d9e720551fa</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="651abc26462c6d9e720551fa"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>47a57c41-56c2-428a-b659-0462009cc778</tstamps>
     </comp>
@@ -2173,13 +2313,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>f96385ab-03a9-4c63-b2e7-6f8e700e1318</tstamps>
     </comp>
@@ -2188,13 +2331,16 @@
       <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
       <fields>
         <field name="UST_ID">65082f52462c6d9e72054238</field>
+        <field name="Footprint">Capacitor_SMD:C_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="65082f52462c6d9e72054238"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>2ceb1dc2-6538-40b3-ba7d-b8f445a4dcbf</tstamps>
     </comp>
@@ -2203,13 +2349,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">651abc26462c6d9e720551fa</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="651abc26462c6d9e720551fa"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>a5581e3e-8967-44d4-907c-4f6e21f7d3db</tstamps>
     </comp>
@@ -2217,16 +2366,17 @@
       <value>1nF/NP0</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984812875079b91f8ba6</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984812875079b91f8ba6"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>0a33f020-7d83-42d4-83dd-2962f8917f39</tstamps>
     </comp>
@@ -2235,16 +2385,17 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Polarized capacitor, small symbol"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>d848177e-a096-43b6-8b46-4dca17438b58</tstamps>
     </comp>
@@ -2253,16 +2404,17 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Polarized capacitor, small symbol"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>b7fe75df-2280-4c62-a6ef-d2144242546b</tstamps>
     </comp>
@@ -2270,16 +2422,17 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65082f52462c6d9e72054238</field>
+        <field name="Footprint">Capacitor_SMD:C_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="65082f52462c6d9e72054238"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>dfeb5ad6-59df-47d5-b188-af2355eccfe4</tstamps>
     </comp>
@@ -2287,16 +2440,17 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65082f52462c6d9e72054238</field>
+        <field name="Footprint">Capacitor_SMD:C_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="65082f52462c6d9e72054238"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>e4f09331-5c41-474e-946c-845d42e77020</tstamps>
     </comp>
@@ -2305,16 +2459,17 @@
       <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65089dd0462c6d9e720542b3</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/TAJ-3165264.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Polarized capacitor, small symbol"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>f2c71046-3b68-42f9-bc15-60acb0a40bdb</tstamps>
     </comp>
@@ -2322,16 +2477,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>35639c2b-412f-4026-b456-9ad2e11b6199</tstamps>
     </comp>
@@ -2340,15 +2496,15 @@
       <footprint>Mlab_D:HAMAMATSU_S2744-09</footprint>
       <datasheet>https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/s2744-08_etc_kpin1049e.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">628d118cdc56076e9a2235e4</field>
+        <field name="Footprint">Mlab_D:HAMAMATSU_S2744-09</field>
+        <field name="Datasheet">https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/s2744-08_etc_kpin1049e.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="D_Photo" description="Photodiode"/>
       <property name="UST_ID" value="628d118cdc56076e9a2235e4"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Photodiode"/>
       <property name="ki_keywords" value="photodiode diode opto"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>2593a90b-c82a-4ae5-9074-90ce2830c198</tstamps>
@@ -2357,15 +2513,15 @@
       <value>2SK2394-6</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">628d134fdc56076e9a223625</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_T" part="Q_NJFET_SDG" description="N-JFET transistor, source/drain/gate"/>
       <property name="UST_ID" value="628d134fdc56076e9a223625"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="N-JFET transistor, source/drain/gate"/>
       <property name="ki_keywords" value="transistor NJFET N-JFET"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>7e3d8613-e33b-4644-b0ea-70ac5c1a6e25</tstamps>
@@ -2374,16 +2530,17 @@
       <value>10R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f896d</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f896d"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>46232e0b-54c8-490b-8105-24c40fb327a0</tstamps>
     </comp>
@@ -2391,16 +2548,17 @@
       <value>470R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8986</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8986"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>2a377438-e2ee-4028-9168-619aa4fb8e30</tstamps>
     </comp>
@@ -2408,16 +2566,17 @@
       <value>470R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8986</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8986"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>e13e13f1-e319-4794-b6d6-f3710970a046</tstamps>
     </comp>
@@ -2425,16 +2584,17 @@
       <value>470R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8986</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8986"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>7b4db88a-f390-4ec5-ae01-7973cf76dd34</tstamps>
     </comp>
@@ -2442,16 +2602,17 @@
       <value>470R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8986</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8986"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>d60b338e-4678-41f4-bcd5-0baaa9925ba1</tstamps>
     </comp>
@@ -2459,16 +2620,17 @@
       <value>10M</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8aae</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984712875079b91f8aae"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>8aaa9ea4-cb09-42cd-8f79-27041bc14507</tstamps>
     </comp>
@@ -2477,13 +2639,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8962</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>02fe758a-c6ce-4017-b1b2-be2ab6f2229d</tstamps>
     </comp>
@@ -2492,13 +2657,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f898c</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f898c"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>c70338ee-273a-4ceb-a785-936e43b1ea41</tstamps>
     </comp>
@@ -2507,13 +2675,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f8995</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>93f6d2c5-ebdf-47fe-a39b-66ce24dbc145</tstamps>
     </comp>
@@ -2522,13 +2693,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f898c</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f898c"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>665f12d0-4dae-4b5b-8c9c-f7c992e08013</tstamps>
     </comp>
@@ -2537,13 +2711,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f8995</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>668d5d12-f71a-4006-8714-e211a106d7f9</tstamps>
     </comp>
@@ -2551,16 +2728,17 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>bfeb3053-d551-4623-94d7-3aae21f0ab9a</tstamps>
     </comp>
@@ -2568,16 +2746,17 @@
       <value>2k2</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8990</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8990"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>01ccc31a-702f-4f83-a25b-2790c12807bf</tstamps>
     </comp>
@@ -2585,16 +2764,17 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>64173db9-7e97-4420-b74d-c2c54f8347a4</tstamps>
     </comp>
@@ -2602,16 +2782,17 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>699b5e27-5e19-482a-b489-399e7151728b</tstamps>
     </comp>
@@ -2619,16 +2800,17 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>f82f184e-055c-4a70-9905-56b328ede273</tstamps>
     </comp>
@@ -2636,16 +2818,17 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>f54fbe75-f537-4bed-8062-e83a153f540f</tstamps>
     </comp>
@@ -2653,16 +2836,17 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>a365650e-cb89-4ce8-a8e3-acce5374afb5</tstamps>
     </comp>
@@ -2670,16 +2854,17 @@
       <value>470R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8986</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8986"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>69331d3a-c29c-4bd1-ba2c-fa3d11d09c57</tstamps>
     </comp>
@@ -2687,16 +2872,17 @@
       <value>10R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f896d</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f896d"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>3e21da03-b72f-4a6a-8569-7829e6cae459</tstamps>
     </comp>
@@ -2704,16 +2890,18 @@
       <value>Signal</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="UST_ID" value=""/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>9ff76561-ea48-4c79-b271-34c3730fc0da</tstamps>
     </comp>
@@ -2722,9 +2910,12 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>https://www.ti.com/lit/ds/symlink/opa2314.pdf</datasheet>
       <fields>
+        <field name="UST_ID">5c70984412875079b91f879b</field>
         <field name="Sim.Device">SPICE</field>
         <field name="Sim.Params">type=X model="X 1 2 3 4 5 OPAMP"</field>
-        <field name="UST_ID">5c70984412875079b91f879b</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/opa2314.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_IO" part="AD8692" description="Op amp."/>
       <property name="UST_ID" value="5c70984412875079b91f879b"/>
@@ -2732,7 +2923,6 @@
       <property name="Sim.Params" value="type=X model=&quot;X 1 2 3 4 5 OPAMP&quot;"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Op amp."/>
       <property name="ki_keywords" value="AmpliOp"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>6c74da7d-93ec-4a4e-aa05-f97d9c5c217c 17f7878b-e2c1-41f4-97a1-dcdef6b7bca6</tstamps>
@@ -2743,12 +2933,14 @@
       <datasheet>https://www.ti.com/lit/ds/symlink/opa2314.pdf</datasheet>
       <fields>
         <field name="UST_ID">5c70984412875079b91f879b</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/opa2314.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_IO" part="AD8692" description="Op amp."/>
       <property name="UST_ID" value="5c70984412875079b91f879b"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Op amp."/>
       <property name="ki_keywords" value="AmpliOp"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>f9b7db68-6482-49c2-a242-106d2d1dbd1b 6bb48261-d4c6-4239-a69b-1a86a696c517</tstamps>
@@ -2758,16 +2950,17 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://eu.mouser.com/datasheet/2/609/MAX9075_MAX9077-3130929.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">6555cb7295a79cc5ac409c68</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/609/MAX9075_MAX9077-3130929.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_IO" part="AD8691" description="Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5"/>
       <property name="UST_ID" value="6555cb7295a79cc5ac409c68"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5"/>
       <property name="ki_keywords" value="single opamp"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>093140b9-e234-42b3-b735-05eeeb764d39</tstamps>
     </comp>
@@ -2776,12 +2969,13 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://www.ti.com/lit/ds/symlink/ts5a4594.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8a0d</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/ts5a4594.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_IO" part="TS5A4594" description=""/>
       <property name="UST_ID" value="5c70984612875079b91f8a0d"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
@@ -2792,16 +2986,17 @@
       <footprint>Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad</footprint>
       <datasheet>https://sensirion.com/media/documents/33FD6951/624C4357/Datasheet_SHT4x.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">65227831462c6d9e720559a1</field>
+        <field name="Footprint">Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad</field>
+        <field name="Datasheet">https://sensirion.com/media/documents/33FD6951/624C4357/Datasheet_SHT4x.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Sensor_Humidity" part="SHT4x" description="Digital Humidity and Temperature Sensor, +/-1%RH, +/-0.1degC, I2C, 1.08-3.6V, 16bit, DFN-4"/>
       <property name="UST_ID" value="65227831462c6d9e720559a1"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
-      <property name="ki_description" value="Digital Humidity and Temperature Sensor, +/-1%RH, +/-0.1degC, I2C, 1.08-3.6V, 16bit, DFN-4"/>
       <property name="ki_keywords" value="Sensirion environment environmental measurement digital SHT40 SHT41 SHT45"/>
+      <property name="ki_fp_filters" value="Sensirion?DFN*1.5x1.5mm*P0.8mm*SHT4x*"/>
       <sheetpath names="/sensor/" tstamps="/df946b97-ee48-4dc9-bb94-44edab77d662/"/>
       <tstamps>9240e896-e0e2-47eb-9cbf-5c85ee539d54</tstamps>
     </comp>
@@ -2809,16 +3004,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>f7cfc4ac-9487-409e-b052-3ba713824729</tstamps>
     </comp>
@@ -2826,16 +3022,17 @@
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>3e8fea6a-946f-47e8-8d57-324dde7ab952</tstamps>
     </comp>
@@ -2843,16 +3040,17 @@
       <value>YELLOW</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f8897</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984412875079b91f8897"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Light emitting diode"/>
       <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>a0b9a815-085e-4106-8715-5bf220a54571</tstamps>
     </comp>
@@ -2860,16 +3058,17 @@
       <value>YELLOW</value>
       <footprint>LED_SMD:LED_1206_3216Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984412875079b91f8897</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="UST_ID" value="5c70984412875079b91f8897"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Light emitting diode"/>
       <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>6f42553c-9b73-4963-a076-9fb26097d4b8</tstamps>
     </comp>
@@ -2877,16 +3076,17 @@
       <value>USBC_USB4105-GF-A</value>
       <footprint>Mlab_CON:USBC GCT_USB4105-GF-A</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5fa0f94612875025b397795e</field>
+        <field name="Footprint">Mlab_CON:USBC GCT_USB4105-GF-A</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="USBC_USB4105-GF-A" description="USB 2.0-only Type-C Receptacle connector"/>
       <property name="UST_ID" value="5fa0f94612875025b397795e"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <property name="ki_fp_filters" value="USB*C*Receptacle*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>d1cb0386-adae-4e03-8531-f8fdae757547</tstamps>
     </comp>
@@ -2894,16 +3094,17 @@
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984612875079b91f8995</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>f831cf2a-24c7-4bb2-a611-b0b171375769</tstamps>
     </comp>
@@ -2911,16 +3112,17 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8962</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>060ff522-9f00-40a3-88f3-5d39bf52ba7e</tstamps>
     </comp>
@@ -2928,16 +3130,17 @@
       <value>180R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f897c</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f897c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>34915f45-8424-4cd2-b003-07ae310afcc4</tstamps>
     </comp>
@@ -2945,16 +3148,17 @@
       <value>180R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f897c</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f897c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>0ee48d60-9858-425c-9cbf-6f73674a8f62</tstamps>
     </comp>
@@ -2962,16 +3166,17 @@
       <value>5k1</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5fa0fc3e12875025b3977997</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5fa0fc3e12875025b3977997"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>c0fd8acc-5269-4411-bdb9-f66324470379</tstamps>
     </comp>
@@ -2979,16 +3184,17 @@
       <value>5k1</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5fa0fc3e12875025b3977997</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5fa0fc3e12875025b3977997"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>6d2a6f35-151a-4dd5-80a7-2438bc38a2e4</tstamps>
     </comp>
@@ -2996,16 +3202,17 @@
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8977"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>12467da3-84af-45ed-b33a-61b514c307ac</tstamps>
     </comp>
@@ -3014,16 +3221,17 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
       <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">5e82e0691287502a334a778c</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
       <property name="UST_ID" value="5e82e0691287502a334a778c"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
       <property name="ki_keywords" value="usb ethernet video"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>ea66e15c-f61e-4c68-94c6-07943575d0b4</tstamps>
     </comp>
@@ -3032,16 +3240,17 @@
       <footprint>Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</footprint>
       <datasheet>https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf</datasheet>
       <fields>
-        <field name="Sim.Enable">0</field>
         <field name="UST_ID">605d7fe0128750769e769adb</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</field>
+        <field name="Datasheet">https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Interface_USB" part="FT231XQ" description="Full Speed USB to Full Handshake UART, QFN-20"/>
       <property name="UST_ID" value="605d7fe0128750769e769adb"/>
-      <property name="Sim.Enable" value="0"/>
       <property name="Sheetname" value="USB interface"/>
       <property name="Sheetfile" value="usb.kicad_sch"/>
-      <property name="ki_description" value="Full Speed USB to Full Handshake UART, QFN-20"/>
       <property name="ki_keywords" value="FTDI USB UART interface converter"/>
+      <property name="ki_fp_filters" value="QFN*4x4mm*P0.5mm*"/>
       <sheetpath names="/USB interface/" tstamps="/19d1d659-a959-4bd5-b510-08a4dbcee178/"/>
       <tstamps>4c7921eb-6103-4d7d-83aa-86ce7f36bb60</tstamps>
     </comp>
@@ -3057,7 +3266,9 @@
       <fields>
         <field name="Reference">TP</field>
         <field name="Value">TestPoint</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">test point</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -3069,7 +3280,9 @@
       <fields>
         <field name="Reference">BT</field>
         <field name="Value">Battery_Cell</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Single-cell battery</field>
       </fields>
       <pins>
         <pin num="1" name="+" type="passive"/>
@@ -3085,7 +3298,9 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3098,7 +3313,9 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C_Feedthrough</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Feedthrough capacitor</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -3115,7 +3332,9 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C_Polarized_Small</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small symbol</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3131,7 +3350,9 @@
       <fields>
         <field name="Reference">Y</field>
         <field name="Value">Crystal</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Two pin crystal</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -3144,7 +3365,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">D_Photo</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Photodiode</field>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -3162,7 +3385,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">LED</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -3181,7 +3406,9 @@
       <fields>
         <field name="Reference">L</field>
         <field name="Value">L_Ferrite_Small</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Inductor with ferrite core, small symbol</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3200,7 +3427,9 @@
       <fields>
         <field name="Reference">L</field>
         <field name="Value">L_Small</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Inductor, small symbol</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3216,7 +3445,9 @@
       <fields>
         <field name="Reference">NT</field>
         <field name="Value">NetTie_2</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Net tie, 2 pins</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -3233,7 +3464,9 @@
       <fields>
         <field name="Reference">F</field>
         <field name="Value">Polyfuse</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Resettable fuse, polymeric positive temperature coefficient</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3246,7 +3479,9 @@
       <fields>
         <field name="Reference">Q</field>
         <field name="Value">Q_NPN_BEC</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">NPN transistor, base/emitter/collector</field>
       </fields>
       <pins>
         <pin num="1" name="B" type="input"/>
@@ -3263,7 +3498,9 @@
       <fields>
         <field name="Reference">R</field>
         <field name="Value">R</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -3281,6 +3518,7 @@
         <field name="Value">FT231XQ</field>
         <field name="Footprint">Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</field>
         <field name="Datasheet">https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf</field>
+        <field name="Description">Full Speed USB to Full Handshake UART, QFN-20</field>
       </fields>
       <pins>
         <pin num="1" name="RXD" type="input"/>
@@ -3315,7 +3553,9 @@
       <fields>
         <field name="Reference">JP</field>
         <field name="Value">SolderJumper_2_Open</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
       </fields>
       <pins>
         <pin num="1" name="A" type="passive"/>
@@ -3330,6 +3570,8 @@
         <field name="Reference">J</field>
         <field name="Value">SD_Card-FPS009-4200-0</field>
         <field name="Footprint">10067847-001</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="CD/DAT3" type="input"/>
@@ -3353,6 +3595,8 @@
         <field name="Reference">J</field>
         <field name="Value">USBC_USB4105-GF-A</field>
         <field name="Footprint">Mlab_CON:USBC GCT_USB4105-GF-A</field>
+        <field name="Datasheet"/>
+        <field name="Description">USB 2.0-only Type-C Receptacle connector</field>
       </fields>
       <pins>
         <pin num="A1/B12" name="GND" type="passive"/>
@@ -3378,6 +3622,8 @@
         <field name="Reference">J</field>
         <field name="Value">SM03B-GHS-TB</field>
         <field name="Footprint">Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -3392,6 +3638,8 @@
         <field name="Reference">J</field>
         <field name="Value">SM06B-GHS-TB</field>
         <field name="Footprint">Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">1x07 2.54 mm pitch header</field>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -3409,6 +3657,8 @@
         <field name="Reference">J</field>
         <field name="Value">SM08B-GHS-TB</field>
         <field name="Footprint">Connector_JST:JST_GH_SM08B-GHS-TB_1x8-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">1x08 2.54 mm pitch header</field>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -3431,6 +3681,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">D_ZENER</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -3442,6 +3695,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">HEADER_2x03</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">2x03 2.54 mm pitch header</field>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -3461,6 +3717,8 @@
         <field name="Reference">U</field>
         <field name="Value">AD8691</field>
         <field name="Footprint">TSOT-5</field>
+        <field name="Datasheet"/>
+        <field name="Description">Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5</field>
       </fields>
       <pins>
         <pin num="1" name="" type="output"/>
@@ -3478,6 +3736,7 @@
         <field name="Value">AD8692</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet">https://www.ti.com/lit/ds/symlink/opa2314.pdf</field>
+        <field name="Description">Op amp.</field>
         <field name="UST_ID">5c70984412875079b91f879b</field>
       </fields>
       <pins>
@@ -3503,6 +3762,8 @@
         <field name="Value">DS4305</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
         <field name="Datasheet">https://eu.mouser.com/datasheet/2/609/DS4305_DS4305K-3122241.pdf</field>
+        <field name="Description">Electronically Programmable Voltage Reference, 4.0V to 5.5V Single-Supply Operation, SOT23-5</field>
+        <field name="UST_ID"/>
       </fields>
       <pins>
         <pin num="1" name="~{ADJ}" type="input"/>
@@ -3518,6 +3779,8 @@
         <field name="Reference">U12</field>
         <field name="Value">PCF85263A</field>
         <field name="Footprint">Package_SO:TSSOP-10_3x3mm_P0.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">RTC</field>
         <field name="UST_ID">5c70984612875079b91f8a0c</field>
       </fields>
       <pins>
@@ -3540,6 +3803,7 @@
         <field name="Value">TPS22919DCK</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-363_SC-70-6</field>
         <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tps22919.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&amp;ts=1695074728777&amp;ref_url=https%253A%252F%252Feu.mouser.com%252F</field>
+        <field name="Description"/>
         <field name="UST_ID">5dc501ee128750448eca1add</field>
       </fields>
       <pins>
@@ -3555,6 +3819,9 @@
       <fields>
         <field name="Reference">U</field>
         <field name="Value">TS5A4594</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="COM" type="passive"/>
@@ -3568,6 +3835,9 @@
       <fields>
         <field name="Reference">M</field>
         <field name="Value">HOLE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -3579,7 +3849,9 @@
       <fields>
         <field name="Reference">Q?</field>
         <field name="Value">Q_NJFET_SDG</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">N-JFET transistor, source/drain/gate</field>
       </fields>
       <pins>
         <pin num="1" name="S" type="passive"/>
@@ -3596,7 +3868,9 @@
       <fields>
         <field name="Reference">FID</field>
         <field name="Value">Fiducial</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Fiducial Marker</field>
       </fields>
     </libpart>
     <libpart lib="Memory_EEPROM" part="AT24CS64-SSHM">
@@ -3610,6 +3884,7 @@
         <field name="Value">AT24CS64-SSHM</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8870-SEEPROM-AT24CS64-Datasheet.pdf</field>
+        <field name="Description">I2C Serial EEPROM, 64Kb (8192x8) with Unique Serial Number, SO8</field>
       </fields>
       <pins>
         <pin num="1" name="A0" type="input"/>
@@ -3633,6 +3908,7 @@
         <field name="Value">USBLC6-2SC6</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
         <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="Description">Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</field>
       </fields>
       <pins>
         <pin num="1" name="I/O1" type="passive"/>
@@ -3654,6 +3930,7 @@
         <field name="Value">ISL21070CIH320Z-TK</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
         <field name="Datasheet">http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</field>
+        <field name="Description">2.0V 25μA Micropower Voltage Reference, SOT-23</field>
       </fields>
       <pins>
         <pin num="1" name="Vin" type="power_in"/>
@@ -3672,6 +3949,7 @@
         <field name="Value">MIC5504-3.3YM5</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
         <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf</field>
+        <field name="Description">300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23</field>
       </fields>
       <pins>
         <pin num="1" name="VIN" type="power_in"/>
@@ -3692,6 +3970,7 @@
         <field name="Value">TPS613222ADBV</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
         <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps61322.pdf</field>
+        <field name="Description">1.8A Step-Up Converter, 5V Output Voltage, 0.9-5.5V Input Voltage, SOT-23-5</field>
       </fields>
       <pins>
         <pin num="1" name="SW" type="power_in"/>
@@ -3706,6 +3985,8 @@
         <field name="Reference">U</field>
         <field name="Value">ATMEGA1284P-AU-atmel-DATALOGGER01A-rescue-CCP2019V01A-rescue</field>
         <field name="Footprint">TQFP44</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="(PCINT13/MOSI)PB5" type="bidirectional"/>
@@ -3765,6 +4046,7 @@
         <field name="Value">SHT4x</field>
         <field name="Footprint">Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad</field>
         <field name="Datasheet">https://sensirion.com/media/documents/33FD6951/624C4357/Datasheet_SHT4x.pdf</field>
+        <field name="Description">Digital Humidity and Temperature Sensor, +/-1%RH, +/-0.1degC, I2C, 1.08-3.6V, 16bit, DFN-4</field>
       </fields>
       <pins>
         <pin num="1" name="SDA" type="bidirectional"/>
@@ -3779,7 +4061,9 @@
       <fields>
         <field name="Reference">V</field>
         <field name="Value">1</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Voltage source, DC</field>
         <field name="Sim.Pins">1=+ 2=-</field>
         <field name="Sim.Type">DC</field>
         <field name="Sim.Device">V</field>
