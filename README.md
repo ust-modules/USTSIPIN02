@@ -19,13 +19,13 @@ It is intended for measurements of cosmic radiation and ionizing radiation dosim
 
 ### Use cases
 
-  * [LABDOS01](https://github.com/UniversalScientificTechnologies/LABDOS01)- open-source laboratory dosimeter and spectrometer
-  * [SPACEDOS03](https://github.com/UniversalScientificTechnologies/SPACEDOS03) - experimental spacecraft dosimeter and spectrometer
-  * [AIRDOS03](https://www.ust.cz/UST-dosimeters/AIRDOS/#airdos03-uavdos) UAV ionizing radiation sensor for [TF-ATMON system](https://www.thunderfly.cz/tf-atmon.html).  
+  * [LABDOS01](https://docs.dos.ust.cz/labdos/LABDOS01)- open-source laboratory dosimeter and spectrometer
+  * [SPACEDOS03](https://docs.dos.ust.cz/spacedos/SPACEDOS03) - experimental spacecraft dosimeter and spectrometer
+  * [AIRDOS03](https://docs.dos.ust.cz/airdos/AIRDOS03) UAV ionizing radiation sensor for [TF-ATMON system](https://docs.thunderfly.cz/instruments/TF-ATMON).  
 
 ### USB interface
 
-The main user interface is with a USB-C connector. See the [LABDOS01](https://github.com/UniversalScientificTechnologies/LABDOS01) for a detailed description. 
+The main user interface is with a USB-C connector. See the [LABDOS01](https://docs.dos.ust.cz/labdos/LABDOS01) for a detailed description. 
 
 ### UART interface
 
