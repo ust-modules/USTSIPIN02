@@ -59,13 +59,13 @@ Another usage is the connection to an autopilot in a UAV. See the [AIRDOS03](htt
 
 ###  Bootloader Programming Interface
 
-The connector is used for service actions only. It is not accessible by users in normal circumstances.
+The connector is used for service actions only. It is not accessible by users in normal circumstances. The user firmware changes use the programmed bootloader. 
 
-|Pin name | Function | Description |
-|---|---|----|
-| PB5  | MOSI | | 
-| PB6  | MISO | |
-| PB7  | CLK  | |
-| #RST | RST# | |
-| GND  | GND  | |
+|MCU Pin name | Function |
+|-------------|----------|
+| PB5  | MOSI |
+| PB6  | MISO |
+| PB7  | CLK  |
+| #RST | RST# |
+| GND  | GND  |
 
