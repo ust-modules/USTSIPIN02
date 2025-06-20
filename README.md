@@ -9,9 +9,9 @@ It is intended for measurements of cosmic radiation and ionizing radiation dosim
 
 * Silicon PIN diode detector with 44 mm³ detection volume
 * The number of energy channels depends on the firmware
-* Deposited energy range from 200 keV to 12 MeV, the measurement range could be adjusted by altering values in the analog front end
-* Energy measurement resolution is better than 50 keV/channel but the exact value depends on firmware and analog front-end setup. 
-* Power supply 3.3 V / 3 mA
+* Deposited energy range from 60 keV to 7 MeV, the measurement range could be adjusted by altering values in the analog front end
+* Energy measurement resolution 15 ±2 keV (the exact value depends on firmware and analog front-end setup). 
+* Power supply 3.3 to 5V / 3 mA
 * Integration time depends on specific firmware setup
 * Interface - RS232 TTL on JST-GH connector or USB-C device
 * Dimensions - 91mm x 51mm x 12mm
