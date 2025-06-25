@@ -8580,7 +8580,7 @@
 				(hide yes)
 			)
 		)
-		(property "UST_ID" "651abc26462c6d9e720551fa"
+		(property "UST_ID" "5c70984812875079b91f8ba6"
 			(at 170.18 170.18 0)
 			(effects
 				(font
@@ -9361,7 +9361,7 @@
 				(hide yes)
 			)
 		)
-		(property "UST_ID" "5c70984612875079b91f8995"
+		(property "UST_ID" ""
 			(at 219.71 129.54 0)
 			(effects
 				(font
@@ -10895,7 +10895,7 @@
 				(hide yes)
 			)
 		)
-		(property "UST_ID" "651abc26462c6d9e720551fa"
+		(property "UST_ID" "5c70984812875079b91f8ba6"
 			(at 219.71 121.92 0)
 			(effects
 				(font
