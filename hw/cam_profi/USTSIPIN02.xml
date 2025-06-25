@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPIN02.kicad_sch</source>
-    <date>2025-06-24T14:07:21+0000</date>
+    <date>2025-06-25T08:51:36+0000</date>
     <tool>Eeschema 9.0.1+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1147,13 +1147,13 @@
       <value>18R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8973</field>
+        <field name="UST_ID">5c70984512875079b91f896e</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8973"/>
+      <property name="UST_ID" value="5c70984512875079b91f896e"/>
       <property name="Sheetname" value="cpu"/>
       <property name="Sheetfile" value="cpu.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -1637,13 +1637,13 @@
       <value>100R</value>
       <footprint>Mlab_L:FIR_0805</footprint>
       <fields>
-        <field name="UST_ID">5c70984412875079b91f880f</field>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
         <field name="Footprint">Mlab_L:FIR_0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Feedthrough" description="Feedthrough capacitor"/>
-      <property name="UST_ID" value="5c70984412875079b91f880f"/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value="power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <property name="ki_keywords" value="EMI filter feedthrough capacitor"/>
@@ -2298,13 +2298,13 @@
       <value>1nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">651abc26462c6d9e720551fa</field>
+        <field name="UST_ID">5c70984812875079b91f8ba6</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="651abc26462c6d9e720551fa"/>
+      <property name="UST_ID" value="5c70984812875079b91f8ba6"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -2352,13 +2352,13 @@
       <value>1nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">651abc26462c6d9e720551fa</field>
+        <field name="UST_ID">5c70984812875079b91f8ba6</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="651abc26462c6d9e720551fa"/>
+      <property name="UST_ID" value="5c70984812875079b91f8ba6"/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -2714,13 +2714,13 @@
       <value>3k6</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984612875079b91f8995</field>
+        <field name="UST_ID"/>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984612875079b91f8995"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value="sensor"/>
       <property name="Sheetfile" value="sensor.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
