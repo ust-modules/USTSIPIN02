@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.1+1"
+      "Version": "9.0.7+1"
     },
-    "CreationDate": "2025-06-27T17:56:44+00:00"
+    "CreationDate": "2026-03-16T02:58:45+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -54,12 +54,12 @@
     },
     {
       "Path": "USTSIPIN02-In1_Cu.gbr",
-      "FileFunction": "Copper,L5,Inr",
+      "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "USTSIPIN02-In2_Cu.gbr",
-      "FileFunction": "Copper,L7,Inr",
+      "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
